@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-21 | [Carmageddon updated](https://macsourceports.com/game/carmageddon) | The build of Dethrace for Carmageddon has been updated to version v0.11.0 of the project |
+| 2026-11-21 | [homelab 从手机开始 从安卓开始](https://dsx2016.com/building-a-homelab-from-scratch-starting-with-android-on-your-phone/) | 从手机📱开始 从最开始编写python和nodejs脚本，到第三方项目部署比如宝塔面板，到docker com... homelab 从手机开始 从安卓开始 最先出现在 大师兄2016 。 |
 | 2026-11-21 | [格斗游戏](https://mobius.blog/26243.html) | 小王把手柄砸在小李脸上，破口大骂：“你这破格斗游戏，怎么都没有一键连招的功能？” 小李不服道：“格斗游戏不都是 […] |
 | 2026-11-21 | [生活碎碎念：我向镜花捞水月](https://blog.mfwt.top/index.php/archives/1756/) | 本站的老读者看到这个标题，应该能猜到笔者实际上想讲的是什么。没错，这是之前关于Cosplay的博文（当然还有他的续集）的又一篇续集。笔者习惯把他们称之为镜花水月系列，原因也是很显然的。当然，从本... |
 | 2026-11-21 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.4.3 of the project |

@@ -1,5 +1,19 @@
 [
   {
+    "title": "Carmageddon updated",
+    "url": "https://macsourceports.com/game/carmageddon",
+    "date": "2026-11-21T22:10:38Z",
+    "description": "The build of Dethrace for Carmageddon has been updated to version v0.11.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "homelab 从手机开始 从安卓开始",
+    "url": "https://dsx2016.com/building-a-homelab-from-scratch-starting-with-android-on-your-phone/",
+    "date": "2026-11-21T18:46:49Z",
+    "description": "从手机📱开始 从最开始编写python和nodejs脚本，到第三方项目部署比如宝塔面板，到docker com... homelab 从手机开始 从安卓开始 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
     "title": "格斗游戏",
     "url": "https://mobius.blog/26243.html",
     "date": "2026-11-21T15:15:54Z",
