@@ -27,6 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-21 | [格斗游戏](https://mobius.blog/26243.html) | 小王把手柄砸在小李脸上，破口大骂：“你这破格斗游戏，怎么都没有一键连招的功能？” 小李不服道：“格斗游戏不都是 […] |
+| 2026-11-21 | [生活碎碎念：我向镜花捞水月](https://blog.mfwt.top/index.php/archives/1756/) | 本站的老读者看到这个标题，应该能猜到笔者实际上想讲的是什么。没错，这是之前关于Cosplay的博文（当然还有他的续集）的又一篇续集。笔者习惯把他们称之为镜花水月系列，原因也是很显然的。当然，从本... |
+| 2026-11-21 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.4.3 of the project |
+| 2026-11-21 | [Old School RuneScape updated](https://macsourceports.com/game/runescape) | The build of RuneLite for Old School RuneScape has been updated to version 2.8.1 of the project |
+| 2026-11-21 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.7 of the project |
+| 2026-11-21 | [睡前用手机给 Claude 派活：我用 T3 Code 连起了四台开发机](https://blog.douni.one/t3-code-remote-agent-workflow) | 两台服务器、一台 Mac mini 和一台 MacBook，怎么让 Claude Code 实现、Codex 验收？从 Remote SSH 和 tmux 到 T3 Code，记录跨设备交接和睡前用手机派活的一天。 |
 | 2026-11-21 | [图书的插画](https://kaix.in/2026/1121/) | 在读《看不见的森林》时，或许是我的见闻经历太少，从未踏足过那样的环境，森林边缘、房子般大小的岩石、尺寸相差巨大的石堆……我一时很难在脑海里构建出画面。 正值 World Labs 将 Atlas 正式面对公众开放 ，我就把书里对「坛城」的介绍简单改成了场景描述词，输入到 Atlas 模型中，让它输出… |
 | 2026-11-21 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.3.0 of the project |
 | 2026-11-21 | [在两条街之外](https://www.hecaitou.com/2026/11/beyond-the-two-streets.html) | 看到导演大卫·林奇的一段话： 「 如果你用手机，或者用电脑播放一部电影，那就是再过一万亿年，你也体验不到这部电影。 你会以为自己看过电影了，可你受骗了。 那会是一种很微弱的……你本来有机会走进另一个世界，去感受它，但你现在感受到的，只是那种体验衰弱了、腐烂透了的样子。 」 可惜桀骜的网友对这段语重心… |
@@ -35,6 +41,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-21 | [2010，瓢虫工作室](https://www.tortorse.com/archives/ladybird-studio-2010/) | 2010，瓢虫工作室 |
 | 2026-11-21 | [2026年第47周](https://blog.sakoamc.com/posts/2647/) | 题记：二零二六年第四十七周，下周出差一周，应该是看银杏的好时候。 |
 | 2026-11-20 | [Lean 证明意味着什么——黎曼猜想证明闲谈](https://blog.est.im/2026/stdin-21) | 很早之前看过 Kevin Buzzard 老爷子的讲座。他来自🇬🇧 帝国理工学院，多年前就是 Lean 社区的核心了。他发起了 Xena Project，带领一群本科生把大学及以下数学知识中的定义、定理和证明逐步翻译成计算机能够理解和验证的形式。这个项目也成为 Lean 数学库 Mathlib 发展… |
+| 2026-11-20 | [AI 早报 2026-11-21：Dragos 用近 200 万条测试提示词追踪 AI 服务数据流向，发现至少三家存在暴露迹象](https://www.jtxyh.com/daily/2026-11-21/) | 2026-11-21 AI 早报，共 13 条动态。安全公司 Dragos 11 月 19 日公布一项从 7 月持续至 11 月的研究。麻省理工学院数学家 Andrew Sutherland 在 11 月 21 日的更新中说，他把 Levent Alpöge 提交的 Lean 证明与独立项目 Rob… |
 | 2026-11-20 | [AI Infra：Intelligence Runtime 的定义与创新边界](https://luweiqing.com/gossip/AI-Infra-Intelligence-Runtime.html) | 过去几年，Agent Runtime 让智能体从演示走向工程。它解决了许多具体问题：模型怎么调、上下文怎么带、工具怎么接、状态怎么存、失败怎么恢复。可当这些能力被逐一补齐，一个新的问题浮出水面：... |
 | 2026-11-20 | [Keeping SSH Keys Secure](https://www.geedea.pro/en/article/key-management/) | SSH keys are very widely used, for signing git commits, signing software distribution, authenticating with a remote server and age also supports encry… |
 | 2026-11-20 | [不是，是有人在推荐我的 RSSBox 吗](https://versun.me/blog/tweet-2123724561191448993) | 不是，是有人在推荐我的 RSSBox 吗？ 都快一年没人提 issue 和 pr 了，我最近都准备 archive 了， 然后这几天隔三差五的来几个 issue 和 pr 🤣🤣 问题是我自己都不用了呀😂 https://github.com/versun/RSSBox |
@@ -52,6 +59,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-20 | [为什么中转站的 API 这么便宜](https://depp.wang/2026/ai-api-relay/) | 有些 AI 中转站提供的 API，价格比官方 API 便宜很多。同样是使用 GPT 模型，中转站的价格为什么能低这么多？我算了一下官方订阅的额度，发现如果能把额度用完，成本确实可以很低。 现在很多 Codex 中转站，都是把官方订阅额度转换成 API 来卖。官 |
 | 2026-11-20 | [AI 给的答案，你敢信吗？](https://www.linggandianbo.com/newsletter-140/) | 从 AI 时代的写作、判断力和自学，到新的知识单位与拉马克｜灵感电波 #140 |
 | 2026-11-20 | [科技爱好者周刊（第 420 期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 新建成的上海道教学院，由清华大学建筑设计研究院设计。（ via ） 最分心的一年 法国开发者 亚历杭德罗… |
+| 2026-11-20 | [2026 黑五 RackNerd VPS 活动又来了](https://razeen.me/posts/racknerd-black-friday-2026-vps-deals/) | 整理了 RackNerd 2026 黑五 5 款 KVM VPS 促销套餐的配置与价格，并附上机房选择、Looking Glass 测速、LowEndTalk 留言申请流量翻倍、支付续费及更换 IP 等下单前注意事项。 |
 | 2026-11-19 | [学习周刊-总第290期-2026年第47周](https://wiki.eryajf.net/pages/163de5/) | 如要阅读全文，点击标题跳转。 学习周刊-总第290期 &#124; cindy &#124; BokeBox &#124; tura &#124; kiri &#124; usage &#124; AgentSwitchboard &#124; file-viewer &#124; LaTeXSnipper &#124; Chaty |
 | 2026-11-19 | [洞察人性（2026.11.19）](https://blog.brmys.cn/human-nature) | 关联主题:: 同级:: 2026-11-19_星期四 下一级:: 一、书籍 《人性的弱点》 二、碎片知识 2.1 防止人性被操控 2.2 如何利用人性 2.3 如何试探男朋友的家底？ 随便写几条，男女均适用： 1、看他家的家庭住址：假期的时候给他父母买个礼物，让他把家庭住址给你，去链家查询一下该小区… |
 | 2026-11-19 | [如何防止被操控？](https://blog.brmys.cn/f-109) | 关联主题:: 同级:: 2026-11-19_星期四 下一级:: . |
@@ -82,7 +90,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-19 | [Serving Static Websites on OpenBSD, for dummies](https://www.geedea.pro/en/article/web-server-openbsd/) | Though it’s a choice, it’s not necessary to install something like nginx to host a website on OpenBSD. You can do that with a few tools that already c… |
 | 2026-11-19 | [从果蝇到 Intelligence Runtime](https://luweiqing.com/gossip/Intelligence-Runtime.html) | 从生物智能的计算效率，到下一代 AI 智能运行基础设施一、一个观察：果蝇的大脑为什么如此厉害？果蝇的大脑只有约10万至14万个神经元，却能够完成飞行、避障、目标追踪、环境适应等复杂任务。飞行本身... |
 | 2026-11-19 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.9.2 of the project |
-| 2026-11-19 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.6.1 of the project |
 | 2026-11-19 | [人类还是太脆弱了，家里3口人一起传染得病](https://versun.me/blog/tweet-2123373287539634319) | 人类还是太脆弱了，家里3口人一起传染得病了，估计是流感，请了一周假，在家带病顾病娃😭😢 |
 | 2026-11-19 | [2009，九宫格里的宝箱](https://www.tortorse.com/archives/treasure-chest-in-the-nine-square-grid-2009/) | 2009，九宫格里的宝箱 |
 | 2026-11-19 | [The Settlers II updated](https://macsourceports.com/game/settlers2) | The build of Return to the Roots for The Settlers II has been updated to the latest code of the project |

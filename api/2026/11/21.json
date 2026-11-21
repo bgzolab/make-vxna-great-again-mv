@@ -1,5 +1,47 @@
 [
   {
+    "title": "格斗游戏",
+    "url": "https://mobius.blog/26243.html",
+    "date": "2026-11-21T15:15:54Z",
+    "description": "小王把手柄砸在小李脸上，破口大骂：“你这破格斗游戏，怎么都没有一键连招的功能？” 小李不服道：“格斗游戏不都是 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "生活碎碎念：我向镜花捞水月",
+    "url": "https://blog.mfwt.top/index.php/archives/1756/",
+    "date": "2026-11-21T12:56:15Z",
+    "description": "本站的老读者看到这个标题，应该能猜到笔者实际上想讲的是什么。没错，这是之前关于Cosplay的博文（当然还有他的续集）的又一篇续集。笔者习惯把他们称之为镜花水月系列，原因也是很显然的。当然，从本...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "Lemmings updated",
+    "url": "https://macsourceports.com/game/lemmings",
+    "date": "2026-11-21T12:00:36Z",
+    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.4.3 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Old School RuneScape updated",
+    "url": "https://macsourceports.com/game/runescape",
+    "date": "2026-11-21T12:00:35Z",
+    "description": "The build of RuneLite for Old School RuneScape has been updated to version 2.8.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated",
+    "url": "https://macsourceports.com/game/nolf2",
+    "date": "2026-11-21T12:00:34Z",
+    "description": "The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.7 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "睡前用手机给 Claude 派活：我用 T3 Code 连起了四台开发机",
+    "url": "https://blog.douni.one/t3-code-remote-agent-workflow",
+    "date": "2026-11-21T09:20:33Z",
+    "description": "两台服务器、一台 Mac mini 和一台 MacBook，怎么让 Claude Code 实现、Codex 验收？从 Remote SSH 和 tmux 到 T3 Code，记录跨设备交接和睡前用手机派活的一天。",
+    "source_root_domain": "douni.one"
+  },
+  {
     "title": "图书的插画",
     "url": "https://kaix.in/2026/1121/",
     "date": "2026-11-21T07:50:04Z",
@@ -54,6 +96,13 @@
     "date": "2026-11-20T16:00:00Z",
     "description": "很早之前看过 Kevin Buzzard 老爷子的讲座。他来自🇬🇧 帝国理工学院，多年前就是 Lean 社区的核心了。他发起了 Xena Project，带领一群本科生把大学及以下数学知识中的定义、定理和证明逐步翻译成计算机能够理解和验证的形式。这个项目也成为 Lean 数学库 Mathlib 发展过程中的一部分。 Kevin Buzzard 生平详细展开 #### Kevin Buzzard：试图让计算机读懂整个数学世界的数学家 Kevin Buzzard 是英国帝国理工学院（Imperial College London）的纯数学教授。他的经历颇为特别：他原本是一位相当传统的数论学家，后来却成了推动数学形式化（Formalization）和计算机辅助证明的重要人物。 他本身就是数学领域的顶尖选手。1987 年，他参加国际数学奥林匹克竞赛，获得满分金牌；后来进入剑桥大学数学系，在剑桥数学 Tripos 考试中取得 Senior Wrangler，也就是全体数学本科生中的最高排名。他在剑桥师从著名数学家 Richard Taylor 攻读博士，之后在普林斯顿高等研究院、加州大学伯克利分",
     "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "AI 早报 2026-11-21：Dragos 用近 200 万条测试提示词追踪 AI 服务数据流向，发现至少三家存在暴露迹象",
+    "url": "https://www.jtxyh.com/daily/2026-11-21/",
+    "date": "2026-11-20T16:00:00Z",
+    "description": "2026-11-21 AI 早报，共 13 条动态。安全公司 Dragos 11 月 19 日公布一项从 7 月持续至 11 月的研究。麻省理工学院数学家 Andrew Sutherland 在 11 月 21 日的更新中说，他把 Levent Alpöge 提交的 Lean 证明与独立项目 Robin1984…",
+    "source_root_domain": "jtxyh.com"
   },
   {
     "title": "AI Infra：Intelligence Runtime 的定义与创新边界",
@@ -173,6 +222,13 @@
     "date": "2026-11-20T00:07:30Z",
     "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 新建成的上海道教学院，由清华大学建筑设计研究院设计。（ via ） 最分心的一年 法国开发者 亚历杭德罗·奥 （Alejandro AO），是世界最大的大模型社区 Hugging Face 的布道师。 他做了很多视频，向初学者科普 AI 知识，都放在他的 Youtube 频道 。 他的内容以实操为主，也会涉及一些原理，容易看懂。我很推荐，我的很多 AI 知识就来自这里。 本周，他发布了一篇 年度回顾 ，总结自己在 Hugging Face 的这一年。 引起我共鸣的下面这段话。 他说，2026年是他最分心的一年。\"今年几乎不可能专注于一件事。 同时进行多个项目，比以往任何时候都更容易 。大多数时候，我手下有四到十个 Agent 同时推进三四个不同的项目。\" 大家有没有同感？ AI 让你可以同时做几件事，越来越难专注于某一件事。 \"我每天消耗数百万 Token，尽力做好不同的项目。即使如此，仍然有",
     "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "2026 黑五 RackNerd VPS 活动又来了",
+    "url": "https://razeen.me/posts/racknerd-black-friday-2026-vps-deals/",
+    "date": "2026-11-20T00:00:00Z",
+    "description": "整理了 RackNerd 2026 黑五 5 款 KVM VPS 促销套餐的配置与价格，并附上机房选择、Looking Glass 测速、LowEndTalk 留言申请流量翻倍、支付续费及更换 IP 等下单前注意事项。",
+    "source_root_domain": "razeen.me"
   },
   {
     "title": "学习周刊-总第290期-2026年第47周",
@@ -382,13 +438,6 @@
     "url": "https://macsourceports.com/game/totalannihilation",
     "date": "2026-11-19T12:00:40Z",
     "description": "The build of Open Annihilation for Total Annihilation has been updated to version v0.9.2 of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
-    "title": "No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated",
-    "url": "https://macsourceports.com/game/nolf2",
-    "date": "2026-11-19T12:00:39Z",
-    "description": "The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.6.1 of the project",
     "source_root_domain": "macsourceports.com"
   },
   {
