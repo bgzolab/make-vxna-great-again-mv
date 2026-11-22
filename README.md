@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-22 | [可控并发测试实战指南：告别偶发 Flaky，像导演一样精准抓出深层竞态 Bug](https://shansan.top/2026/11/22/controlled-concurrency-testing-deep-dive/) | 从余额超扣和缓存失效看懂 PCT、URW、DPOR 与 Go synctest，再用 ConDpor、Tamias 和 REINS 解释如何联合探索输入与调度、控制多进程服务、验证 AI 提出的交错。 |
+| 2026-11-22 | [DiskSeek.space 盘寻一下，空间回来 —— 更好的、更完整的磁盘清理工具](https://blog.mzh.ren/zh/posts/2026/11/diskseek/) | 现在的电脑就办公而言，性能强大，容量无敌。但是磁盘空间的分析和清理还是一个非常常规的动作。为什么？ 正是因为安迪-比尔定律：安迪给的，比尔都会拿走。这里的安迪指的是英特尔的前 CEO 安迪·格鲁夫，比尔指的则是微软的前 CEO 比尔·盖茨。它的实际意思就是说，新软件往往会很快消耗掉硬件带来的计算机性… |
+| 2026-11-22 | [homelab: 手机硬件日常是使用场景](https://dsx2016.com/homelab-mobile-hardware-in-daily-use-scenarios/) | nfc 电动车nfc钥匙，房间钥匙小区门禁，公交卡，地铁nfc支付 基本出行都离不开nfc，有它会方便很多 蓝... homelab: 手机硬件日常是使用场景 最先出现在 大师兄2016 。 |
+| 2026-11-22 | [Album#53 - For Emma, Forever Ago](https://taxodium.ink/album-53.html) | Album#53 For Emma, Forever Ago 图1 For Emma, Forever Ago by Bon Iver 专辑信息 专辑名称： For Emma, Forever Ago 歌手： Bon Iver 年份： 2008-02-19 时长： 約 38 分鐘 天氣開始轉涼，想找… |
+| 2026-11-22 | [Quake 4 updated](https://macsourceports.com/game/quake4) | The build of openQ4 for Quake 4 has been updated to version v0.15.0 of the project |
 | 2026-11-22 | [The Operative: No One Lives Forever updated](https://macsourceports.com/game/nolf1) | The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.7 of the project |
 | 2026-11-22 | [homelab：测试手机sd.cpp文生图片](https://dsx2016.com/homelab-testing-sd-cpp-for-text-to-image-generation-on-mobile-phones/) | 一只可爱小猫 在手机上使用sd.cpp生成图片 比如生成一只可爱的小猫 目测效果还不错 还有生成一只可爱的小狗... homelab：测试手机sd.cpp文生图片 最先出现在 大师兄2016 。 |
 | 2026-11-22 | [读者来信](https://hux.ink/posts/a-mail-from-ai-001/) | 三年多来，我在 Memos 上发了 1000 多条记录。前不久群晖出事，原来的 Memos 也就停用了，随后换到了 FlareMo。迁移之后，原来的记录还在，发哔哔的习惯也没变，依旧每天写上几条，偶尔记点生活琐事，偶尔发几句牢骚。 这和大学时在 QQ 空间发说说、后来发微博没什么两样，都是一些只言片… |
@@ -49,10 +54,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-22 | [最近惦念 20261030](https://z.arlmy.me/posts/TILs/thoughts/20261030_Recently/) | 「允许自己存在。」 |
 | 2026-11-22 | [≡ 021｜做饭是需要被看见的？](https://mobius.blog/26236.html) | 在上周末的Newsletter里，留了一个话题： 我跟我老婆都是很爱做饭的人，最近新认识的朋友，她的男友也很爱 […] |
 | 2026-11-22 | [Memos #2026-11-21](https://blog.itaober.com/memos/memo_20261121005743_bk44kp) | 08:58 一觉起来天塌了… |
+| 2026-11-22 | [猫](https://fft.im/posts/20261122_%E7%8C%AB/) | 猫 邻居的猫在晒太阳 简州猫？ 花色像一句记错的台词 对不上名字 太阳把它晒暖了 我的手落下去 脊骨是一条石子路 肋骨则是路边的栅栏 肚子是海 随着呼吸 涨潮，退潮 它安逸地躺在地上 像一个不设防的国家 默许 如果我告诉你 风吹过林子 踮着脚 踏枝头而来 行至 枯树桩止步 如果我告诉你 风吹过林子… |
 | 2026-11-22 | [200澳元在Costco可以买到多少东西？](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/11/22/what-200-aud-buys-at-costco.html) | 周六中午，我去了一趟Costco，计划先加油，顺便逛一圈超市。 最终，加油花了36.74刀，Costco购物花了200.66刀。 这篇文章，我来分享一下200澳元在Costco到底能买到多少东西，让大家直观感受一下澳元的购买力。 |
 | 2026-11-22 | [博客二三事](https://blog.sakoamc.com/posts/t26103/) | 写博客究竟改变了我什么？我想，它最大的意义在于赋予了流动的日常以“刻度”。 |
 | 2026-11-21 | [Carmageddon updated](https://macsourceports.com/game/carmageddon) | The build of Dethrace for Carmageddon has been updated to version v0.11.0 of the project |
 | 2026-11-21 | [homelab 从手机开始 从安卓开始](https://dsx2016.com/building-a-homelab-from-scratch-starting-with-android-on-your-phone/) | 从手机📱开始 从最开始编写python和nodejs脚本，到第三方项目部署比如宝塔面板，到docker com... homelab 从手机开始 从安卓开始 最先出现在 大师兄2016 。 |
+| 2026-11-21 | [AI 早报 2026-11-22：Lean 与 Mathlib 社区确认黎曼猜想的 Lean 形式化证明通过核验](https://www.jtxyh.com/daily/2026-11-22/) | 2026-11-22 AI 早报，共 13 条动态。Lean 与 Mathlib 社区 11 月 21 日发表联合声明，获 Lean FRO 和 Mathlib Initiative 背书。Together AI 11 月 21 日披露，2026 年 6 月至 7 月提交到公司无服务器推理服务的部分… |
+| 2026-11-21 | [“隐龙轩”论坛存档版上线：老帖子还在，但这次只能看，不能发了](https://yfzz.net/posts/bbs-archive/?utm_source=rss) | 借助AI的力量，把“隐龙轩”论坛重新上线了一个“存档版”，也就是只能查看帖子，但没有任何交互功能（登录、发帖、短消息等……）的版本。毕竟也有小几十万的帖子，是一万多用户贡献的内容，算是留个念想吧。 目前图片附件是可供浏览的，但其他压缩包等附件考虑服务器压力，没有提供下载。 访问地址：yfzz.net… |
 | 2026-11-21 | [格斗游戏](https://mobius.blog/26243.html) | 小王把手柄砸在小李脸上，破口大骂：“你这破格斗游戏，怎么都没有一键连招的功能？” 小李不服道：“格斗游戏不都是 […] |
 | 2026-11-21 | [周末流水账 1121](https://blog.solazy.me/20261121/) | 今天是出来住酒店的一天 |
 | 2026-11-21 | [生活碎碎念：我向镜花捞水月](https://blog.mfwt.top/index.php/archives/1756/) | 本站的老读者看到这个标题，应该能猜到笔者实际上想讲的是什么。没错，这是之前关于Cosplay的博文（当然还有他的续集）的又一篇续集。笔者习惯把他们称之为镜花水月系列，原因也是很显然的。当然，从本... |
