@@ -27,15 +27,28 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-22 | [我站遭遇异常下载流量的事件报告](https://blog.renfei.net/posts/1626402130325676146) | 2026 年 11 月 21 日晚，76 个 IP 集中下载我站 CDN 上的 40 张图片，发出 4,942 次请求，产生 985.14 MB 响应流量，导致网站触发限额下线。本文记录事件时间线与 UA 轮换的日志证据。 |
+| 2026-11-22 | [homelab:手机使用Termux的实际场景](https://dsx2016.com/homelab-real-world-termux-use-cases-on-mobile/) | Termux 如果说手机上相对使用场景比较多的，就是termux 本文用它临时ssh连接vps服务器或者hom... homelab:手机使用Termux的实际场景 最先出现在 大师兄2016 。 |
+| 2026-11-22 | [工具闪闪亮](https://www.hecaitou.com/2026/11/shiny-new-tools.html) | 这个周末，Claude在我注册后不到 60 秒就封掉了账号，于是我趁着「黑五」半价买了 Google AI Pro 会员。我发布前一条消息时，读者朋友们奔走相告，拍手相庆，点赞近 600 次。我发布后一条消息后，点赞锐减到不足 200 次，然而后者的阅读量其实更高，可见人们真正喜闻乐见的究竟是什么。… |
+| 2026-11-22 | [homelab:手机尝试本地大模型PocketPal](https://dsx2016.com/homelab-trying-out-the-local-large-language-model-pocketpal-on-a-mobile-phone/) | PocketPal 在谷歌play商店下载 可选择合适的本地大模型，开启聊天会话 可以看到我下载的大模型 Ge... homelab:手机尝试本地大模型PocketPal 最先出现在 大师兄2016 。 |
+| 2026-11-22 | [我的文竹已入冬](https://z.arlmy.me/posts/Poems/2026/20261117_WoDeWenZhuYiRuDong/) | 「我的文竹已入冬。」 |
+| 2026-11-22 | [Toots 444 2026 Nov.1 - Nov.7](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261107/) | 「交响乐与劳动号子。」 |
+| 2026-11-22 | [最近惦念 20261114](https://z.arlmy.me/posts/TILs/thoughts/20261114_Recently/) | 「爱是通用货币。」 |
+| 2026-11-22 | [最近惦念 20261030](https://z.arlmy.me/posts/TILs/thoughts/20261030_Recently/) | 「允许自己存在。」 |
+| 2026-11-22 | [≡ 021｜做饭是需要被看见的？](https://mobius.blog/26236.html) | 在上周末的Newsletter里，留了一个话题： 我跟我老婆都是很爱做饭的人，最近新认识的朋友，她的男友也很爱 […] |
+| 2026-11-22 | [Memos #2026-11-21](https://blog.itaober.com/memos/memo_20261121005743_bk44kp) | 08:58 一觉起来天塌了… |
+| 2026-11-22 | [200澳元在Costco可以买到多少东西？](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/11/22/what-200-aud-buys-at-costco.html) | 周六中午，我去了一趟Costco，计划先加油，顺便逛一圈超市。 最终，加油花了36.74刀，Costco购物花了200.66刀。 这篇文章，我来分享一下200澳元在Costco到底能买到多少东西，让大家直观感受一下澳元的购买力。 |
 | 2026-11-21 | [Carmageddon updated](https://macsourceports.com/game/carmageddon) | The build of Dethrace for Carmageddon has been updated to version v0.11.0 of the project |
 | 2026-11-21 | [homelab 从手机开始 从安卓开始](https://dsx2016.com/building-a-homelab-from-scratch-starting-with-android-on-your-phone/) | 从手机📱开始 从最开始编写python和nodejs脚本，到第三方项目部署比如宝塔面板，到docker com... homelab 从手机开始 从安卓开始 最先出现在 大师兄2016 。 |
 | 2026-11-21 | [格斗游戏](https://mobius.blog/26243.html) | 小王把手柄砸在小李脸上，破口大骂：“你这破格斗游戏，怎么都没有一键连招的功能？” 小李不服道：“格斗游戏不都是 […] |
 | 2026-11-21 | [生活碎碎念：我向镜花捞水月](https://blog.mfwt.top/index.php/archives/1756/) | 本站的老读者看到这个标题，应该能猜到笔者实际上想讲的是什么。没错，这是之前关于Cosplay的博文（当然还有他的续集）的又一篇续集。笔者习惯把他们称之为镜花水月系列，原因也是很显然的。当然，从本... |
+| 2026-11-21 | [有没有人做个今年的黑五汇总网站呀，主要是](https://versun.me/blog/tweet-2124119049236025802) | 有没有人做个今年的黑五汇总网站呀，主要是 AI 方面的，虽然说 AI 时代不要买年费，但架不住便宜啊！ |
 | 2026-11-21 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.4.3 of the project |
 | 2026-11-21 | [Old School RuneScape updated](https://macsourceports.com/game/runescape) | The build of RuneLite for Old School RuneScape has been updated to version 2.8.1 of the project |
 | 2026-11-21 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.7 of the project |
 | 2026-11-21 | [睡前用手机给 Claude 派活：我用 T3 Code 连起了四台开发机](https://blog.douni.one/t3-code-remote-agent-workflow) | 两台服务器、一台 Mac mini 和一台 MacBook，怎么让 Claude Code 实现、Codex 验收？从 Remote SSH 和 tmux 到 T3 Code，记录跨设备交接和睡前用手机派活的一天。 |
 | 2026-11-21 | [图书的插画](https://kaix.in/2026/1121/) | 在读《看不见的森林》时，或许是我的见闻经历太少，从未踏足过那样的环境，森林边缘、房子般大小的岩石、尺寸相差巨大的石堆……我一时很难在脑海里构建出画面。 正值 World Labs 将 Atlas 正式面对公众开放 ，我就把书里对「坛城」的介绍简单改成了场景描述词，输入到 Atlas 模型中，让它输出… |
+| 2026-11-21 | [面向 Agent 的 AML 记忆挑战赛](https://versun.me/blog/tweet-2124026308544122963) | Agent Memory Leaderboard 🏆 AML Cycle 2 results are live! 💥 • 1M+ cross-platform impressions • 10M+ cumulative website clicks • 402 task submissions •… |
 | 2026-11-21 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.3.0 of the project |
 | 2026-11-21 | [在两条街之外](https://www.hecaitou.com/2026/11/beyond-the-two-streets.html) | 看到导演大卫·林奇的一段话： 「 如果你用手机，或者用电脑播放一部电影，那就是再过一万亿年，你也体验不到这部电影。 你会以为自己看过电影了，可你受骗了。 那会是一种很微弱的……你本来有机会走进另一个世界，去感受它，但你现在感受到的，只是那种体验衰弱了、腐烂透了的样子。 」 可惜桀骜的网友对这段语重心… |
 | 2026-11-21 | [想卖我5980的FB广告投流课，你还未必投得过我](https://yuqiqin.me/lets-see-who-is-real-evil-genius/) | [!NOTE] Info 全文共计9170字，预计阅读时长23min，记录的是我2026.10-2026.11的经历 想卖我5980的FB广告投流课，你还未必投得过我 背景 书接上回 创业开公司1年，收入为0 ，我和弟弟一起创业做炒菜机器人外贸，缘起要帮家道中落的自家服装厂开拓新领域——做服装外贸，… |
@@ -58,7 +71,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-20 | [Nginx升级1.31.9后sticky指令报错的排查](https://199604.com/3758) | Nginx升级1.31.9后sticky指令报错的排查 记录时间：2026-11-20 环境：主机 nginx […] |
 | 2026-11-20 | [今天你骂 AI 味博客了吗？](https://blog.solazy.me/20261120/) | 今天讨论一个近期热象 |
 | 2026-11-20 | [理中客之死 II](https://mobius.blog/26219.html) | 在开始今天的话题之前，可以先聊一个问题：写作是否应该允许AI参与？这个问题的背后，最应该讨论的是什么？AI参与 […] |
-| 2026-11-20 | [为什么中转站的 API 这么便宜](https://depp.wang/2026/ai-api-relay/) | 有些 AI 中转站提供的 API，价格比官方 API 便宜很多。同样是使用 GPT 模型，中转站的价格为什么能低这么多？我算了一下官方订阅的额度，发现如果能把额度用完，成本确实可以很低。 现在很多 Codex 中转站，都是把官方订阅额度转换成 API 来卖。官 |
+| 2026-11-20 | [为什么中转站的 API 这么便宜](https://depp.wang/2026/ai-api-relay/) | 有些 AI 中转站提供的 API，价格比官方 API 便宜很多。同样是使用 GPT 模型，中转站的价格为什么能低这么多？我算了一下官方订阅的额度，发现如果能把额度用完，成本确实可以很低。 现在很多 Codex 中转站，都是把官方订阅额度转换成 API 来卖。官方订阅每个月付固定费用，账号在每个周期内… |
 | 2026-11-20 | [AI 给的答案，你敢信吗？](https://www.linggandianbo.com/newsletter-140/) | 从 AI 时代的写作、判断力和自学，到新的知识单位与拉马克｜灵感电波 #140 |
 | 2026-11-20 | [科技爱好者周刊（第 420 期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 新建成的上海道教学院，由清华大学建筑设计研究院设计。（ via ） 最分心的一年 法国开发者 亚历杭德罗… |
 | 2026-11-20 | [2026 黑五 RackNerd VPS 活动又来了](https://razeen.me/posts/racknerd-black-friday-2026-vps-deals/) | 整理了 RackNerd 2026 黑五 5 款 KVM VPS 促销套餐的配置与价格，并附上机房选择、Looking Glass 测速、LowEndTalk 留言申请流量翻倍、支付续费及更换 IP 等下单前注意事项。 |
@@ -234,24 +247,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-15 | [Weekly Issue-《走马上任》](https://zdyxry.github.io/2026/11/15/Weekly-Issue-lets-go/) | 文章 技术 “That’s not SOC 2 compliant” The Trust Services Criteria never mention git or pull requests. What they ask for is that changes are authorized, t… |
 | 2026-11-15 | [AI Agent 走进三维世界之后](https://www.bmpi.dev/dev/agent-3d-world-building/) | 从瀑布洞穴漏顶、栏杆挡死视线到 203 盏悬空宫灯掉落，记录 MinePilot 在真实三维体素世界里走过的弯路，以及 Agent 如何把空间设计、局部修复与原生游戏验收连成闭环。 |
 | 2026-11-15 | [2026年第45、46周](https://blog.sakoamc.com/posts/264546/) | 题记：二零二六年第四十五、四十六周，气温骤降，已经到了不想起床的日子。 |
-| 2026-11-14 | [x86小主机重新设置pve all in one](https://dsx2016.com/reconfiguring-a-pve-all-in-one-setup-on-an-x86-mini-pc/) | 二手小主机 这个小主机买了大概5-10年左右，是一个很老的迷你主机，也是一个不知名的杂牌 内存是8GB，磁盘印... x86小主机重新设置pve all in one 最先出现在 大师兄2016 。 |
-| 2026-11-14 | [AI 早报 2026-11-15：意大利罚 Meta 8.05 亿欧元：Facebook 未经明确同意就读取用户相册](https://www.jtxyh.com/daily/2026-11-15/) | 2026-11-15 AI 早报，共 8 条动态。意大利数据保护局 11 月 14 日对 Meta Platforms Ireland Limited 开出 8.05 亿欧元罚单，约合 8.87 亿美元，相当于 Meta 全球营收的 0.47%。李沐正式出任硅谷公司 Aimotion 联合创始人兼… |
-| 2026-11-14 | [推漫：满天星与黄金](https://www.nodealpha.me/Manga-mantentoougon.html) | 之前看了大约20话，之后没有汉化组接坑了，最近查了下已经完结了，让AI找了日文版之后 翻译了下 ，顺便推荐下。 |
-| 2026-11-14 | [这周开始用AI做的项目](https://cufezhusy.github.io/issue-30/) | 这周我休了一个长周末，周四的时候与原来单位的同事下班后喝了杯啤酒。然后周五没有去上班，在家附近吃了一碗兰州拉面，真赞。 这周我打算开始用AI做一个小小的模拟城市游戏，我从小就喜欢玩模拟游戏，但老是觉得很多功能不合我意，有些功能太少了，有些功能太多了。我现在开始用DSH做一个简单的网页版的模拟城市游戏… |
-| 2026-11-14 | [晚上在 magpie 上遇到了，3个 j](https://versun.me/blog/tweet-2121603982548480423) | Unicorn Google现在通过429已经能精准识别反代了。 其实从9月份开始，Google就暗中加了道防火墙规则。 只要用CPA这类多账号反代池，一旦接入第三方Agent请求里会携带RFC 2119: 这个特征字符串，接口就会直接返回429报错。 ​按正常接口规范，识别出违规客户端或者拒绝权限… |
-| 2026-11-14 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
-| 2026-11-14 | [自从 claude 账号被封后， 吃的好](https://versun.me/blog/tweet-2121552342453743715) | 自从 claude 账号被封后， 吃的好，睡得好， 有时间出去走走了， 在外面也不会总抱着手机了， 生活竟然好了些许， 除了发现自己原来这么傻🥹 |
-| 2026-11-14 | [生活的策略](https://www.ixiqin.com/2026/11/14/life-strategies/) | 很多时候，大家对于我的很多生活的决策是不太理解的，觉得 —— Hey，Bro，你是不是对自己太狠了。关于对自己 […] |
-| 2026-11-14 | [用力，且认真的生活](https://www.ixiqin.com/2026/11/14/hard-work-and-hard-life/) | 用力的认真生活是我很长时间的态度。 之前在 X 上发过我自己的一些健康的指标和健康跟踪的策略，有位网友评论：“ […] |
-| 2026-11-14 | [影彩](https://hux.ink/posts/vlog/) | 两个月前败入了 大疆 Pocket4P ，在敦煌玩的时候屏幕就战损了，青甘行回来就用掉了一次随心换权益。 有了 Pocket 之后，发现拍视频远远多于拍照片。周末出去遛娃，回家翻翻拍的视频，竟然有种剪辑的冲动。奈何太菜，只能简单搞搞，添点背景音乐，聊以慰藉。 配完又不太想发抖音。我的博客有个 光影… |
-| 2026-11-14 | [常州流水账 1114](https://blog.solazy.me/20261114/) | 今天是常州特种兵 |
-| 2026-11-14 | [2008，那顿饭](https://www.tortorse.com/archives/the-dinner-in-2008/) | 2008，那顿饭 |
-| 2026-11-14 | [无需敌人的喜欢](https://www.hecaitou.com/2026/11/a-love-that-needs-no-enemy.html) | 我昨天写了一条留言，觉得值得单独拿出来再贴一遍： 「 我想，一方面要珍爱自己所爱之人，所爱之事，但在另一方面也不要落入了对立的叙事中去。相对而言，前者更为重要，后者除了激发负面情绪没有太多作用。也可以想一下，以我的文字能力，我为什么不写成某种更为尖锐的对立场景，褒一贬一，让读者更愿意讨论和转发呢？为… |
-| 2026-11-14 | [《大脑通信员：认识你的神经递质》阅读笔记](https://blog.frytea.com/archives/32550) | 读完了赵思家的《大脑通信员：认识你的神经递质》，对于大脑中的神经递质有了初步的认知，才发现之前对多巴胺、去甲肾 […] |
-| 2026-11-14 | [更新下 devin pro 的 clau](https://versun.me/blog/tweet-2121413109223211140) | Versun 记录下 devin pro 的额度，一样也是20刀和 opus 5.5 模型 1个每日额度 = 8.7M token / $17.5 周额度 = 2个每日额度 = 16M token 月额度 = 16 x 4 = 64M token https://twitter.com/Versun… |
-| 2026-11-14 | [Memos #2026-11-13](https://blog.itaober.com/memos/memo_20261113022232_c896p4) | 10:25 看阮一峰最 本周博客 有感：如果你发现我正坐在工位上发呆，而不是敲击键盘，我并没有偷懒，反而是在更认真地完成工作。 |
-| 2026-11-14 | [Python 潮流周刊#175：AI 为 CPython 写出 61 万行 Lean 证明](https://pythoncat.top/posts/2026-11-14-weekly/) | 分享了 12 篇文章，12 个开源项目，1 则音视频，2 则热门讨论 |
-| 2026-11-14 | [Amaysim给了我一个黑五超值优惠，一年省180刀](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/11/14/how-i-got-a-black-friday-deal-as-an-existing-amaysim-customer.html) | 最近，我家的宽带又省了一笔钱，而我做的事情只有一件，就是问了一句客服。 我家的网络，从去年开始就用 Amaysim 的宽带，具体经过写在《最划算的澳洲宽带？我的60澳元套餐体验》里。 先简单介绍一下我的套餐。我们两个人主要就是看看视频、刷刷手机，所以选的是最基础的 NBN 套餐，下行25Mbps，上… |
 
 ## Vibe Coding
 

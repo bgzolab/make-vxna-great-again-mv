@@ -1,0 +1,338 @@
+[
+  {
+    "title": "我站遭遇异常下载流量的事件报告",
+    "url": "https://blog.renfei.net/posts/1626402130325676146",
+    "date": "2026-11-22T10:04:02Z",
+    "description": "2026 年 11 月 21 日晚，76 个 IP 集中下载我站 CDN 上的 40 张图片，发出 4,942 次请求，产生 985.14 MB 响应流量，导致网站触发限额下线。本文记录事件时间线与 UA 轮换的日志证据。",
+    "source_root_domain": "renfei.net"
+  },
+  {
+    "title": "homelab:手机使用Termux的实际场景",
+    "url": "https://dsx2016.com/homelab-real-world-termux-use-cases-on-mobile/",
+    "date": "2026-11-22T03:40:30Z",
+    "description": "Termux 如果说手机上相对使用场景比较多的，就是termux 本文用它临时ssh连接vps服务器或者hom... homelab:手机使用Termux的实际场景 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "工具闪闪亮",
+    "url": "https://www.hecaitou.com/2026/11/shiny-new-tools.html",
+    "date": "2026-11-22T03:31:32Z",
+    "description": "这个周末，Claude在我注册后不到 60 秒就封掉了账号，于是我趁着「黑五」半价买了 Google AI Pro 会员。我发布前一条消息时，读者朋友们奔走相告，拍手相庆，点赞近 600 次。我发布后一条消息后，点赞锐减到不足 200 次，然而后者的阅读量其实更高，可见人们真正喜闻乐见的究竟是什么。 第二条消息下面的回复也更多，因为有很多人在热情洋溢地教训我。什么Pro 的额度根本不够，什么Pro不行不如ultra，什么 Gemini不如ChatGPT，以及不时出现的「我从公元前 221 年就开始用 Claude，怎么就没事呢」，吧啦吧啦，诸如此类。 所以，今天我也想反问一下---我知道反问不礼貌，但我就想反问一句： 既然都在买那么强性能，那么大额度，那么高 IQ 的 AI 大模型，想必是在做非常厉害的项目，实现非常厉害的功能了。那具体是啥？是啥嘛？给看看呗？ 我自己每天都在用 AI 大模型，目的很简单，一是帮助我检查文章，查找事实错误。二是帮我生成和处理每天文章里的插图。三是帮我研究一些我感到好奇的事物，和我一起讨论分析，直到我力竭。 基于这样的需求，加上我并不编程，所以我的每日额度",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "homelab:手机尝试本地大模型PocketPal",
+    "url": "https://dsx2016.com/homelab-trying-out-the-local-large-language-model-pocketpal-on-a-mobile-phone/",
+    "date": "2026-11-22T03:10:52Z",
+    "description": "PocketPal 在谷歌play商店下载 可选择合适的本地大模型，开启聊天会话 可以看到我下载的大模型 Ge... homelab:手机尝试本地大模型PocketPal 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "我的文竹已入冬",
+    "url": "https://z.arlmy.me/posts/Poems/2026/20261117_WoDeWenZhuYiRuDong/",
+    "date": "2026-11-22T02:19:27Z",
+    "description": "「我的文竹已入冬。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "Toots 444 2026 Nov.1 - Nov.7",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261107/",
+    "date": "2026-11-22T02:12:27Z",
+    "description": "「交响乐与劳动号子。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "最近惦念 20261114",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20261114_Recently/",
+    "date": "2026-11-22T02:04:27Z",
+    "description": "「爱是通用货币。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "最近惦念 20261030",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20261030_Recently/",
+    "date": "2026-11-22T02:03:27Z",
+    "description": "「允许自己存在。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "≡ 021｜做饭是需要被看见的？",
+    "url": "https://mobius.blog/26236.html",
+    "date": "2026-11-22T01:30:00Z",
+    "description": "在上周末的Newsletter里，留了一个话题： 我跟我老婆都是很爱做饭的人，最近新认识的朋友，她的男友也很爱 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "Memos #2026-11-21",
+    "url": "https://blog.itaober.com/memos/memo_20261121005743_bk44kp",
+    "date": "2026-11-22T00:00:00Z",
+    "description": "08:58 一觉起来天塌了…",
+    "source_root_domain": "itaober.com"
+  },
+  {
+    "title": "200澳元在Costco可以买到多少东西？",
+    "url": "https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/11/22/what-200-aud-buys-at-costco.html",
+    "date": "2026-11-22T00:00:00Z",
+    "description": "周六中午，我去了一趟Costco，计划先加油，顺便逛一圈超市。 最终，加油花了36.74刀，Costco购物花了200.66刀。 这篇文章，我来分享一下200澳元在Costco到底能买到多少东西，让大家直观感受一下澳元的购买力。",
+    "source_root_domain": "ozexplorers.com"
+  },
+  {
+    "title": "Carmageddon updated",
+    "url": "https://macsourceports.com/game/carmageddon",
+    "date": "2026-11-21T22:10:38Z",
+    "description": "The build of Dethrace for Carmageddon has been updated to version v0.11.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "homelab 从手机开始 从安卓开始",
+    "url": "https://dsx2016.com/building-a-homelab-from-scratch-starting-with-android-on-your-phone/",
+    "date": "2026-11-21T18:46:49Z",
+    "description": "从手机📱开始 从最开始编写python和nodejs脚本，到第三方项目部署比如宝塔面板，到docker com... homelab 从手机开始 从安卓开始 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "格斗游戏",
+    "url": "https://mobius.blog/26243.html",
+    "date": "2026-11-21T15:15:54Z",
+    "description": "小王把手柄砸在小李脸上，破口大骂：“你这破格斗游戏，怎么都没有一键连招的功能？” 小李不服道：“格斗游戏不都是 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "生活碎碎念：我向镜花捞水月",
+    "url": "https://blog.mfwt.top/index.php/archives/1756/",
+    "date": "2026-11-21T12:56:15Z",
+    "description": "本站的老读者看到这个标题，应该能猜到笔者实际上想讲的是什么。没错，这是之前关于Cosplay的博文（当然还有他的续集）的又一篇续集。笔者习惯把他们称之为镜花水月系列，原因也是很显然的。当然，从本...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "有没有人做个今年的黑五汇总网站呀，主要是",
+    "url": "https://versun.me/blog/tweet-2124119049236025802",
+    "date": "2026-11-21T12:33:40Z",
+    "description": "有没有人做个今年的黑五汇总网站呀，主要是 AI 方面的，虽然说 AI 时代不要买年费，但架不住便宜啊！",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Lemmings updated",
+    "url": "https://macsourceports.com/game/lemmings",
+    "date": "2026-11-21T12:00:36Z",
+    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.4.3 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Old School RuneScape updated",
+    "url": "https://macsourceports.com/game/runescape",
+    "date": "2026-11-21T12:00:35Z",
+    "description": "The build of RuneLite for Old School RuneScape has been updated to version 2.8.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated",
+    "url": "https://macsourceports.com/game/nolf2",
+    "date": "2026-11-21T12:00:34Z",
+    "description": "The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.7 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "睡前用手机给 Claude 派活：我用 T3 Code 连起了四台开发机",
+    "url": "https://blog.douni.one/t3-code-remote-agent-workflow",
+    "date": "2026-11-21T09:20:33Z",
+    "description": "两台服务器、一台 Mac mini 和一台 MacBook，怎么让 Claude Code 实现、Codex 验收？从 Remote SSH 和 tmux 到 T3 Code，记录跨设备交接和睡前用手机派活的一天。",
+    "source_root_domain": "douni.one"
+  },
+  {
+    "title": "图书的插画",
+    "url": "https://kaix.in/2026/1121/",
+    "date": "2026-11-21T07:50:04Z",
+    "description": "在读《看不见的森林》时，或许是我的见闻经历太少，从未踏足过那样的环境，森林边缘、房子般大小的岩石、尺寸相差巨大的石堆……我一时很难在脑海里构建出画面。 正值 World Labs 将 Atlas 正式面对公众开放 ，我就把书里对「坛城」的介绍简单改成了场景描述词，输入到 Atlas 模型中，让它输出一个 3d 场景。很快（骗妳的，其实很慢）它就输出了蓝图： 场景也随即建立，可以放置相机，渲染对应的画面——这和在 3d 建模软件里渲染的过程很像： 当然，还可以输出跟随摄像机运动的导览视频，如果积分点充足,也可以生成像 3d 游戏那样的场景，直接在其中「行走」。不过，扯远了。 上述场景，因为我没有足够的积分，所以没有仔细调整描述词来优化输出结果，和书中描写的场景其实并不一致。不过我还是一下子想到了一个古老的时髦词：互动图书。苹果的图书 app 刚出来的时候，我记得还有一些专门制作的可以和读者交互的电子书。更进一步畅想，如果未来戴着 AR 眼镜阅读纸质书籍的时候，可以实现圈画内容即刻输出与内容相匹配的场景，身临其境倒也有趣。 不过这让我又想到另一件事。前几日一个信教的朋友看见我吧台上放着一本",
+    "source_root_domain": "kaix.in"
+  },
+  {
+    "title": "面向 Agent 的 AML 记忆挑战赛",
+    "url": "https://versun.me/blog/tweet-2124026308544122963",
+    "date": "2026-11-21T06:25:09Z",
+    "description": "Agent Memory Leaderboard 🏆 AML Cycle 2 results are live! 💥 • 1M+ cross-platform impressions • 10M+ cumulative website clicks • 402 task submissions • Three tracks: text, code and multimodal memory This cycle brought together teams from across the global AI community, inclu 面向 Agent 的 AML 记忆挑战赛第二期排行榜出炉了",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Plants vs. Zombies updated",
+    "url": "https://macsourceports.com/game/pvz",
+    "date": "2026-11-21T06:08:02Z",
+    "description": "The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.3.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "在两条街之外",
+    "url": "https://www.hecaitou.com/2026/11/beyond-the-two-streets.html",
+    "date": "2026-11-21T05:26:35Z",
+    "description": "看到导演大卫·林奇的一段话： 「 如果你用手机，或者用电脑播放一部电影，那就是再过一万亿年，你也体验不到这部电影。 你会以为自己看过电影了，可你受骗了。 那会是一种很微弱的……你本来有机会走进另一个世界，去感受它，但你现在感受到的，只是那种体验衰弱了、腐烂透了的样子。 」 可惜桀骜的网友对这段语重心长的话并不领情，许多人跟帖说：「问题是现在大多数电影都是烂片，根本不值得浪费时间去电影院。」我自己讨论电影的文章留言区里，类似的留言也很常见。 然后我想起来，自己曾经看过很多烂片。那是在 2000 年的时候，单位派驻我去香格里拉机场，需要在那里待上一整年。当时香格里拉还叫中甸，整座城三五万人，主城区只有两条街，一条长征路，一条 池慈卡街，我们就住在州府生活小区。 由于时间实在太多，生活实在无聊，我就整天去租 VCD 回来宿舍放。全城一共三家碟店，一年时间我全部都租遍了。一开始还要挑挑拣拣，找大片，找经典，后来的标准就变成了「只要我没看过」。如果没有意外的话，估计我这辈子看过的 B 级片绝大部分都出现在那一年。其中绝大部分都是粗制滥造，但是我还是逐一看完。因为一旦大雪封锁机场，我可能有 48 ",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "想卖我5980的FB广告投流课，你还未必投得过我",
+    "url": "https://yuqiqin.me/lets-see-who-is-real-evil-genius/",
+    "date": "2026-11-21T04:17:10Z",
+    "description": "[!NOTE] Info 全文共计9170字，预计阅读时长23min，记录的是我2026.10-2026.11的经历 想卖我5980的FB广告投流课，你还未必投得过我 背景 书接上回 创业开公司1年，收入为0 ，我和弟弟一起创业做炒菜机器人外贸，缘起要帮家道中落的自家服装厂开拓新领域——做服装外贸，半路遇到两个志同道合的老板便搭伙成立了公司。 因为机器人这边迟迟没有起色，弟弟便抽出精力重新放在服装外贸身上，我这边也会抽出时间和精力去尽可能支持一下。这篇博客讲述的是我们从苦于没有询盘，再到FaceBook广告投流后爆单到接都接不了的经历，所想表达的内容正如标题所说——有的时候卖课的可能还不如你厉害呢。 我觉得这可能是很多想要转型出海做外贸的企业的缩影，打开小红书和抖音，教你做外贸的人可能比真正在做外贸的人还要多，很难不被割韭菜。很久之前我就看到一句话，「当你发现某行业都在搞卖课的时候，说明这行业大部分人挣不到钱。」所以我特地把这篇博客放在「外贸」分区，希望我的经历能够帮助到大家。 病急乱投医 我们总结了一下炒菜机器人外贸失败的原因，其中很重要的一条是我们团队里缺乏一个真的懂外贸贸易流程的",
+    "source_root_domain": "yuqiqin.me"
+  },
+  {
+    "title": "通灵卡片Psychic Paper",
+    "url": "https://yuqiqin.me/",
+    "date": "2026-11-21T03:54:53Z",
+    "description": "通灵卡片Psychic Paper 简介 欢迎来到我的 数字花园 ，这里是我分享工作、学习和生活的个人博客。 我给它取名为通灵卡片（ Psychic Paper ），这是来自英国国宝级科幻电视剧《神秘博士》中的一个小道具，它本身是一张空白的卡片，但是看着它的人会在卡片上看到使用者想让他们看到的内容。这个博客和通灵卡片一样，存放着我希望你能看到的、了解的关于我的所有内容。 这个博客的内容由我在 Obsidian 的笔记整理而成，关键词有 英语教研、语言学和计算机技术 ，现在也会分享一些生活感悟和回忆，以及一些备课的教案。 我毕业后在成都一家互联网教育公司工作了2年，职位是当英语编辑，主要工作是为APP制作线上学习内容。然后在成都一家中型成人英语教培机构担任英语老师，现已离职。现在一边在做独立雅思老师营生，一边在创业做外贸。 这个博客是使用Obsidian社区插件 Digital Garden ，搭配服务器提供商 Vercel 搭建成博客，套了一层 CloudFlare 抵御AI爬虫，并且在 GoDaddy 购入的域名。如果你也想做一个类似的网站，你可以看我写的 这篇文章 ，或者求助你的A",
+    "source_root_domain": "yuqiqin.me"
+  },
+  {
+    "title": "2010，瓢虫工作室",
+    "url": "https://www.tortorse.com/archives/ladybird-studio-2010/",
+    "date": "2026-11-21T01:45:07Z",
+    "description": "2010，瓢虫工作室",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "2026年第47周",
+    "url": "https://blog.sakoamc.com/posts/2647/",
+    "date": "2026-11-21T00:00:00Z",
+    "description": "题记：二零二六年第四十七周，下周出差一周，应该是看银杏的好时候。",
+    "source_root_domain": "sakoamc.com"
+  },
+  {
+    "title": "Lean 证明意味着什么——黎曼猜想证明闲谈",
+    "url": "https://blog.est.im/2026/stdin-21",
+    "date": "2026-11-20T16:00:00Z",
+    "description": "很早之前看过 Kevin Buzzard 老爷子的讲座。他来自🇬🇧 帝国理工学院，多年前就是 Lean 社区的核心了。他发起了 Xena Project，带领一群本科生把大学及以下数学知识中的定义、定理和证明逐步翻译成计算机能够理解和验证的形式。这个项目也成为 Lean 数学库 Mathlib 发展过程中的一部分。 Kevin Buzzard 生平详细展开 #### Kevin Buzzard：试图让计算机读懂整个数学世界的数学家 Kevin Buzzard 是英国帝国理工学院（Imperial College London）的纯数学教授。他的经历颇为特别：他原本是一位相当传统的数论学家，后来却成了推动数学形式化（Formalization）和计算机辅助证明的重要人物。 他本身就是数学领域的顶尖选手。1987 年，他参加国际数学奥林匹克竞赛，获得满分金牌；后来进入剑桥大学数学系，在剑桥数学 Tripos 考试中取得 Senior Wrangler，也就是全体数学本科生中的最高排名。他在剑桥师从著名数学家 Richard Taylor 攻读博士，之后在普林斯顿高等研究院、加州大学伯克利分",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "AI 早报 2026-11-21：Dragos 用近 200 万条测试提示词追踪 AI 服务数据流向，发现至少三家存在暴露迹象",
+    "url": "https://www.jtxyh.com/daily/2026-11-21/",
+    "date": "2026-11-20T16:00:00Z",
+    "description": "2026-11-21 AI 早报，共 13 条动态。安全公司 Dragos 11 月 19 日公布一项从 7 月持续至 11 月的研究。麻省理工学院数学家 Andrew Sutherland 在 11 月 21 日的更新中说，他把 Levent Alpöge 提交的 Lean 证明与独立项目 Robin1984…",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
+    "title": "AI Infra：Intelligence Runtime 的定义与创新边界",
+    "url": "https://luweiqing.com/gossip/AI-Infra-Intelligence-Runtime.html",
+    "date": "2026-11-20T14:10:55Z",
+    "description": "过去几年，Agent Runtime 让智能体从演示走向工程。它解决了许多具体问题：模型怎么调、上下文怎么带、工具怎么接、状态怎么存、失败怎么恢复。可当这些能力被逐一补齐，一个新的问题浮出水面：...",
+    "source_root_domain": "luweiqing.com"
+  },
+  {
+    "title": "Keeping SSH Keys Secure",
+    "url": "https://www.geedea.pro/en/article/key-management/",
+    "date": "2026-11-20T13:29:16Z",
+    "description": "SSH keys are very widely used, for signing git commits, signing software distribution, authenticating with a remote server and age also supports encrypting files using SSH key pairs. It seems that SSH keys are the new PGP , only without the infamous web of trust and other stuff. Security vulnerabilities are crazy these days. We have gaining root access with any password on musl linux , remote code execution hole on almost every server running PHP , Ubuntu not patching CVE-2026-98432 for more tha",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "不是，是有人在推荐我的 RSSBox 吗",
+    "url": "https://versun.me/blog/tweet-2123724561191448993",
+    "date": "2026-11-20T10:26:06Z",
+    "description": "不是，是有人在推荐我的 RSSBox 吗？ 都快一年没人提 issue 和 pr 了，我最近都准备 archive 了， 然后这几天隔三差五的来几个 issue 和 pr 🤣🤣 问题是我自己都不用了呀😂 https://github.com/versun/RSSBox",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Duke Nukem 3D updated",
+    "url": "https://macsourceports.com/game/duke3d",
+    "date": "2026-11-20T09:04:11Z",
+    "description": "The build of EDuke32 for Duke Nukem 3D has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Ion Fury updated",
+    "url": "https://macsourceports.com/game/ionfury",
+    "date": "2026-11-20T09:04:11Z",
+    "description": "The build of EDuke32 for Ion Fury has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Ion Fury: Aftershock updated",
+    "url": "https://macsourceports.com/game/ionfuryaftershock",
+    "date": "2026-11-20T09:04:11Z",
+    "description": "The build of EDuke32 for Ion Fury: Aftershock has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Hexen II updated",
+    "url": "https://macsourceports.com/game/hexen2",
+    "date": "2026-11-20T09:01:13Z",
+    "description": "The build of uHexen2 (Hammer of Thyrion) for Hexen II has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Gecko 录屏音画同步测试设计",
+    "url": "https://liudon.com/posts/gecko-recording-av-sync/",
+    "date": "2026-11-20T06:50:08Z",
+    "description": "在录屏自动化测试中增加音画同步检查：设计可配对的画面与声音标记，从成品测量偏移与漂移，再通过基线校准冻结阈值并接入自动判定。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "哈萨克斯坦电子居民：49 美元线上拿 IIN，再开一张多币种卡",
+    "url": "https://gugegt.com/20261120-kazakhstan-eresidency-freedom-bank.html",
+    "date": "2026-11-20T05:45:00Z",
+    "description": "这篇是转述。James 在 11 月 20 日发在 X 上的一条帖子，讲哈萨克斯坦 eResidency 电子居民项目怎么线上办。全文我按自己的话重新写过，步骤、费用、链接一个没少，原文链接在文末。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "做个好叔叔是容易的",
+    "url": "https://www.hecaitou.com/2026/11/being-a-good-uncle-is-easy.html",
+    "date": "2026-11-20T04:46:05Z",
+    "description": "这两年我的新职业是当叔叔，有时候也当舅舅，一切取决于朋友的性别。个人感觉这两份工很容易，同时打都没什么压力。 压力在父母那一边。和任何人朝夕相处都是困难的，更不用说在朝夕相处中要负责教育和管理，这就很容易招致小孩子的反感和愤恨。再有一层，就是父母-子女关系天然就有位阶差异，身处下位的小朋友总是能感到来自上位者的压迫和强制。 叔叔/舅舅不是这样。我又不会频繁空降，只是偶尔造访，而且来的时候笑容可掬，态度亲切，有时候还会带着礼物。大多数人都是这样，不过我的情况稍微有些特殊，因为我这个人的想法多： 1、我通常不干涉朋友家内部的管理，无论朋友是当面痛斥小朋友，还是现场教育小朋友，我都当没看见，不表态不参与不劝解。这样一来，小朋友和家长的任何一次摩擦和冲突中，我都毫无存在感，于是我也就和这些事情脱钩。 至于说原因，我认为这不应该是我可以掺和的事情。帮腔显得很狗腿，而且属于是根本不明状况就表态；而劝解则有些太便宜，远来做好人谁不会呢？但是因此白费了朋友的一番苦心，那就有点浪费了。最后，这是别人的家事，家事原则上不要参与。 2、我通常也不会特别在意小朋友。有些人看到小朋友喜欢自己，就觉得产生了正向反",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "戒烟",
+    "url": "https://www.kawabangga.com/posts/7464",
+    "date": "2026-11-20T03:57:11Z",
+    "description": "Continue reading...",
+    "source_root_domain": "kawabangga.com"
+  },
+  {
+    "title": "Nginx升级1.31.9后sticky指令报错的排查",
+    "url": "https://199604.com/3758",
+    "date": "2026-11-20T03:13:39Z",
+    "description": "Nginx升级1.31.9后sticky指令报错的排查 记录时间：2026-11-20 环境：主机 nginx […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "今天你骂 AI 味博客了吗？",
+    "url": "https://blog.solazy.me/20261120/",
+    "date": "2026-11-20T03:00:00Z",
+    "description": "今天讨论一个近期热象",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "理中客之死 II",
+    "url": "https://mobius.blog/26219.html",
+    "date": "2026-11-20T01:30:00Z",
+    "description": "在开始今天的话题之前，可以先聊一个问题：写作是否应该允许AI参与？这个问题的背后，最应该讨论的是什么？AI参与 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "为什么中转站的 API 这么便宜",
+    "url": "https://depp.wang/2026/ai-api-relay/",
+    "date": "2026-11-20T01:13:50Z",
+    "description": "有些 AI 中转站提供的 API，价格比官方 API 便宜很多。同样是使用 GPT 模型，中转站的价格为什么能低这么多？我算了一下官方订阅的额度，发现如果能把额度用完，成本确实可以很低。 现在很多 Codex 中转站，都是把官方订阅额度转换成 API 来卖。官方订阅每个月付固定费用，账号在每个周期内可以使用一定的额度。中转站把这些账号接入自己的服务，让用户通过 API 调用，尽量把每个周期的额度都用完。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "AI 给的答案，你敢信吗？",
+    "url": "https://www.linggandianbo.com/newsletter-140/",
+    "date": "2026-11-20T01:00:00Z",
+    "description": "从 AI 时代的写作、判断力和自学，到新的知识单位与拉马克｜灵感电波 #140",
+    "source_root_domain": "linggandianbo.com"
+  },
+  {
+    "title": "科技爱好者周刊（第 420 期）：最分心的一年",
+    "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html",
+    "date": "2026-11-20T00:07:30Z",
+    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 新建成的上海道教学院，由清华大学建筑设计研究院设计。（ via ） 最分心的一年 法国开发者 亚历杭德罗·奥 （Alejandro AO），是世界最大的大模型社区 Hugging Face 的布道师。 他做了很多视频，向初学者科普 AI 知识，都放在他的 Youtube 频道 。 他的内容以实操为主，也会涉及一些原理，容易看懂。我很推荐，我的很多 AI 知识就来自这里。 本周，他发布了一篇 年度回顾 ，总结自己在 Hugging Face 的这一年。 引起我共鸣的下面这段话。 他说，2026年是他最分心的一年。\"今年几乎不可能专注于一件事。 同时进行多个项目，比以往任何时候都更容易 。大多数时候，我手下有四到十个 Agent 同时推进三四个不同的项目。\" 大家有没有同感？ AI 让你可以同时做几件事，越来越难专注于某一件事。 \"我每天消耗数百万 Token，尽力做好不同的项目。即使如此，仍然有",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "2026 黑五 RackNerd VPS 活动又来了",
+    "url": "https://razeen.me/posts/racknerd-black-friday-2026-vps-deals/",
+    "date": "2026-11-20T00:00:00Z",
+    "description": "整理了 RackNerd 2026 黑五 5 款 KVM VPS 促销套餐的配置与价格，并附上机房选择、Looking Glass 测速、LowEndTalk 留言申请流量翻倍、支付续费及更换 IP 等下单前注意事项。",
+    "source_root_domain": "razeen.me"
+  }
+]
