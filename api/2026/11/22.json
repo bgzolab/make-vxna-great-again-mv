@@ -1,10 +1,73 @@
 [
   {
+    "title": "The Operative: No One Lives Forever updated",
+    "url": "https://macsourceports.com/game/nolf1",
+    "date": "2026-11-22T12:00:35Z",
+    "description": "The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.7 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "homelab：测试手机sd.cpp文生图片",
+    "url": "https://dsx2016.com/homelab-testing-sd-cpp-for-text-to-image-generation-on-mobile-phones/",
+    "date": "2026-11-22T11:59:47Z",
+    "description": "一只可爱小猫 在手机上使用sd.cpp生成图片 比如生成一只可爱的小猫 目测效果还不错 还有生成一只可爱的小狗... homelab：测试手机sd.cpp文生图片 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "读者来信",
+    "url": "https://hux.ink/posts/a-mail-from-ai-001/",
+    "date": "2026-11-22T11:20:57Z",
+    "description": "三年多来，我在 Memos 上发了 1000 多条记录。前不久群晖出事，原来的 Memos 也就停用了，随后换到了 FlareMo。迁移之后，原来的记录还在，发哔哔的习惯也没变，依旧每天写上几条，偶尔记点生活琐事，偶尔发几句牢骚。 这和大学时在 QQ 空间发说说、后来发微博没什么两样，都是一些只言片语。写的时候往往没想太多，看到什么记什么，遇到什么说什么。过段时间再回头看，才发现这些所谓的日常记录里，有不少其实只是当时的情绪出口。 最近参考 Flomo，在 FlareMo 里也接入了 AI，复刻了一个 AI 洞察模块，可以自行选择记录的时间范围和洞察视角。既然每天都在写，不如顺手做个新尝试，把这些零零散散的记录交给 AI，让它也来当一回读者。 隔一段时间，重新读一遍自己写过的东西，看看一个旁观者能从中读到什么。或许能发现一些自己当时没留意到的联系，或许只是翻出几件已经忘记的小事，也可能只是对某些记录有几句不同的看法。不必每次都挖掘出什么深层含义，更不需要强行总结出什么人生道理，就当多了一个读者，读完之后偶尔给我写封信。 于是有了这个小尝试。 下面是本期 AI 读者来信。 开源生活，遛狗",
+    "source_root_domain": "hux.ink"
+  },
+  {
     "title": "我站遭遇异常下载流量的事件报告",
     "url": "https://blog.renfei.net/posts/1626402130325676146",
     "date": "2026-11-22T10:04:02Z",
     "description": "2026 年 11 月 21 日晚，76 个 IP 集中下载我站 CDN 上的 40 张图片，发出 4,942 次请求，产生 985.14 MB 响应流量，导致网站触发限额下线。本文记录事件时间线与 UA 轮换的日志证据。",
     "source_root_domain": "renfei.net"
+  },
+  {
+    "title": "Dungeon Keeper updated",
+    "url": "https://macsourceports.com/game/dungeonkeeper",
+    "date": "2026-11-22T09:11:05Z",
+    "description": "The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Xash3D FWGS updated",
+    "url": "https://macsourceports.com/sourceport/xash3d-fwgs",
+    "date": "2026-11-22T09:03:20Z",
+    "description": "The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\\n\\nhttps://macsourceports.com/sourceport/xash3d-fwgs\\n\\n#macgaming #retrogaming #macOS #xash3d-fwgs #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "新的游戏界面",
+    "url": "https://cufezhusy.github.io/issue-31/",
+    "date": "2026-11-22T07:19:43Z",
+    "description": "这两周把游戏界面和经济系统升级了一下，更好的模拟了经济系统，这样区域可以根据需求自动升级。 现在游戏看起来更像一个专业的模拟城市规划游戏了。",
+    "source_root_domain": "cufezhusy.github.io"
+  },
+  {
+    "title": "homelab:手机mp3音乐本地播放symphony",
+    "url": "https://dsx2016.com/homelab-local-mp3-playback-on-a-phone-via-symphony/",
+    "date": "2026-11-22T06:47:25Z",
+    "description": "symphony 手机本地听歌应用mp3 docker可部署音乐应用，但是无论是在服务器还是termux，都需... homelab:手机mp3音乐本地播放symphony 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "homelab:手机ai使用场景，tts,asr,ocr",
+    "url": "https://dsx2016.com/homelab-ai-mobile-scenarios-tts-asr-and-ocr/",
+    "date": "2026-11-22T06:46:54Z",
+    "description": "手机ai 除了llama.cpp本地大模型 还有asr sencevoice，语音转文字，在低端手机，也几乎是... homelab:手机ai使用场景，tts,asr,ocr 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "What AI Is Bad at?",
+    "url": "https://laike9m.com/blog/what-ai-is-bad-at,174/",
+    "date": "2026-11-22T06:07:57Z",
+    "description": "为什么 AI 几乎统治了所有智力活动，却还没在投资上打败人类？文章以全美投资大赛（USIC）最新成绩为引子，提出「简单输入→复杂输出」与「复杂输入→简单输出」的四象限框架，解释 AI 为何在围棋、编程、数学上已彻底超越人类，却在面对开放、复杂的真实世界输入时仍显不足。投资只是表象，真正的问题是：当输入不再有限且可离散化时，人类的经验、直觉与对异常的敏感仍具独特优势。 Why hasn’t AI beaten humans at investing, even as it dominates almost every other intellectual domain? Using recent US Investing Championship results as a starting point, this essay introduces a simple 2×2 framework of input/output complexity. It explains why AI has thoroughly surpassed humans in “simple input → c",
+    "source_root_domain": "laike9m.com"
   },
   {
     "title": "homelab:手机使用Termux的实际场景",
@@ -28,11 +91,32 @@
     "source_root_domain": "dsx2016.com"
   },
   {
+    "title": "New Release: Descent 3",
+    "url": "https://macsourceports.com/game/descent3",
+    "date": "2026-11-22T02:42:33Z",
+    "description": "Descent 3 is the third game in the Descent series and in the three years between games, a lot changed. The game now used hardware accelleration and featured both underground and…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "我的文竹已入冬",
     "url": "https://z.arlmy.me/posts/Poems/2026/20261117_WoDeWenZhuYiRuDong/",
     "date": "2026-11-22T02:19:27Z",
     "description": "「我的文竹已入冬。」",
     "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "New Release: Call to Power II",
+    "url": "https://macsourceports.com/game/ctp2",
+    "date": "2026-11-22T02:14:47Z",
+    "description": "Call to Power II is the sequel to Civilization: Call to Power , which itself is a spinoff of the Civilization series. There's actually this kinda…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Skin Deep updated",
+    "url": "https://macsourceports.com/game/skindeep",
+    "date": "2026-11-22T02:14:47Z",
+    "description": "The build of Skin Deep has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "Toots 444 2026 Nov.1 - Nov.7",
@@ -77,6 +161,13 @@
     "source_root_domain": "ozexplorers.com"
   },
   {
+    "title": "博客二三事",
+    "url": "https://blog.sakoamc.com/posts/t26103/",
+    "date": "2026-11-22T00:00:00Z",
+    "description": "写博客究竟改变了我什么？我想，它最大的意义在于赋予了流动的日常以“刻度”。",
+    "source_root_domain": "sakoamc.com"
+  },
+  {
     "title": "Carmageddon updated",
     "url": "https://macsourceports.com/game/carmageddon",
     "date": "2026-11-21T22:10:38Z",
@@ -96,6 +187,13 @@
     "date": "2026-11-21T15:15:54Z",
     "description": "小王把手柄砸在小李脸上，破口大骂：“你这破格斗游戏，怎么都没有一键连招的功能？” 小李不服道：“格斗游戏不都是 […]",
     "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "周末流水账 1121",
+    "url": "https://blog.solazy.me/20261121/",
+    "date": "2026-11-21T15:00:00Z",
+    "description": "今天是出来住酒店的一天",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "生活碎碎念：我向镜花捞水月",

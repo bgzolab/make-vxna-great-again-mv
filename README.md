@@ -27,20 +27,34 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-22 | [The Operative: No One Lives Forever updated](https://macsourceports.com/game/nolf1) | The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.7 of the project |
+| 2026-11-22 | [homelab：测试手机sd.cpp文生图片](https://dsx2016.com/homelab-testing-sd-cpp-for-text-to-image-generation-on-mobile-phones/) | 一只可爱小猫 在手机上使用sd.cpp生成图片 比如生成一只可爱的小猫 目测效果还不错 还有生成一只可爱的小狗... homelab：测试手机sd.cpp文生图片 最先出现在 大师兄2016 。 |
+| 2026-11-22 | [读者来信](https://hux.ink/posts/a-mail-from-ai-001/) | 三年多来，我在 Memos 上发了 1000 多条记录。前不久群晖出事，原来的 Memos 也就停用了，随后换到了 FlareMo。迁移之后，原来的记录还在，发哔哔的习惯也没变，依旧每天写上几条，偶尔记点生活琐事，偶尔发几句牢骚。 这和大学时在 QQ 空间发说说、后来发微博没什么两样，都是一些只言片… |
 | 2026-11-22 | [我站遭遇异常下载流量的事件报告](https://blog.renfei.net/posts/1626402130325676146) | 2026 年 11 月 21 日晚，76 个 IP 集中下载我站 CDN 上的 40 张图片，发出 4,942 次请求，产生 985.14 MB 响应流量，导致网站触发限额下线。本文记录事件时间线与 UA 轮换的日志证据。 |
+| 2026-11-22 | [Dungeon Keeper updated](https://macsourceports.com/game/dungeonkeeper) | The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project |
+| 2026-11-22 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
+| 2026-11-22 | [新的游戏界面](https://cufezhusy.github.io/issue-31/) | 这两周把游戏界面和经济系统升级了一下，更好的模拟了经济系统，这样区域可以根据需求自动升级。 现在游戏看起来更像一个专业的模拟城市规划游戏了。 |
+| 2026-11-22 | [homelab:手机mp3音乐本地播放symphony](https://dsx2016.com/homelab-local-mp3-playback-on-a-phone-via-symphony/) | symphony 手机本地听歌应用mp3 docker可部署音乐应用，但是无论是在服务器还是termux，都需... homelab:手机mp3音乐本地播放symphony 最先出现在 大师兄2016 。 |
+| 2026-11-22 | [homelab:手机ai使用场景，tts,asr,ocr](https://dsx2016.com/homelab-ai-mobile-scenarios-tts-asr-and-ocr/) | 手机ai 除了llama.cpp本地大模型 还有asr sencevoice，语音转文字，在低端手机，也几乎是... homelab:手机ai使用场景，tts,asr,ocr 最先出现在 大师兄2016 。 |
+| 2026-11-22 | [What AI Is Bad at?](https://laike9m.com/blog/what-ai-is-bad-at,174/) | 为什么 AI 几乎统治了所有智力活动，却还没在投资上打败人类？文章以全美投资大赛（USIC）最新成绩为引子，提出「简单输入→复杂输出」与「复杂输入→简单输出」的四象限框架，解释 AI 为何在围棋、编程、数学上已彻底超越人类，却在面对开放、复杂的真实世界输入时仍显不足。投资只是表象，真正的问题是：当输… |
 | 2026-11-22 | [homelab:手机使用Termux的实际场景](https://dsx2016.com/homelab-real-world-termux-use-cases-on-mobile/) | Termux 如果说手机上相对使用场景比较多的，就是termux 本文用它临时ssh连接vps服务器或者hom... homelab:手机使用Termux的实际场景 最先出现在 大师兄2016 。 |
 | 2026-11-22 | [工具闪闪亮](https://www.hecaitou.com/2026/11/shiny-new-tools.html) | 这个周末，Claude在我注册后不到 60 秒就封掉了账号，于是我趁着「黑五」半价买了 Google AI Pro 会员。我发布前一条消息时，读者朋友们奔走相告，拍手相庆，点赞近 600 次。我发布后一条消息后，点赞锐减到不足 200 次，然而后者的阅读量其实更高，可见人们真正喜闻乐见的究竟是什么。… |
 | 2026-11-22 | [homelab:手机尝试本地大模型PocketPal](https://dsx2016.com/homelab-trying-out-the-local-large-language-model-pocketpal-on-a-mobile-phone/) | PocketPal 在谷歌play商店下载 可选择合适的本地大模型，开启聊天会话 可以看到我下载的大模型 Ge... homelab:手机尝试本地大模型PocketPal 最先出现在 大师兄2016 。 |
+| 2026-11-22 | [New Release: Descent 3](https://macsourceports.com/game/descent3) | Descent 3 is the third game in the Descent series and in the three years between games, a lot changed. The game now used hardware accelleration and fe… |
 | 2026-11-22 | [我的文竹已入冬](https://z.arlmy.me/posts/Poems/2026/20261117_WoDeWenZhuYiRuDong/) | 「我的文竹已入冬。」 |
+| 2026-11-22 | [New Release: Call to Power II](https://macsourceports.com/game/ctp2) | Call to Power II is the sequel to Civilization: Call to Power , which itself is a spinoff of the Civilization series. There's actually this kinda… |
+| 2026-11-22 | [Skin Deep updated](https://macsourceports.com/game/skindeep) | The build of Skin Deep has been updated to the latest code of the project |
 | 2026-11-22 | [Toots 444 2026 Nov.1 - Nov.7](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261107/) | 「交响乐与劳动号子。」 |
 | 2026-11-22 | [最近惦念 20261114](https://z.arlmy.me/posts/TILs/thoughts/20261114_Recently/) | 「爱是通用货币。」 |
 | 2026-11-22 | [最近惦念 20261030](https://z.arlmy.me/posts/TILs/thoughts/20261030_Recently/) | 「允许自己存在。」 |
 | 2026-11-22 | [≡ 021｜做饭是需要被看见的？](https://mobius.blog/26236.html) | 在上周末的Newsletter里，留了一个话题： 我跟我老婆都是很爱做饭的人，最近新认识的朋友，她的男友也很爱 […] |
 | 2026-11-22 | [Memos #2026-11-21](https://blog.itaober.com/memos/memo_20261121005743_bk44kp) | 08:58 一觉起来天塌了… |
 | 2026-11-22 | [200澳元在Costco可以买到多少东西？](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/11/22/what-200-aud-buys-at-costco.html) | 周六中午，我去了一趟Costco，计划先加油，顺便逛一圈超市。 最终，加油花了36.74刀，Costco购物花了200.66刀。 这篇文章，我来分享一下200澳元在Costco到底能买到多少东西，让大家直观感受一下澳元的购买力。 |
+| 2026-11-22 | [博客二三事](https://blog.sakoamc.com/posts/t26103/) | 写博客究竟改变了我什么？我想，它最大的意义在于赋予了流动的日常以“刻度”。 |
 | 2026-11-21 | [Carmageddon updated](https://macsourceports.com/game/carmageddon) | The build of Dethrace for Carmageddon has been updated to version v0.11.0 of the project |
 | 2026-11-21 | [homelab 从手机开始 从安卓开始](https://dsx2016.com/building-a-homelab-from-scratch-starting-with-android-on-your-phone/) | 从手机📱开始 从最开始编写python和nodejs脚本，到第三方项目部署比如宝塔面板，到docker com... homelab 从手机开始 从安卓开始 最先出现在 大师兄2016 。 |
 | 2026-11-21 | [格斗游戏](https://mobius.blog/26243.html) | 小王把手柄砸在小李脸上，破口大骂：“你这破格斗游戏，怎么都没有一键连招的功能？” 小李不服道：“格斗游戏不都是 […] |
+| 2026-11-21 | [周末流水账 1121](https://blog.solazy.me/20261121/) | 今天是出来住酒店的一天 |
 | 2026-11-21 | [生活碎碎念：我向镜花捞水月](https://blog.mfwt.top/index.php/archives/1756/) | 本站的老读者看到这个标题，应该能猜到笔者实际上想讲的是什么。没错，这是之前关于Cosplay的博文（当然还有他的续集）的又一篇续集。笔者习惯把他们称之为镜花水月系列，原因也是很显然的。当然，从本... |
 | 2026-11-21 | [有没有人做个今年的黑五汇总网站呀，主要是](https://versun.me/blog/tweet-2124119049236025802) | 有没有人做个今年的黑五汇总网站呀，主要是 AI 方面的，虽然说 AI 时代不要买年费，但架不住便宜啊！ |
 | 2026-11-21 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.4.3 of the project |
@@ -99,7 +113,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-19 | [AI 早报 2026-11-20：DeepSeek 第二轮融资落定：约 1055 亿元、估值 6155 亿元，31 家出资方现身](https://www.jtxyh.com/daily/2026-11-20/) | 2026-11-20 AI 早报，共 20 条动态。11 月 19 日至 20 日，DeepSeek 运营主体杭州深度求索完成工商变更，新增持股平台杭州程砚，注册资本增至 1991.87 万元，增幅约 21.1%。The Information 11 月 19 日报道，英伟达正就收购扩散式大模型初创… |
 | 2026-11-19 | [Hack AC以后，AI终于跑赢了真人记录](https://elmagnifico.tech/2026/11/20/AC-AI-Drive-Hack/) | Foreword AI在手，天下我有。既然上一章已经遇到了AC的黑盒、CSP的黑盒，那就直接逆向他们，拿到实际的物理解算的核心逻辑。尽可能不依赖游戏本身，直接用得到的计算逻辑进行模拟测试，最后用游戏本身去做一次验证即可。 无论他有多么黑盒，终归是游戏，是有规矩可循的，那么就一定能算出来一个最优解。当… |
 | 2026-11-19 | [Hi，咪咪，三年了](https://veryjack.com/life/mimi-three-years/) |  |
-| 2026-11-19 | [New Release: Skin Deep](https://macsourceports.com/game/skindeep) | Skin Deep is the latest game from Blendo Games and its founder/auteur Brendon Chung with a distinct visual style and a nonsensical title. You play as… |
 | 2026-11-19 | [文本的审美，一次车祸](https://zhangke.space/%e6%96%87%e6%9c%ac%e7%9a%84%e5%ae%a1%e7%be%8e%ef%bc%8c%e4%b8%80%e6%ac%a1%e8%bd%a6%e7%a5%b8/?utm_source=rss&utm_medium=rss&utm_campaign=%25e6%2596%2587%25e6%259c%25ac%25e7%259a%2584%25e5%25ae%25a1%25e7%25be%258e%25ef%25bc%258c%25e4%25b8%2580%25e6%25ac%25a1%25e8%25bd%25a6%25e7%25a5%25b8) | 自从生成式人工智能出现之后，“审美”这个词真是用得越来越多了，虽然我也想尽可能避免使用这个词但想不到更合适的标 […] |
 | 2026-11-19 | [一生病就容易emo。。。啥也不想干 想起](https://versun.me/blog/tweet-2123404634786087213) | 一生病就容易emo。。。啥也不想干 想起来 AI 出现之前，还是挺喜欢学习的，因为要做一个东西很难，什么都得学，什么都得懂一点 而现在有了 AI 以后，已经很少学习了，因为做一个东西很简单，不用啥都学啥都懂，所以也是很佩服 @antiAIvo 几乎每天都在主动学习 |
 | 2026-11-19 | [Serving Static Websites on OpenBSD, for dummies](https://www.geedea.pro/en/article/web-server-openbsd/) | Though it’s a choice, it’s not necessary to install something like nginx to host a website on OpenBSD. You can do that with a few tools that already c… |
@@ -144,11 +157,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-18 | [把自己作为「产品」](https://lomus.cc/把自己作为产品/) | 借用项飙老师的句式，小小标题党一下。其实我想讲的是，把自己产品化，或者把自己当做一个产品对待。 |
 | 2026-11-18 | [VSCode 中 Kilo 扩展的代理机制解析与分流配置（http.proxy 与 noProxy）](https://blog.rustfisher.com/tools/vscode-kilo-http-noproxy-settings/) | 在日常研发中，经常会遇到这样一种网络分流需求：AI 编程插件需要走代理访问外部模型 API，但同时又要直连公司内网的私有模型网关或本地调试服务（如 localhost 、 *.rustfisher.com ）。 <h2 |
 | 2026-11-18 | [没有港卡怎么激活Wise](http://www.5had0w.com/posts/5962c526.html) | 先说结论，最后是通过 iFAST 激活的 Wise，花了 125 元，主要是外汇转账（用的招行）的手续费（25元） + 通讯费（100元），这个外汇是用于激活 iFast，激活 iFast 后就可以无损入金激活 Wise。 全程线上办理，有国内银行卡就行。</ |
-| 2026-11-18 | [The Operative: No One Lives Forever updated](https://macsourceports.com/game/nolf1) | The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.6.1 of the project |
 | 2026-11-18 | [S.T.A.L.K.E.R.: Call of Pripyat updated](https://macsourceports.com/game/stalkercop) | The build of OpenXRay for S.T.A.L.K.E.R.: Call of Pripyat has been updated to the latest code of the project |
 | 2026-11-18 | [Serious Sam: The First Encounter updated](https://macsourceports.com/game/serioussamfe) | The build of Serious-Engine for Serious Sam: The First Encounter for Serious Sam: The First Encounter has been updated to the latest code of the proje… |
 | 2026-11-18 | [Serious Sam: The Second Encounter updated](https://macsourceports.com/game/serioussamse) | The build of Serious-Engine for Serious Sam: The Second Encounter for Serious Sam: The Second Encounter has been updated to the latest code of the pro… |
-| 2026-11-18 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
 | 2026-11-18 | [Mingle 这个工具不错，简单的 Ag](https://versun.me/blog/tweet-2122953837531283635) | earayu 任意 Agent，接入任意聊天软件。 https://mingle.build/zh/ 无服务器的Agent协作软件，所以不用担心日渐严峻的网络安全问题，感兴趣可以试用一下。 Mingle 这个工具不错，简单的 Agent 中继器，可以使用自己调配的 harness |
 | 2026-11-18 | [SkyWalking 网关插件在 SCG 2.2.8 上抛 NPE 导致网关请求 500 的排查](https://199604.com/3756) | SkyWalking 网关插件在 SCG 2.2.8 上抛 NPE 导致网关请求 500 的排查 记录时间：2 […] |
 | 2026-11-18 | [在凌晨五点醒来](https://www.hecaitou.com/2026/11/awake-at-5-am.html) | 今天凌晨五点我突然醒来，往常这应该是我睡得最香的时候。醒来之后头脑不是很清醒，于是开始执行每天的自动程序，去拉开窗帘，给加湿机补水，诸如此类的事情。 我以为现在是冬季了，北方的冬季天亮得晚，夜里应该是漆黑一团。但是拉开窗帘后发现天空是漂亮的深蓝色，沉静安详，在天光下能清清楚楚看见窗外的景物。而且，我… |
