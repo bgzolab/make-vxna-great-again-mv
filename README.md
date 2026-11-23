@@ -27,6 +27,22 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-23 | [忘记分享前几天去拍的 APEC 灯光秀了](https://sigge.cn/2026/11/23/vqw8o7pz) | 忘记分享前几天去拍的 APEC 灯光秀了 |
+| 2026-11-23 | [The Operative: No One Lives Forever updated](https://macsourceports.com/game/nolf1) | The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.7.1 of the project |
+| 2026-11-23 | [esp32 cyd 油管粉丝数显示](https://dsx2016.com/esp32-cyd-oil-tank-gauge/) | 油管数据 以前弄lvgl的时候，就是做哔哩哔哩粉丝订阅展示和油管粉丝展示 粉丝增长不大的情况下，就是一个没有动... esp32 cyd 油管粉丝数显示 最先出现在 大师兄2016 。 |
+| 2026-11-23 | [Al Brooks 问答笔记：练出稳定盈利到底要多久？](https://blog.forecho.com/al-brooks-how-long-to-become-profitable.html) | 引言 学价格行为学久了，脑子里总会时不时冒出一个问题： 到底要学多久、复盘多久，才能做到稳定盈利？ 最近翻了 Al Brooks 网站上两篇间隔一年的交易室问答（2015 年 2 月和 2016 年 3 月），学员问的几乎是同一个问题。两次回答加起来也就十来分钟，没什么鸡汤，他既摊开聊了自己当年亏了… |
+| 2026-11-23 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
+| 2026-11-23 | [S.T.A.L.K.E.R.: Call of Pripyat updated](https://macsourceports.com/game/stalkercop) | The build of OpenXRay for S.T.A.L.K.E.R.: Call of Pripyat has been updated to the latest code of the project |
+| 2026-11-23 | [Dungeon Keeper updated](https://macsourceports.com/game/dungeonkeeper) | The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project |
+| 2026-11-23 | [The Settlers II updated](https://macsourceports.com/game/settlers2) | The build of Return to the Roots for The Settlers II has been updated to the latest code of the project |
+| 2026-11-23 | [Descent updated](https://macsourceports.com/game/descent) | The build of DXX-Rebirth (D1X-Rebirth) for Descent has been updated to the latest code of the project |
+| 2026-11-23 | [Descent II updated](https://macsourceports.com/game/descent2) | The build of DXX-Rebirth (D2X-Rebirth) for Descent II has been updated to the latest code of the project |
+| 2026-11-23 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队，野人 微信公众号 持有者。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。… |
+| 2026-11-23 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
+| 2026-11-23 | [让 AI 想象我家](https://www.hecaitou.com/2026/11/how-ai-imagines-my-home.html) | 昨天我请自己使用最多的 AI 去想象一下它眼中我的家是什么样子，要求根据历史对话里它对我的了解，做成一张图。AI 哼哧哼哧搞了十几秒，给出了它的回答，还非常得意地在最后加了一句：注意，最大的特点是没有电视机！ 说实话，这个家我还是蛮喜欢的。几个平米的客厅安排了三个书柜，一个置物矮柜充当黑胶柜，还安排… |
+| 2026-11-23 | [Al Brooks 交易室笔记：Mike Precog 的多周期逻辑、资金管理与学习方法](https://blog.forecho.com/mike-precog-trading-room-notes.html) | 引言 11 月 20 日在 Al Brooks 的美股实盘交易室（Brooks Price Action US Trading Room，01:08 - 02:20）里，听了 Mike （网名 Precog ）的一场分享，记了一堆笔记，感触挺深的。 先简单交代一下他的背景。Mike 是 Al Bro… |
+| 2026-11-23 | [不要和蠢人打交道](https://blog.solazy.me/20261123/) | 虽说这个标题起的很局限，但是这个道理其实可以拓展到各个领域 |
+| 2026-11-23 | [京A 冻梨版双倍浑浊IPA &#124; Jing.A Brewings Co. Double IPA with Frozen Pear](https://7gugu.com/index.php/2026/11/23/%e4%ba%aca-%e5%86%bb%e6%a2%a8%e7%89%88%e5%8f%8c%e5%80%8d%e6%b5%91%e6%b5%8aipa-jing-a-brewings-co-double-ipa-with-frozen-pear/) | 感谢朋友送的生日礼物🎁，也算是喝到了我想喝的啤酒了。 外观：浅黄色 浑浊透光 气泡消散慢 闻香：浓烈的西楚酒花 … 继续阅读 “京A 冻梨版双倍浑浊IPA &#124; Jing.A Brewings Co. Double IPA with Frozen Pear” |
 | 2026-11-23 | [OpenCode 自定义外部提供商和模型](https://songxwn.com/OpenCode-Customapi/) |  |
 | 2026-11-23 | [篱笆、女人和狗](https://mobius.blog/26248.html) | 很早就想聊这个话题了，但一直没有很好的切入点，关于这件事我也打算写成小说的一部分，以魔幻主义的视角，来解构人与 […] |
 | 2026-11-23 | [Nginx升级1.31.9后JDK7的CAS校验报protocol_version排查](https://199604.com/3760) | Nginx升级1.31.9后JDK7的CAS校验报protocol_version排查 记录时间：2026-1 […] |
@@ -34,14 +50,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-22 | [可控并发测试实战指南：告别偶发 Flaky，像导演一样精准抓出深层竞态 Bug](https://shansan.top/2026/11/22/controlled-concurrency-testing-deep-dive/) | 从余额超扣和缓存失效看懂 PCT、URW、DPOR 与 Go synctest，再用 ConDpor、Tamias 和 REINS 解释如何联合探索输入与调度、控制多进程服务、验证 AI 提出的交错。 |
 | 2026-11-22 | [DiskSeek.space 盘寻一下，空间回来 —— 更好的、更完整的磁盘清理工具](https://blog.mzh.ren/zh/posts/2026/11/diskseek/) | 现在的电脑就办公而言，性能强大，容量无敌。但是磁盘空间的分析和清理还是一个非常常规的动作。为什么？ 正是因为安迪-比尔定律：安迪给的，比尔都会拿走。这里的安迪指的是英特尔的前 CEO 安迪·格鲁夫，比尔指的则是微软的前 CEO 比尔·盖茨。它的实际意思就是说，新软件往往会很快消耗掉硬件带来的计算机性… |
 | 2026-11-22 | [homelab: 手机硬件日常是使用场景](https://dsx2016.com/homelab-mobile-hardware-in-daily-use-scenarios/) | nfc 电动车nfc钥匙，房间钥匙小区门禁，公交卡，地铁nfc支付 基本出行都离不开nfc，有它会方便很多 蓝... homelab: 手机硬件日常是使用场景 最先出现在 大师兄2016 。 |
+| 2026-11-22 | [名人访谈里的成功学](https://blog.solazy.me/20261122/) | 最近打开播客 App，首页推荐里有一大半都是名人访谈。 前两年还是罗永浩、鲁豫、易立竞、杨天真这些本身就自带流量的名字在做对谈，今年连不少原本聊行业、聊技术或者聊生活方式的播客，也开始频繁请名人来做客。我前几天洗碗的时候顺手点开一期，2 个多小时的节目，嘉宾名气很大，聊得也算坦诚。但我听完一半就觉得… |
 | 2026-11-22 | [Album#53 - For Emma, Forever Ago](https://taxodium.ink/album-53.html) | Album#53 For Emma, Forever Ago 图1 For Emma, Forever Ago by Bon Iver 专辑信息 专辑名称： For Emma, Forever Ago 歌手： Bon Iver 年份： 2008-02-19 时长： 約 38 分鐘 天氣開始轉涼，想找… |
 | 2026-11-22 | [Quake 4 updated](https://macsourceports.com/game/quake4) | The build of openQ4 for Quake 4 has been updated to version v0.15.0 of the project |
-| 2026-11-22 | [The Operative: No One Lives Forever updated](https://macsourceports.com/game/nolf1) | The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.7 of the project |
 | 2026-11-22 | [homelab：测试手机sd.cpp文生图片](https://dsx2016.com/homelab-testing-sd-cpp-for-text-to-image-generation-on-mobile-phones/) | 一只可爱小猫 在手机上使用sd.cpp生成图片 比如生成一只可爱的小猫 目测效果还不错 还有生成一只可爱的小狗... homelab：测试手机sd.cpp文生图片 最先出现在 大师兄2016 。 |
 | 2026-11-22 | [读者来信](https://hux.ink/posts/a-mail-from-ai-001/) | 三年多来，我在 Memos 上发了 1000 多条记录。前不久群晖出事，原来的 Memos 也就停用了，随后换到了 FlareMo。迁移之后，原来的记录还在，发哔哔的习惯也没变，依旧每天写上几条，偶尔记点生活琐事，偶尔发几句牢骚。 这和大学时在 QQ 空间发说说、后来发微博没什么两样，都是一些只言片… |
 | 2026-11-22 | [我站遭遇异常下载流量的事件报告](https://blog.renfei.net/posts/1626402130325676146) | 2026 年 11 月 21 日晚，76 个 IP 集中下载我站 CDN 上的 40 张图片，发出 4,942 次请求，产生 985.14 MB 响应流量，导致网站触发限额下线。本文记录事件时间线与 UA 轮换的日志证据。 |
-| 2026-11-22 | [Dungeon Keeper updated](https://macsourceports.com/game/dungeonkeeper) | The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project |
-| 2026-11-22 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
 | 2026-11-22 | [Vol.127 从模型分工到智能体工程化：把验证、成本与信任落到可复用流程中](https://liduos.com/weekly/the-weekly-gradient-127) | 本期内容聚焦模型分工与智能体工程化：从旗舰与日常模型选型、流程自动化，到测试验证、故障演练、推理成本、工具信任与数据口径治理，梳理可落地的团队实践。 |
 | 2026-11-22 | [新的游戏界面](https://cufezhusy.github.io/issue-31/) | 这两周把游戏界面和经济系统升级了一下，更好的模拟了经济系统，这样区域可以根据需求自动升级。 现在游戏看起来更像一个专业的模拟城市规划游戏了。 |
 | 2026-11-22 | [homelab:手机mp3音乐本地播放symphony](https://dsx2016.com/homelab-local-mp3-playback-on-a-phone-via-symphony/) | symphony 手机本地听歌应用mp3 docker可部署音乐应用，但是无论是在服务器还是termux，都需... homelab:手机mp3音乐本地播放symphony 最先出现在 大师兄2016 。 |
@@ -138,7 +152,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-19 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.9.2 of the project |
 | 2026-11-19 | [人类还是太脆弱了，家里3口人一起传染得病](https://versun.me/blog/tweet-2123373287539634319) | 人类还是太脆弱了，家里3口人一起传染得病了，估计是流感，请了一周假，在家带病顾病娃😭😢 |
 | 2026-11-19 | [2009，九宫格里的宝箱](https://www.tortorse.com/archives/treasure-chest-in-the-nine-square-grid-2009/) | 2009，九宫格里的宝箱 |
-| 2026-11-19 | [The Settlers II updated](https://macsourceports.com/game/settlers2) | The build of Return to the Roots for The Settlers II has been updated to the latest code of the project |
 | 2026-11-19 | [Duke Nukem II updated](https://macsourceports.com/game/duke2) | The build of RigelEngine for Duke Nukem II has been updated to the latest code of the project |
 | 2026-11-19 | [BRAZILIAN DRUG DEALER 3: I OPENED A PORTAL TO HELL IN THE FAVELA TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT updated](https://macsourceports.com/game/bdd3) | The build of BRAZILIAN DRUG DEALER 3 for BRAZILIAN DRUG DEALER 3: I OPENED A PORTAL TO HELL IN THE FAVELA TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT… |
 | 2026-11-19 | [BRAZILIAN DRUG DEALER BEFORE 4 updated](https://macsourceports.com/game/bddb4) | The build of BRAZILIAN DRUG DEALER BEFORE 4 has been updated to the latest code of the project |
@@ -175,7 +188,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-18 | [把自己作为「产品」](https://lomus.cc/把自己作为产品/) | 借用项飙老师的句式，小小标题党一下。其实我想讲的是，把自己产品化，或者把自己当做一个产品对待。 |
 | 2026-11-18 | [VSCode 中 Kilo 扩展的代理机制解析与分流配置（http.proxy 与 noProxy）](https://blog.rustfisher.com/tools/vscode-kilo-http-noproxy-settings/) | 在日常研发中，经常会遇到这样一种网络分流需求：AI 编程插件需要走代理访问外部模型 API，但同时又要直连公司内网的私有模型网关或本地调试服务（如 localhost 、 *.rustfisher.com ）。 <h2 |
 | 2026-11-18 | [没有港卡怎么激活Wise](http://www.5had0w.com/posts/5962c526.html) | 先说结论，最后是通过 iFAST 激活的 Wise，花了 125 元，主要是外汇转账（用的招行）的手续费（25元） + 通讯费（100元），这个外汇是用于激活 iFast，激活 iFast 后就可以无损入金激活 Wise。 全程线上办理，有国内银行卡就行。</ |
-| 2026-11-18 | [S.T.A.L.K.E.R.: Call of Pripyat updated](https://macsourceports.com/game/stalkercop) | The build of OpenXRay for S.T.A.L.K.E.R.: Call of Pripyat has been updated to the latest code of the project |
 | 2026-11-18 | [Serious Sam: The First Encounter updated](https://macsourceports.com/game/serioussamfe) | The build of Serious-Engine for Serious Sam: The First Encounter for Serious Sam: The First Encounter has been updated to the latest code of the proje… |
 | 2026-11-18 | [Serious Sam: The Second Encounter updated](https://macsourceports.com/game/serioussamse) | The build of Serious-Engine for Serious Sam: The Second Encounter for Serious Sam: The Second Encounter has been updated to the latest code of the pro… |
 | 2026-11-18 | [Mingle 这个工具不错，简单的 Ag](https://versun.me/blog/tweet-2122953837531283635) | earayu 任意 Agent，接入任意聊天软件。 https://mingle.build/zh/ 无服务器的Agent协作软件，所以不用担心日渐严峻的网络安全问题，感兴趣可以试用一下。 Mingle 这个工具不错，简单的 Agent 中继器，可以使用自己调配的 harness |
@@ -199,8 +211,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-17 | [AC自主驾驶与AI车手](https://elmagnifico.tech/2026/11/18/AC-AI-Drive/) | Foreword 上一篇写了SU7 Ultra Mod是怎么做的，里面提到后面又做了一套自主控制器，用来替代我自己一圈圈试车。 实际做下来，这个东西比改Mod麻烦得多。AC不是CARLA，也不是专门给自动驾驶研究做的仿真器。它能把车开得很真实，但是没有一套完整的接口，让外部程序随便读取所有状态、修改… |
 | 2026-11-17 | [带劲的小曲儿](https://hux.ink/posts/catchy-tunes/) | 今天没去跑步，昨天跑了十公里，说说昨天吧。 懈怠了两个月，加上啤酒夜宵什么的，体重势头压不住了，曲线与A股走向背离。 给自己定了一个目标：挑战一个月不点外卖。今天是第 9 天。 晚上能不吃就扛着。昨天下班回到家时就很饿，咬咬牙换了一身跑步装备，出门去。 一开始伴跑的是播客节目，跑着跑着发现不得劲，打… |
 | 2026-11-17 | [为什么不装是最优策略？](https://blog.brmys.cn/no-pretending) | 关联主题:: 同级:: 2026-11-17_星期二 下一级:: 这篇思考源于“失眠专家”和我的善缘，因为我发自内心的善良，对方2026.11.17凌晨和我分享了一些道理，让我深受启发。 “失眠专家”的原话： 我说一些稍微颠覆你认知的话，就我从年轻时候做主持人到我后来在党委的协会（和厅级以上的领导、… |
-| 2026-11-17 | [Descent updated](https://macsourceports.com/game/descent) | The build of DXX-Rebirth (D1X-Rebirth) for Descent has been updated to the latest code of the project |
-| 2026-11-17 | [Descent II updated](https://macsourceports.com/game/descent2) | The build of DXX-Rebirth (D2X-Rebirth) for Descent II has been updated to the latest code of the project |
 | 2026-11-17 | [护身符](https://www.geedea.pro/library/2026/amuleto/) | 他们真漂亮，真美啊！尽管正在肩并肩地走向深渊。我听见他们在唱歌，我成了疯子；我听见他们在唱歌，我无法阻止他们停下来；我距离他们太遥远，没力气下山站到草地中央去对它们说：停下来！你们正在走向死亡啊…… …… 虽然，我听见歌声里谈到了战争，谈到了整整一代拉美牺牲掉的青年人之英雄伟业，我却明白最重要的是说… |
 | 2026-11-17 | [当 Agent 开始协作，一种新的经济生态正在形成](https://luweiqing.com/gossip/Agent-infra-forming.html) | 设想这样一个场景。你希望调研一家科技公司。你的 Agent 接到任务后，先找到擅长产业研究的 Agent，请它梳理市场格局；再调用财务分析工具，处理公开财报；遇到专业技术问题时，向一个行业研究服... |
 | 2026-11-17 | [SimCity 2000 updated](https://macsourceports.com/game/simcity2000) | The build of OpenSC2K for SimCity 2000 has been updated to version v0.4.0 of the project |
@@ -217,7 +227,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-17 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
 | 2026-11-17 | [测试信创环境 SkyWalking Horizon UI Helm 部署](https://199604.com/3753) | 测试信创环境 SkyWalking Horizon UI Helm 部署 记录时间：2026-11-17 环境 […] |
 | 2026-11-17 | [失乐园里有什么？III：AI时代的集体地狱](https://mobius.blog/26170.html) | Previously on 失乐园里有什么： 前段时间，在一篇帖子下讨论到一个如今这个时代才会遭遇的情形： 我 […] |
-| 2026-11-17 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队，野人 微信公众号 持有者。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。… |
 | 2026-11-16 | [Nanjing in Three Days and Three Nights — the Republican Era and Hongshan Forest Zoo](https://victor42.eth.limo/post-en/trip-to-nanjing/) | Two forms of great love, reached by different roads yet arriving at the same place. Photo Album: View the album for this trip Travel Guide: Get the it… |
 | 2026-11-16 | [南京民国&动物园周末游3天3夜](https://victor42.eth.limo/post/trip-to-nanjing/) | 感受两种殊途同归的大爱。 照片相册： 查看本篇相册 旅行攻略： 获取攻略文档 以旅游城市的标准来看，南京的内容极其丰富。出发前我问老婆，说南京有好多种主题玩法：六朝（主要隋唐以前）、明代、民国、抗战、动物园、长江、自然风景，还有大量博物馆，你想看什么？老婆说民国。再考虑到女儿，把顶流的红山森林动物园… |
 | 2026-11-16 | [Tyrian 2000 updated](https://macsourceports.com/game/tyrian2000) | The build of OpenTyrian2000 for Tyrian 2000 has been updated to the latest code of the project |
