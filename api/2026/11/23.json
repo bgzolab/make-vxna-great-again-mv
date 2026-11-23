@@ -1,0 +1,422 @@
+[
+  {
+    "title": "OpenCode 自定义外部提供商和模型",
+    "url": "https://songxwn.com/OpenCode-Customapi/",
+    "date": "2026-11-23T02:05:28Z",
+    "description": "",
+    "source_root_domain": "songxwn.com"
+  },
+  {
+    "title": "篱笆、女人和狗",
+    "url": "https://mobius.blog/26248.html",
+    "date": "2026-11-23T01:30:00Z",
+    "description": "很早就想聊这个话题了，但一直没有很好的切入点，关于这件事我也打算写成小说的一部分，以魔幻主义的视角，来解构人与 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "Nginx升级1.31.9后JDK7的CAS校验报protocol_version排查",
+    "url": "https://199604.com/3760",
+    "date": "2026-11-23T01:22:54Z",
+    "description": "Nginx升级1.31.9后JDK7的CAS校验报protocol_version排查 记录时间：2026-1 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "从晚睡到早起，我做了一个小改变",
+    "url": "https://depp.wang/2026/wake-up-early/",
+    "date": "2026-11-23T00:10:45Z",
+    "description": "我没有想到有一天我也能实现早起。 原来我一直想早起，但一直做不到。我一般十一点以后才睡，可能十二点以后才睡着，早上八点以后或者九点左右才起。虽然十一二点睡觉在现在的社会好像也不算很晚，但对我来说，还是有一点熬夜的感觉。 起床晚，主要还是因为晚上睡得晚。以前吃完晚饭，我可能会先玩一段时间。如果有事情要做，往往要到十点以后才有状态。那时候很安静，也没人打扰，坐着做一会儿，就到十一二点了。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "可控并发测试实战指南：告别偶发 Flaky，像导演一样精准抓出深层竞态 Bug",
+    "url": "https://shansan.top/2026/11/22/controlled-concurrency-testing-deep-dive/",
+    "date": "2026-11-22T22:45:00Z",
+    "description": "从余额超扣和缓存失效看懂 PCT、URW、DPOR 与 Go synctest，再用 ConDpor、Tamias 和 REINS 解释如何联合探索输入与调度、控制多进程服务、验证 AI 提出的交错。",
+    "source_root_domain": "shansan.top"
+  },
+  {
+    "title": "DiskSeek.space 盘寻一下，空间回来 —— 更好的、更完整的磁盘清理工具",
+    "url": "https://blog.mzh.ren/zh/posts/2026/11/diskseek/",
+    "date": "2026-11-22T17:56:28Z",
+    "description": "现在的电脑就办公而言，性能强大，容量无敌。但是磁盘空间的分析和清理还是一个非常常规的动作。为什么？ 正是因为安迪-比尔定律：安迪给的，比尔都会拿走。这里的安迪指的是英特尔的前 CEO 安迪·格鲁夫，比尔指的则是微软的前 CEO 比尔·盖茨。它的实际意思就是说，新软件往往会很快消耗掉硬件带来的计算机性能提升。",
+    "source_root_domain": "mzh.ren"
+  },
+  {
+    "title": "homelab: 手机硬件日常是使用场景",
+    "url": "https://dsx2016.com/homelab-mobile-hardware-in-daily-use-scenarios/",
+    "date": "2026-11-22T15:51:40Z",
+    "description": "nfc 电动车nfc钥匙，房间钥匙小区门禁，公交卡，地铁nfc支付 基本出行都离不开nfc，有它会方便很多 蓝... homelab: 手机硬件日常是使用场景 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "Album#53 - For Emma, Forever Ago",
+    "url": "https://taxodium.ink/album-53.html",
+    "date": "2026-11-22T14:50:00Z",
+    "description": "Album#53 For Emma, Forever Ago 图1 For Emma, Forever Ago by Bon Iver 专辑信息 专辑名称： For Emma, Forever Ago 歌手： Bon Iver 年份： 2008-02-19 时长： 約 38 分鐘 天氣開始轉涼，想找點聴起來比較温暖的音樂聴，想到了 Bon Iver 的音樂，因為他的聲音聴著比較温暖 (其實 High Violet 也不錯，Matt Beringer 的聲音也讓我覺得温暖) 。 最早知道 Bon Iver 是從 HOPICO 女主持出现了!今年的新歌都这么好听?丨HOPICO LINE 看到的，裡面缺省的主唱艾迪娜分享了她喜歡的歌，其中就有 Bon Iver 的歌 (《SABLE, fABLE》專輯裡的歌) ，後來我就把 Bon Iver 的專輯都找來聴了聴，都挺喜歡的，來來回回地聴了好久。 Bon Iver 是一支美國獨立民謠樂團，由創作歌手 Justin Vernon 於 2006 年在 威斯康辛州歐克萊爾 創立。 Bon Iver 這個名字源自法語短語 bon hiver ，意為「",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "Quake 4 updated",
+    "url": "https://macsourceports.com/game/quake4",
+    "date": "2026-11-22T14:25:22Z",
+    "description": "The build of openQ4 for Quake 4 has been updated to version v0.15.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "The Operative: No One Lives Forever updated",
+    "url": "https://macsourceports.com/game/nolf1",
+    "date": "2026-11-22T12:00:35Z",
+    "description": "The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.7 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "homelab：测试手机sd.cpp文生图片",
+    "url": "https://dsx2016.com/homelab-testing-sd-cpp-for-text-to-image-generation-on-mobile-phones/",
+    "date": "2026-11-22T11:59:47Z",
+    "description": "一只可爱小猫 在手机上使用sd.cpp生成图片 比如生成一只可爱的小猫 目测效果还不错 还有生成一只可爱的小狗... homelab：测试手机sd.cpp文生图片 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "读者来信",
+    "url": "https://hux.ink/posts/a-mail-from-ai-001/",
+    "date": "2026-11-22T11:20:57Z",
+    "description": "三年多来，我在 Memos 上发了 1000 多条记录。前不久群晖出事，原来的 Memos 也就停用了，随后换到了 FlareMo。迁移之后，原来的记录还在，发哔哔的习惯也没变，依旧每天写上几条，偶尔记点生活琐事，偶尔发几句牢骚。 这和大学时在 QQ 空间发说说、后来发微博没什么两样，都是一些只言片语。写的时候往往没想太多，看到什么记什么，遇到什么说什么。过段时间再回头看，才发现这些所谓的日常记录里，有不少其实只是当时的情绪出口。 最近参考 Flomo，在 FlareMo 里也接入了 AI，复刻了一个 AI 洞察模块，可以自行选择记录的时间范围和洞察视角。既然每天都在写，不如顺手做个新尝试，把这些零零散散的记录交给 AI，让它也来当一回读者。 隔一段时间，重新读一遍自己写过的东西，看看一个旁观者能从中读到什么。或许能发现一些自己当时没留意到的联系，或许只是翻出几件已经忘记的小事，也可能只是对某些记录有几句不同的看法。不必每次都挖掘出什么深层含义，更不需要强行总结出什么人生道理，就当多了一个读者，读完之后偶尔给我写封信。 于是有了这个小尝试。 下面是本期 AI 读者来信。 开源生活，遛狗",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "我站遭遇异常下载流量的事件报告",
+    "url": "https://blog.renfei.net/posts/1626402130325676146",
+    "date": "2026-11-22T10:04:02Z",
+    "description": "2026 年 11 月 21 日晚，76 个 IP 集中下载我站 CDN 上的 40 张图片，发出 4,942 次请求，产生 985.14 MB 响应流量，导致网站触发限额下线。本文记录事件时间线与 UA 轮换的日志证据。",
+    "source_root_domain": "renfei.net"
+  },
+  {
+    "title": "Dungeon Keeper updated",
+    "url": "https://macsourceports.com/game/dungeonkeeper",
+    "date": "2026-11-22T09:11:05Z",
+    "description": "The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Xash3D FWGS updated",
+    "url": "https://macsourceports.com/sourceport/xash3d-fwgs",
+    "date": "2026-11-22T09:03:20Z",
+    "description": "The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\\n\\nhttps://macsourceports.com/sourceport/xash3d-fwgs\\n\\n#macgaming #retrogaming #macOS #xash3d-fwgs #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Vol.127 从模型分工到智能体工程化：把验证、成本与信任落到可复用流程中",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-127",
+    "date": "2026-11-22T08:00:00Z",
+    "description": "本期内容聚焦模型分工与智能体工程化：从旗舰与日常模型选型、流程自动化，到测试验证、故障演练、推理成本、工具信任与数据口径治理，梳理可落地的团队实践。",
+    "source_root_domain": "liduos.com"
+  },
+  {
+    "title": "新的游戏界面",
+    "url": "https://cufezhusy.github.io/issue-31/",
+    "date": "2026-11-22T07:19:43Z",
+    "description": "这两周把游戏界面和经济系统升级了一下，更好的模拟了经济系统，这样区域可以根据需求自动升级。 现在游戏看起来更像一个专业的模拟城市规划游戏了。",
+    "source_root_domain": "cufezhusy.github.io"
+  },
+  {
+    "title": "homelab:手机mp3音乐本地播放symphony",
+    "url": "https://dsx2016.com/homelab-local-mp3-playback-on-a-phone-via-symphony/",
+    "date": "2026-11-22T06:47:25Z",
+    "description": "symphony 手机本地听歌应用mp3 docker可部署音乐应用，但是无论是在服务器还是termux，都需... homelab:手机mp3音乐本地播放symphony 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "homelab:手机ai使用场景，tts,asr,ocr",
+    "url": "https://dsx2016.com/homelab-ai-mobile-scenarios-tts-asr-and-ocr/",
+    "date": "2026-11-22T06:46:54Z",
+    "description": "手机ai 除了llama.cpp本地大模型 还有asr sencevoice，语音转文字，在低端手机，也几乎是... homelab:手机ai使用场景，tts,asr,ocr 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "What AI Is Bad at?",
+    "url": "https://laike9m.com/blog/what-ai-is-bad-at,174/",
+    "date": "2026-11-22T06:07:57Z",
+    "description": "为什么 AI 几乎统治了所有智力活动，却还没在投资上打败人类？文章以全美投资大赛（USIC）最新成绩为引子，提出「简单输入→复杂输出」与「复杂输入→简单输出」的四象限框架，解释 AI 为何在围棋、编程、数学上已彻底超越人类，却在面对开放、复杂的真实世界输入时仍显不足。投资只是表象，真正的问题是：当输入不再有限且可离散化时，人类的经验、直觉与对异常的敏感仍具独特优势。 Why hasn’t AI beaten humans at investing, even as it dominates almost every other intellectual domain? Using recent US Investing Championship results as a starting point, this essay introduces a simple 2×2 framework of input/output complexity. It explains why AI has thoroughly surpassed humans in “simple input → c",
+    "source_root_domain": "laike9m.com"
+  },
+  {
+    "title": "homelab:手机使用Termux的实际场景",
+    "url": "https://dsx2016.com/homelab-real-world-termux-use-cases-on-mobile/",
+    "date": "2026-11-22T03:40:30Z",
+    "description": "Termux 如果说手机上相对使用场景比较多的，就是termux 本文用它临时ssh连接vps服务器或者hom... homelab:手机使用Termux的实际场景 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "工具闪闪亮",
+    "url": "https://www.hecaitou.com/2026/11/shiny-new-tools.html",
+    "date": "2026-11-22T03:31:32Z",
+    "description": "这个周末，Claude在我注册后不到 60 秒就封掉了账号，于是我趁着「黑五」半价买了 Google AI Pro 会员。我发布前一条消息时，读者朋友们奔走相告，拍手相庆，点赞近 600 次。我发布后一条消息后，点赞锐减到不足 200 次，然而后者的阅读量其实更高，可见人们真正喜闻乐见的究竟是什么。 第二条消息下面的回复也更多，因为有很多人在热情洋溢地教训我。什么Pro 的额度根本不够，什么Pro不行不如ultra，什么 Gemini不如ChatGPT，以及不时出现的「我从公元前 221 年就开始用 Claude，怎么就没事呢」，吧啦吧啦，诸如此类。 所以，今天我也想反问一下---我知道反问不礼貌，但我就想反问一句： 既然都在买那么强性能，那么大额度，那么高 IQ 的 AI 大模型，想必是在做非常厉害的项目，实现非常厉害的功能了。那具体是啥？是啥嘛？给看看呗？ 我自己每天都在用 AI 大模型，目的很简单，一是帮助我检查文章，查找事实错误。二是帮我生成和处理每天文章里的插图。三是帮我研究一些我感到好奇的事物，和我一起讨论分析，直到我力竭。 基于这样的需求，加上我并不编程，所以我的每日额度",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "homelab:手机尝试本地大模型PocketPal",
+    "url": "https://dsx2016.com/homelab-trying-out-the-local-large-language-model-pocketpal-on-a-mobile-phone/",
+    "date": "2026-11-22T03:10:52Z",
+    "description": "PocketPal 在谷歌play商店下载 可选择合适的本地大模型，开启聊天会话 可以看到我下载的大模型 Ge... homelab:手机尝试本地大模型PocketPal 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "New Release: Descent 3",
+    "url": "https://macsourceports.com/game/descent3",
+    "date": "2026-11-22T02:42:33Z",
+    "description": "Descent 3 is the third game in the Descent series and in the three years between games, a lot changed. The game now used hardware accelleration and featured both underground and…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "我的文竹已入冬",
+    "url": "https://z.arlmy.me/posts/Poems/2026/20261117_WoDeWenZhuYiRuDong/",
+    "date": "2026-11-22T02:19:27Z",
+    "description": "「我的文竹已入冬。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "New Release: Call to Power II",
+    "url": "https://macsourceports.com/game/ctp2",
+    "date": "2026-11-22T02:14:47Z",
+    "description": "Call to Power II is the sequel to Civilization: Call to Power , which itself is a spinoff of the Civilization series. There's actually this kinda…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Skin Deep updated",
+    "url": "https://macsourceports.com/game/skindeep",
+    "date": "2026-11-22T02:14:47Z",
+    "description": "The build of Skin Deep has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Toots 444 2026 Nov.1 - Nov.7",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261107/",
+    "date": "2026-11-22T02:12:27Z",
+    "description": "「交响乐与劳动号子。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "最近惦念 20261114",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20261114_Recently/",
+    "date": "2026-11-22T02:04:27Z",
+    "description": "「爱是通用货币。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "最近惦念 20261030",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20261030_Recently/",
+    "date": "2026-11-22T02:03:27Z",
+    "description": "「允许自己存在。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "hindsight 有一个我很喜欢的功能",
+    "url": "https://versun.me/blog/tweet-2124316549268033684",
+    "date": "2026-11-22T01:38:27Z",
+    "description": "hindsight 有一个我很喜欢的功能： 它可以自动根据项目名称创建对应的知识库，而不是统一放在一个库里， 因为很多项目的要求不一致，甚至是冲突的，放一个库里的话，后续 agent 很难分清当前到底是什么要求",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "这几天给 Paseo 做了个小插件：pa",
+    "url": "https://versun.me/blog/tweet-2124314547767148862",
+    "date": "2026-11-22T01:30:30Z",
+    "description": "这几天给 Paseo 做了个小插件：paseo-todo 利用纯 Markdown 的 TODO.md 来管待办，功能： • 全局 TODO 页面 & 工作区标签页 • 聊天框上方 TODO · N 胶囊提示 • 支持 /todo 命令快速添加 • 任务可绑定工作区，随时跳转到对应的工作区 https://github.com/versun/paseo-todo https://paseo.sh/plugins/versun/todo",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "≡ 021｜做饭是需要被看见的？",
+    "url": "https://mobius.blog/26236.html",
+    "date": "2026-11-22T01:30:00Z",
+    "description": "在上周末的Newsletter里，留了一个话题： 我跟我老婆都是很爱做饭的人，最近新认识的朋友，她的男友也很爱 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "这几天深度用了 Gemini 4 Neo",
+    "url": "https://versun.me/blog/tweet-2124310355795148953",
+    "date": "2026-11-22T01:13:51Z",
+    "description": "这几天深度用了 Gemini 4 Neon，还是差 Opus 5.5 一点 特别是对于意图不明显的，opus 5.5 猜的更准些， neon 对于目的明确的需求，则已经是 opus 5.5 级别了 简单说： Gemini 4 Neon：听一做一，说话好听 Opus 5.5：听一做二想三，很放心",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "不能再同意了： ``其实这些 App 如",
+    "url": "https://versun.me/blog/tweet-2124309328916299807",
+    "date": "2026-11-22T01:09:46Z",
+    "description": "周尔复 不要做 App 了，也别为了开源而反复打磨了。看看我最近做的两款 App (Tokenmetry 和傻瓜词典），我自认为打磨的油光锃亮的，对于真正用上的朋友来说，也基本都是好评。但都是个位数的用户，Star 也没几个。其实这些 App 如果我不开源，只满足我自己的需求，我 One Shot 到 60 分就行了，完全没必要打磨个 10 天 20 天的，浪费了我海量的 Token 和时间，除了自我感动外没有任何人在意。 所以我是觉得， AI 时代，切忌给别人做软件，关起门来给自己做，所有人都自己做 不能再同意了： ``其实这些 App 如果我不开源，只满足我自己的需求，我 One Shot 到 60 分就行了，完全没必要打磨个 10 天 20 天的，浪费了我海量的 Token 和时间，除了自我感动外没有任何人在意。``",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Memos #2026-11-21",
+    "url": "https://blog.itaober.com/memos/memo_20261121005743_bk44kp",
+    "date": "2026-11-22T00:00:00Z",
+    "description": "08:58 一觉起来天塌了…",
+    "source_root_domain": "itaober.com"
+  },
+  {
+    "title": "Weekly Issue-《跑步救我千千万万遍》",
+    "url": "https://zdyxry.github.io/2026/11/22/Weekly-Issue-Running-has-saved-me/",
+    "date": "2026-11-22T00:00:00Z",
+    "description": "文章 技术 Meet the New Docker: Built to Run on Trust Trust Docker because we’re not egotistical enough to think we can solve a challenge this big alone. Trust us because everything about our history, our heritage, and our actions over the past year tells you we’ll partner with the smartest and build alongside the best, and not create vendor lock-in. 这段话读起来怪怪的，当初 Docker Swarm 想要和 K8s 搞竞争的时候，被 Google/RedHat 搞的时候，不就是一个超大的 Ego 么。 We promoted developers into architects without informing them That means y",
+    "source_root_domain": "zdyxry.github.io"
+  },
+  {
+    "title": "猫",
+    "url": "https://fft.im/posts/20261122_%E7%8C%AB/",
+    "date": "2026-11-22T00:00:00Z",
+    "description": "猫 邻居的猫在晒太阳 简州猫？ 花色像一句记错的台词 对不上名字 太阳把它晒暖了 我的手落下去 脊骨是一条石子路 肋骨则是路边的栅栏 肚子是海 随着呼吸 涨潮，退潮 它安逸地躺在地上 像一个不设防的国家 默许 如果我告诉你 风吹过林子 踮着脚 踏枝头而来 行至 枯树桩止步 如果我告诉你 风吹过林子 哗啦啦 是一万片树叶 朝拜 它们的国王 如果我告诉你 风吹过林子 不说话 就像雨默许 草木生长 云默许 雨的自由 风也默许我的沉默",
+    "source_root_domain": "fft.im"
+  },
+  {
+    "title": "200澳元在Costco可以买到多少东西？",
+    "url": "https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/11/22/what-200-aud-buys-at-costco.html",
+    "date": "2026-11-22T00:00:00Z",
+    "description": "周六中午，我去了一趟Costco，计划先加油，顺便逛一圈超市。 最终，加油花了36.74刀，Costco购物花了200.66刀。 这篇文章，我来分享一下200澳元在Costco到底能买到多少东西，让大家直观感受一下澳元的购买力。",
+    "source_root_domain": "ozexplorers.com"
+  },
+  {
+    "title": "博客二三事",
+    "url": "https://blog.sakoamc.com/posts/t26103/",
+    "date": "2026-11-22T00:00:00Z",
+    "description": "写博客究竟改变了我什么？我想，它最大的意义在于赋予了流动的日常以“刻度”。",
+    "source_root_domain": "sakoamc.com"
+  },
+  {
+    "title": "Carmageddon updated",
+    "url": "https://macsourceports.com/game/carmageddon",
+    "date": "2026-11-21T22:10:38Z",
+    "description": "The build of Dethrace for Carmageddon has been updated to version v0.11.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "homelab 从手机开始 从安卓开始",
+    "url": "https://dsx2016.com/building-a-homelab-from-scratch-starting-with-android-on-your-phone/",
+    "date": "2026-11-21T18:46:49Z",
+    "description": "从手机📱开始 从最开始编写python和nodejs脚本，到第三方项目部署比如宝塔面板，到docker com... homelab 从手机开始 从安卓开始 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "AI 早报 2026-11-22：Lean 与 Mathlib 社区确认黎曼猜想的 Lean 形式化证明通过核验",
+    "url": "https://www.jtxyh.com/daily/2026-11-22/",
+    "date": "2026-11-21T16:00:00Z",
+    "description": "2026-11-22 AI 早报，共 13 条动态。Lean 与 Mathlib 社区 11 月 21 日发表联合声明，获 Lean FRO 和 Mathlib Initiative 背书。Together AI 11 月 21 日披露，2026 年 6 月至 7 月提交到公司无服务器推理服务的部分提示词样本被未授权…",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
+    "title": "“隐龙轩”论坛存档版上线：老帖子还在，但这次只能看，不能发了",
+    "url": "https://yfzz.net/posts/bbs-archive/?utm_source=rss",
+    "date": "2026-11-21T16:00:00Z",
+    "description": "借助AI的力量，把“隐龙轩”论坛重新上线了一个“存档版”，也就是只能查看帖子，但没有任何交互功能（登录、发帖、短消息等……）的版本。毕竟也有小几十万的帖子，是一万多用户贡献的内容，算是留个念想吧。 目前图片附件是可供浏览的，但其他压缩包等附件考虑服务器压力，没有提供下载。 访问地址：yfzz.net/bbs 至于当时为什么彻底关停，可以看之前在2024年10月1日那篇《再见，“隐龙轩”；你好，YF…… 「 前往查看原文 」",
+    "source_root_domain": "yfzz.net"
+  },
+  {
+    "title": "格斗游戏",
+    "url": "https://mobius.blog/26243.html",
+    "date": "2026-11-21T15:15:54Z",
+    "description": "小王把手柄砸在小李脸上，破口大骂：“你这破格斗游戏，怎么都没有一键连招的功能？” 小李不服道：“格斗游戏不都是 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "周末流水账 1121",
+    "url": "https://blog.solazy.me/20261121/",
+    "date": "2026-11-21T15:00:00Z",
+    "description": "今天是出来住酒店的一天",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "生活碎碎念：我向镜花捞水月",
+    "url": "https://blog.mfwt.top/index.php/archives/1756/",
+    "date": "2026-11-21T12:56:15Z",
+    "description": "本站的老读者看到这个标题，应该能猜到笔者实际上想讲的是什么。没错，这是之前关于Cosplay的博文（当然还有他的续集）的又一篇续集。笔者习惯把他们称之为镜花水月系列，原因也是很显然的。当然，从本...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "有没有人做个今年的黑五汇总网站呀，主要是",
+    "url": "https://versun.me/blog/tweet-2124119049236025802",
+    "date": "2026-11-21T12:33:40Z",
+    "description": "有没有人做个今年的黑五汇总网站呀，主要是 AI 方面的，虽然说 AI 时代不要买年费，但架不住便宜啊！",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Lemmings updated",
+    "url": "https://macsourceports.com/game/lemmings",
+    "date": "2026-11-21T12:00:36Z",
+    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.4.3 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Old School RuneScape updated",
+    "url": "https://macsourceports.com/game/runescape",
+    "date": "2026-11-21T12:00:35Z",
+    "description": "The build of RuneLite for Old School RuneScape has been updated to version 2.8.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated",
+    "url": "https://macsourceports.com/game/nolf2",
+    "date": "2026-11-21T12:00:34Z",
+    "description": "The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.7 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "睡前用手机给 Claude 派活：我用 T3 Code 连起了四台开发机",
+    "url": "https://blog.douni.one/t3-code-remote-agent-workflow",
+    "date": "2026-11-21T09:20:33Z",
+    "description": "两台服务器、一台 Mac mini 和一台 MacBook，怎么让 Claude Code 实现、Codex 验收？从 Remote SSH 和 tmux 到 T3 Code，记录跨设备交接和睡前用手机派活的一天。",
+    "source_root_domain": "douni.one"
+  },
+  {
+    "title": "图书的插画",
+    "url": "https://kaix.in/2026/1121/",
+    "date": "2026-11-21T07:50:04Z",
+    "description": "在读《看不见的森林》时，或许是我的见闻经历太少，从未踏足过那样的环境，森林边缘、房子般大小的岩石、尺寸相差巨大的石堆……我一时很难在脑海里构建出画面。 正值 World Labs 将 Atlas 正式面对公众开放 ，我就把书里对「坛城」的介绍简单改成了场景描述词，输入到 Atlas 模型中，让它输出一个 3d 场景。很快（骗妳的，其实很慢）它就输出了蓝图： 场景也随即建立，可以放置相机，渲染对应的画面——这和在 3d 建模软件里渲染的过程很像： 当然，还可以输出跟随摄像机运动的导览视频，如果积分点充足,也可以生成像 3d 游戏那样的场景，直接在其中「行走」。不过，扯远了。 上述场景，因为我没有足够的积分，所以没有仔细调整描述词来优化输出结果，和书中描写的场景其实并不一致。不过我还是一下子想到了一个古老的时髦词：互动图书。苹果的图书 app 刚出来的时候，我记得还有一些专门制作的可以和读者交互的电子书。更进一步畅想，如果未来戴着 AR 眼镜阅读纸质书籍的时候，可以实现圈画内容即刻输出与内容相匹配的场景，身临其境倒也有趣。 不过这让我又想到另一件事。前几日一个信教的朋友看见我吧台上放着一本",
+    "source_root_domain": "kaix.in"
+  },
+  {
+    "title": "面向 Agent 的 AML 记忆挑战赛",
+    "url": "https://versun.me/blog/tweet-2124026308544122963",
+    "date": "2026-11-21T06:25:09Z",
+    "description": "Agent Memory Leaderboard 🏆 AML Cycle 2 results are live! 💥 • 1M+ cross-platform impressions • 10M+ cumulative website clicks • 402 task submissions • Three tracks: text, code and multimodal memory This cycle brought together teams from across the global AI community, inclu 面向 Agent 的 AML 记忆挑战赛第二期排行榜出炉了",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Plants vs. Zombies updated",
+    "url": "https://macsourceports.com/game/pvz",
+    "date": "2026-11-21T06:08:02Z",
+    "description": "The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.3.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "在两条街之外",
+    "url": "https://www.hecaitou.com/2026/11/beyond-the-two-streets.html",
+    "date": "2026-11-21T05:26:35Z",
+    "description": "看到导演大卫·林奇的一段话： 「 如果你用手机，或者用电脑播放一部电影，那就是再过一万亿年，你也体验不到这部电影。 你会以为自己看过电影了，可你受骗了。 那会是一种很微弱的……你本来有机会走进另一个世界，去感受它，但你现在感受到的，只是那种体验衰弱了、腐烂透了的样子。 」 可惜桀骜的网友对这段语重心长的话并不领情，许多人跟帖说：「问题是现在大多数电影都是烂片，根本不值得浪费时间去电影院。」我自己讨论电影的文章留言区里，类似的留言也很常见。 然后我想起来，自己曾经看过很多烂片。那是在 2000 年的时候，单位派驻我去香格里拉机场，需要在那里待上一整年。当时香格里拉还叫中甸，整座城三五万人，主城区只有两条街，一条长征路，一条 池慈卡街，我们就住在州府生活小区。 由于时间实在太多，生活实在无聊，我就整天去租 VCD 回来宿舍放。全城一共三家碟店，一年时间我全部都租遍了。一开始还要挑挑拣拣，找大片，找经典，后来的标准就变成了「只要我没看过」。如果没有意外的话，估计我这辈子看过的 B 级片绝大部分都出现在那一年。其中绝大部分都是粗制滥造，但是我还是逐一看完。因为一旦大雪封锁机场，我可能有 48 ",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "想卖我5980的FB广告投流课，你还未必投得过我",
+    "url": "https://yuqiqin.me/lets-see-who-is-real-evil-genius/",
+    "date": "2026-11-21T04:17:10Z",
+    "description": "[!NOTE] Info 全文共计9170字，预计阅读时长23min，记录的是我2026.10-2026.11的经历 想卖我5980的FB广告投流课，你还未必投得过我 背景 书接上回 创业开公司1年，收入为0 ，我和弟弟一起创业做炒菜机器人外贸，缘起要帮家道中落的自家服装厂开拓新领域——做服装外贸，半路遇到两个志同道合的老板便搭伙成立了公司。 因为机器人这边迟迟没有起色，弟弟便抽出精力重新放在服装外贸身上，我这边也会抽出时间和精力去尽可能支持一下。这篇博客讲述的是我们从苦于没有询盘，再到FaceBook广告投流后爆单到接都接不了的经历，所想表达的内容正如标题所说——有的时候卖课的可能还不如你厉害呢。 我觉得这可能是很多想要转型出海做外贸的企业的缩影，打开小红书和抖音，教你做外贸的人可能比真正在做外贸的人还要多，很难不被割韭菜。很久之前我就看到一句话，「当你发现某行业都在搞卖课的时候，说明这行业大部分人挣不到钱。」所以我特地把这篇博客放在「外贸」分区，希望我的经历能够帮助到大家。 病急乱投医 我们总结了一下炒菜机器人外贸失败的原因，其中很重要的一条是我们团队里缺乏一个真的懂外贸贸易流程的",
+    "source_root_domain": "yuqiqin.me"
+  },
+  {
+    "title": "通灵卡片Psychic Paper",
+    "url": "https://yuqiqin.me/",
+    "date": "2026-11-21T03:54:53Z",
+    "description": "通灵卡片Psychic Paper 简介 欢迎来到我的 数字花园 ，这里是我分享工作、学习和生活的个人博客。 我给它取名为通灵卡片（ Psychic Paper ），这是来自英国国宝级科幻电视剧《神秘博士》中的一个小道具，它本身是一张空白的卡片，但是看着它的人会在卡片上看到使用者想让他们看到的内容。这个博客和通灵卡片一样，存放着我希望你能看到的、了解的关于我的所有内容。 这个博客的内容由我在 Obsidian 的笔记整理而成，关键词有 英语教研、语言学和计算机技术 ，现在也会分享一些生活感悟和回忆，以及一些备课的教案。 我毕业后在成都一家互联网教育公司工作了2年，职位是当英语编辑，主要工作是为APP制作线上学习内容。然后在成都一家中型成人英语教培机构担任英语老师，现已离职。现在一边在做独立雅思老师营生，一边在创业做外贸。 这个博客是使用Obsidian社区插件 Digital Garden ，搭配服务器提供商 Vercel 搭建成博客，套了一层 CloudFlare 抵御AI爬虫，并且在 GoDaddy 购入的域名。如果你也想做一个类似的网站，你可以看我写的 这篇文章 ，或者求助你的A",
+    "source_root_domain": "yuqiqin.me"
+  },
+  {
+    "title": "2010，瓢虫工作室",
+    "url": "https://www.tortorse.com/archives/ladybird-studio-2010/",
+    "date": "2026-11-21T01:45:07Z",
+    "description": "2010，瓢虫工作室",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "2026年第47周",
+    "url": "https://blog.sakoamc.com/posts/2647/",
+    "date": "2026-11-21T00:00:00Z",
+    "description": "题记：二零二六年第四十七周，下周出差一周，应该是看银杏的好时候。",
+    "source_root_domain": "sakoamc.com"
+  }
+]

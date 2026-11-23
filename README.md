@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-23 | [OpenCode 自定义外部提供商和模型](https://songxwn.com/OpenCode-Customapi/) |  |
+| 2026-11-23 | [篱笆、女人和狗](https://mobius.blog/26248.html) | 很早就想聊这个话题了，但一直没有很好的切入点，关于这件事我也打算写成小说的一部分，以魔幻主义的视角，来解构人与 […] |
+| 2026-11-23 | [Nginx升级1.31.9后JDK7的CAS校验报protocol_version排查](https://199604.com/3760) | Nginx升级1.31.9后JDK7的CAS校验报protocol_version排查 记录时间：2026-1 […] |
+| 2026-11-23 | [从晚睡到早起，我做了一个小改变](https://depp.wang/2026/wake-up-early/) | 我没有想到有一天我也能实现早起。 原来我一直想早起，但一直做不到。我一般十一点以后才睡，可能十二点以后才睡着，早上八点以后或者九点左右才起。虽然十一二点睡觉在现在的社会好像也不算很晚，但对我来说，还是有一点熬夜的感觉。 起床晚，主要还是因为晚上睡得晚。以前吃完晚饭，我可能会先玩一段时间。如果有事情要… |
 | 2026-11-22 | [可控并发测试实战指南：告别偶发 Flaky，像导演一样精准抓出深层竞态 Bug](https://shansan.top/2026/11/22/controlled-concurrency-testing-deep-dive/) | 从余额超扣和缓存失效看懂 PCT、URW、DPOR 与 Go synctest，再用 ConDpor、Tamias 和 REINS 解释如何联合探索输入与调度、控制多进程服务、验证 AI 提出的交错。 |
 | 2026-11-22 | [DiskSeek.space 盘寻一下，空间回来 —— 更好的、更完整的磁盘清理工具](https://blog.mzh.ren/zh/posts/2026/11/diskseek/) | 现在的电脑就办公而言，性能强大，容量无敌。但是磁盘空间的分析和清理还是一个非常常规的动作。为什么？ 正是因为安迪-比尔定律：安迪给的，比尔都会拿走。这里的安迪指的是英特尔的前 CEO 安迪·格鲁夫，比尔指的则是微软的前 CEO 比尔·盖茨。它的实际意思就是说，新软件往往会很快消耗掉硬件带来的计算机性… |
 | 2026-11-22 | [homelab: 手机硬件日常是使用场景](https://dsx2016.com/homelab-mobile-hardware-in-daily-use-scenarios/) | nfc 电动车nfc钥匙，房间钥匙小区门禁，公交卡，地铁nfc支付 基本出行都离不开nfc，有它会方便很多 蓝... homelab: 手机硬件日常是使用场景 最先出现在 大师兄2016 。 |
@@ -38,6 +42,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-22 | [我站遭遇异常下载流量的事件报告](https://blog.renfei.net/posts/1626402130325676146) | 2026 年 11 月 21 日晚，76 个 IP 集中下载我站 CDN 上的 40 张图片，发出 4,942 次请求，产生 985.14 MB 响应流量，导致网站触发限额下线。本文记录事件时间线与 UA 轮换的日志证据。 |
 | 2026-11-22 | [Dungeon Keeper updated](https://macsourceports.com/game/dungeonkeeper) | The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project |
 | 2026-11-22 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
+| 2026-11-22 | [Vol.127 从模型分工到智能体工程化：把验证、成本与信任落到可复用流程中](https://liduos.com/weekly/the-weekly-gradient-127) | 本期内容聚焦模型分工与智能体工程化：从旗舰与日常模型选型、流程自动化，到测试验证、故障演练、推理成本、工具信任与数据口径治理，梳理可落地的团队实践。 |
 | 2026-11-22 | [新的游戏界面](https://cufezhusy.github.io/issue-31/) | 这两周把游戏界面和经济系统升级了一下，更好的模拟了经济系统，这样区域可以根据需求自动升级。 现在游戏看起来更像一个专业的模拟城市规划游戏了。 |
 | 2026-11-22 | [homelab:手机mp3音乐本地播放symphony](https://dsx2016.com/homelab-local-mp3-playback-on-a-phone-via-symphony/) | symphony 手机本地听歌应用mp3 docker可部署音乐应用，但是无论是在服务器还是termux，都需... homelab:手机mp3音乐本地播放symphony 最先出现在 大师兄2016 。 |
 | 2026-11-22 | [homelab:手机ai使用场景，tts,asr,ocr](https://dsx2016.com/homelab-ai-mobile-scenarios-tts-asr-and-ocr/) | 手机ai 除了llama.cpp本地大模型 还有asr sencevoice，语音转文字，在低端手机，也几乎是... homelab:手机ai使用场景，tts,asr,ocr 最先出现在 大师兄2016 。 |
@@ -52,8 +57,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-22 | [Toots 444 2026 Nov.1 - Nov.7](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261107/) | 「交响乐与劳动号子。」 |
 | 2026-11-22 | [最近惦念 20261114](https://z.arlmy.me/posts/TILs/thoughts/20261114_Recently/) | 「爱是通用货币。」 |
 | 2026-11-22 | [最近惦念 20261030](https://z.arlmy.me/posts/TILs/thoughts/20261030_Recently/) | 「允许自己存在。」 |
+| 2026-11-22 | [hindsight 有一个我很喜欢的功能](https://versun.me/blog/tweet-2124316549268033684) | hindsight 有一个我很喜欢的功能： 它可以自动根据项目名称创建对应的知识库，而不是统一放在一个库里， 因为很多项目的要求不一致，甚至是冲突的，放一个库里的话，后续 agent 很难分清当前到底是什么要求 |
+| 2026-11-22 | [这几天给 Paseo 做了个小插件：pa](https://versun.me/blog/tweet-2124314547767148862) | 这几天给 Paseo 做了个小插件：paseo-todo 利用纯 Markdown 的 TODO.md 来管待办，功能： • 全局 TODO 页面 & 工作区标签页 • 聊天框上方 TODO · N 胶囊提示 • 支持 /todo 命令快速添加 • 任务可绑定工作区，随时跳转到对应的工作区 http… |
 | 2026-11-22 | [≡ 021｜做饭是需要被看见的？](https://mobius.blog/26236.html) | 在上周末的Newsletter里，留了一个话题： 我跟我老婆都是很爱做饭的人，最近新认识的朋友，她的男友也很爱 […] |
+| 2026-11-22 | [这几天深度用了 Gemini 4 Neo](https://versun.me/blog/tweet-2124310355795148953) | 这几天深度用了 Gemini 4 Neon，还是差 Opus 5.5 一点 特别是对于意图不明显的，opus 5.5 猜的更准些， neon 对于目的明确的需求，则已经是 opus 5.5 级别了 简单说： Gemini 4 Neon：听一做一，说话好听 Opus 5.5：听一做二想三，很放心 |
+| 2026-11-22 | [不能再同意了： ``其实这些 App 如](https://versun.me/blog/tweet-2124309328916299807) | 周尔复 不要做 App 了，也别为了开源而反复打磨了。看看我最近做的两款 App (Tokenmetry 和傻瓜词典），我自认为打磨的油光锃亮的，对于真正用上的朋友来说，也基本都是好评。但都是个位数的用户，Star 也没几个。其实这些 App 如果我不开源，只满足我自己的需求，我 One Shot… |
 | 2026-11-22 | [Memos #2026-11-21](https://blog.itaober.com/memos/memo_20261121005743_bk44kp) | 08:58 一觉起来天塌了… |
+| 2026-11-22 | [Weekly Issue-《跑步救我千千万万遍》](https://zdyxry.github.io/2026/11/22/Weekly-Issue-Running-has-saved-me/) | 文章 技术 Meet the New Docker: Built to Run on Trust Trust Docker because we’re not egotistical enough to think we can solve a challenge this big alone. T… |
 | 2026-11-22 | [猫](https://fft.im/posts/20261122_%E7%8C%AB/) | 猫 邻居的猫在晒太阳 简州猫？ 花色像一句记错的台词 对不上名字 太阳把它晒暖了 我的手落下去 脊骨是一条石子路 肋骨则是路边的栅栏 肚子是海 随着呼吸 涨潮，退潮 它安逸地躺在地上 像一个不设防的国家 默许 如果我告诉你 风吹过林子 踮着脚 踏枝头而来 行至 枯树桩止步 如果我告诉你 风吹过林子… |
 | 2026-11-22 | [200澳元在Costco可以买到多少东西？](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/11/22/what-200-aud-buys-at-costco.html) | 周六中午，我去了一趟Costco，计划先加油，顺便逛一圈超市。 最终，加油花了36.74刀，Costco购物花了200.66刀。 这篇文章，我来分享一下200澳元在Costco到底能买到多少东西，让大家直观感受一下澳元的购买力。 |
 | 2026-11-22 | [博客二三事](https://blog.sakoamc.com/posts/t26103/) | 写博客究竟改变了我什么？我想，它最大的意义在于赋予了流动的日常以“刻度”。 |
@@ -246,26 +256,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-16 | [科技够用了，还是未来更值得期待？](https://depp.wang/2026/technology-and-the-future/) | 最近阮一峰的科技爱好者周刊里，有一篇 《如果科技停止在21世纪初》 ，提到了一种看法：2003 年左右，科技已经让生活足够方便，人又还保有生活的主导权，是技术与生活比较理想的平衡点。而经常给我理发的一位理发师，则很期待 AI 继续发展，觉得未来普通人的生活可能会更好。我觉得这两种看法放在一起，还挺有… |
 | 2026-11-16 | [Memos #2026-11-15](https://blog.itaober.com/memos/memo_20261115003254_iq7h2n) | 08:34 恭喜 BLG，一穿四 LCK 无需多言！ 每次熬夜的时候就证明着我还年轻！ |
 | 2026-11-16 | [Linux Bash 终端必备：15 个实用技巧，让命令行操作效率翻倍！](https://zhcn.xyz/article/15-essential-linux-bash-terminal-tips-to-double-your-command-line-efficiency) | 对于经常使用 Linux 服务器、SSH、Docker 或者 VPS 的朋友来说，熟练掌握 Bash 终端快捷键，可以大幅减少重复输入，提高日常运维效率 |
-| 2026-11-15 | [AI 早报 2026-11-16：SemiAnalysis 大砍 AI 算力预测：2028 年资本开支下调近三成](https://www.jtxyh.com/daily/2026-11-16/) | 2026-11-16 AI 早报，共 14 条动态。半导体研究机构 SemiAnalysis 11 月 16 日更新模型，大幅下调未来几年 AI 加速器出货、资本开支、HBM 需求和功耗预测：2028 年全球 AI 加速器资本开支下调 28%，2029 年和 2030 年分别下调 41% 和 40%… |
-| 2026-11-15 | [小宝的秋假](https://blog.moatkon.com/posts/2026/11/15/2/) | 小宝的秋假不知不觉过完了。 周三小宝开始放秋季。 第一天奶奶带去meland玩,玩了一整天,中午是媳妇点的外卖,他们在外面吃的。晚上回来之后，小宝咳嗽变得厉害。经过一整天的剧烈运动，对咳嗽不好。 第二天,因为小宝咳嗽，就没有去外面玩了，在家里玩。 第三天，我请了一天假，上午带小宝去医院，听了一下肺，… |
-| 2026-11-15 | [最近准备系统学习下《道德经》](https://blog.solazy.me/20261115/) | 该看看书了！ |
-| 2026-11-15 | [晚上有1个 Python 的项目 bug](https://versun.me/blog/tweet-2121958503388713069) | 晚上有1个 Python 的项目 bug 代码修复 我让 ds-41-flash、swe2、sonnet55 分别进行修复 (pi,high)， 然后让 opus 55 high 进行评估，评估结果: ds(2.6M) > swe2(4.8M) > sonnet55(587k) 有点出乎我的意料 |
-| 2026-11-15 | [Splatterlight updated](https://macsourceports.com/sourceport/spatterlight) | The build of Splatterlight for the Infocom series of games has been updated to version v1.5.6 of the project\n\nhttps://macsourceports.com/sourceport/… |
-| 2026-11-15 | [再见 IndieWeb，你好 indie web](https://www.geedea.pro/article/iiwd/) | 我逐渐意识到互联网落得他如今的坏名声，根本原因可能是它的包容性太强了，把所有人都放在一个地方，不引发矛盾才怪。即便是本身就十分小众的 IndieWeb ，大家也未免能相互认同 1 。说实话很多人可能没读过 IndieWeb 的 十一条原则 ，核心社群里也充满了用自己真名和真人头像的成员，还有 Ind… |
-| 2026-11-15 | [即将召开APEC](https://sigge.cn/2026/11/15/051d2e98-8ff2-4d3d-938f-a51c606256e1) | 即将召开APEC |
-| 2026-11-15 | [System Shock updated](https://macsourceports.com/game/systemshock) | The build of Shockolate for System Shock has been updated to the latest code of the project |
-| 2026-11-15 | [Vol.126 长时运行智能体的秩序：持久执行、记忆沉淀、团队交接与成本衡量](https://liduos.com/weekly/the-weekly-gradient-126) | 本期内容围绕长时运行智能体的秩序展开：从持久化执行与故障恢复到记忆分层、上下文沉淀与任务交接，再到多会话监督、模型验收和算力成本衡量，探讨智能体如何跨天跨团队持续交付。 |
-| 2026-11-15 | [创作的赢法](https://mobius.blog/26148.html) | def 创作的赢法(对方, 我): #创作数量 if 对方.创作数量 > 我.创作数量: return "他一定很闲，我还有正事要忙" elif 对方.创作数量 return "他根本没有持续创作的能力" else: return "他只是在重复我的创作" #创作质量 if 对方.作品质量 > 我.… |
-| 2026-11-15 | [只为怀旧就可惜了](https://www.hecaitou.com/2026/11/more-than-nostalgia.html) | 我很钦佩我家猫咪的一点，就是她的好奇心。家里到了什么新东西，她虽然胆子很小，但是一定会上去挠几下试试，不然就是要爬上去躺一会儿。有时候快递来，我蹲在地上拆箱，一只毛茸茸的小脑袋用力挤开我的胳膊，从我怀里探出来，脖子伸老长，仿佛在说：「你起开，让我看看。」 受到猫咪启发，我在买旧 CD、旧磁带的时候，… |
-| 2026-11-15 | [homelab:docker compose安装开源应用自部署如homepage等](https://dsx2016.com/self-hosting-open-source-applications-such-as-homepage-in-a-homelab-using-docker-compose/) | homepage 安装的docker自部署开源应用有点多，需要导航和面板来管理 开源推荐导航有一些，相对其他的... homelab:docker compose安装开源应用自部署如homepage等 最先出现在 大师兄2016 。 |
-| 2026-11-15 | [≡ 020｜这两周莫比乌斯环转到了哪里？](https://mobius.blog/26140.html) | 🧠 闲白儿 最近很多话题都在聊狗，是因为我在狗公园划分了一块区域出来办公码字，理所当然的，原本应该在咖啡厅对人 […] |
-| 2026-11-15 | [如果你的 jio 订阅的 gemini](https://versun.me/blog/tweet-2121777254930006479) | Versun 晚上在 magpie 上遇到了，3个 jio 全军覆没。。。 我还纳闷明明额度还有很多，怎么提示没额度了呢。。。好奸诈！！ https://twitter.com/ohayou792/status/2121545511975244069 如果你的 jio 订阅的 gemini 被封了… |
-| 2026-11-15 | [Star Wars Jedi Knight: Dark Forces II updated](https://macsourceports.com/game/swjkdf2) | The build of OpenJKDF2 for Star Wars Jedi Knight: Dark Forces II has been updated to version v0.9.9 of the project |
-| 2026-11-15 | [Star Wars Jedi Knight: Mysteries of the Sith updated](https://macsourceports.com/game/swjkmots) | The build of OpenJKDF2 for Star Wars Jedi Knight: Mysteries of the Sith has been updated to version v0.9.9 of the project |
-| 2026-11-15 | [Memos #2026-11-14](https://blog.itaober.com/memos/memo_20261114131423_d1mt9s) | 21:25 回想一下我的童年阴影，有两个记忆深刻。一个是柯南的绷带怪人，后来发现身边的朋友们基本都被它吓到过。另一个则是陈小春版《鹿鼎记》中，假太后脸变成毛东珠的那一瞬，非常骇人，当时我是一个人在表哥家看的，被吓得夺门而出，记忆犹新。 再长大些也经历过许多吓人的时刻，多是影视剧中，印象倒都不太深。听… |
-| 2026-11-15 | [Weekly Issue-《走马上任》](https://zdyxry.github.io/2026/11/15/Weekly-Issue-lets-go/) | 文章 技术 “That’s not SOC 2 compliant” The Trust Services Criteria never mention git or pull requests. What they ask for is that changes are authorized, t… |
-| 2026-11-15 | [AI Agent 走进三维世界之后](https://www.bmpi.dev/dev/agent-3d-world-building/) | 从瀑布洞穴漏顶、栏杆挡死视线到 203 盏悬空宫灯掉落，记录 MinePilot 在真实三维体素世界里走过的弯路，以及 Agent 如何把空间设计、局部修复与原生游戏验收连成闭环。 |
-| 2026-11-15 | [2026年第45、46周](https://blog.sakoamc.com/posts/264546/) | 题记：二零二六年第四十五、四十六周，气温骤降，已经到了不想起床的日子。 |
 
 ## Vibe Coding
 
