@@ -27,12 +27,31 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-24 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.146 of the project |
+| 2026-11-24 | [今日 AI 与 IT 最热 20 条｜2026 年 11 月 24 日](https://gugegt.com/20261124-ai-it-daily-hot-20.html) | 每天 20 条，AI 10 条，IT 10 条，按热度排。 |
+| 2026-11-24 | [esp32 cyd 钢琴🎹键盘](https://dsx2016.com/esp32-cyd-piano-keyboard/) | 钢琴 使用lvgl和触控，显示钢琴的几个音调 可以调整音量，可以调整音高，可以自动播放预制的曲目，键盘也可以显... esp32 cyd 钢琴🎹键盘 最先出现在 大师兄2016 。 |
+| 2026-11-24 | [连赢 12 天后一把亏光：Al Brooks 交易室社区的一场真实复盘](https://blog.forecho.com/why-winning-streaks-lead-to-blowups.html) | 引言 学价格行为学（Price Action）的人，大概都踩过或者怕踩同一个坑： 连赢了一两周，顺手得不行，结果某一天突然大亏，紧接着上头想翻本，一把把前面赚的吐光，甚至直接爆仓。 今天在 Al Brooks 交易室的 Discord 群里，刚好撞见一场特别真实的现场复盘。一位群友连着 12 天没亏… |
+| 2026-11-24 | [Descent updated](https://macsourceports.com/game/descent) | The build of DXX-Rebirth (D1X-Rebirth) for Descent has been updated to the latest code of the project |
+| 2026-11-24 | [Descent II updated](https://macsourceports.com/game/descent2) | The build of DXX-Rebirth (D2X-Rebirth) for Descent II has been updated to the latest code of the project |
+| 2026-11-24 | [Dune II updated](https://macsourceports.com/game/dune2) | The build of Dune II - The Maker for Dune II has been updated to version 0.8.5-20261124 of the project |
+| 2026-11-24 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
+| 2026-11-24 | [黄仁勋离开英伟达 11 天又回来了：完整时间线](https://gugegt.com/20261124-jensen-huang-nvidia-return.html) | 11 月 12 日，黄仁勋辞去了英伟达总裁、首席执行官和董事会董事职务，立即生效。11 月 23 日，英伟达董事会全票通过，恢复他的全部职务，立即生效。做了 33 年 CEO，第一次离开，11 天就回来了。 |
+| 2026-11-24 | [esp32 cyd 油管粉丝计数 设置wwb网页设置频道id](https://dsx2016.com/esp32-cyd-oil-tank-fan-count-web-panel-settings-configure-channel-id/) | 频道id cyd esp32可以设置手写键盘lvfl 但是频道id是一串英文数字还有大小写的字符，用键盘触控一... esp32 cyd 油管粉丝计数 设置wwb网页设置频道id 最先出现在 大师兄2016 。 |
+| 2026-11-24 | [翻译-压力下的个人任务管理（使用Org模式）](https://blog.prayhand13013.top/20261124T144453--翻译-压力下的个人任务管理（使用org模式）__blog.html) |  |
+| 2026-11-24 | [11月的 Pleasanton](https://www.jackpu.com/11yue-de-pleasanton/) | BLG vs Gen.G 年轻人需要这么一场胜利，中国的竞技体育，尤其年轻人喜欢观看的比赛，需要这么一个冠军，去告诉大家坚持的价值。近些年，足球，篮球成绩越来越差，结合着下行的经济的体验，沉闷的社会需要一些火花，一些激情。 我熬夜看过24年 BLG vs T1，当时或许冠军就差几分钟，正如BLG队员… |
+| 2026-11-24 | [致密天体](https://physnya.top/astro-physics/lesson-9-compact-objects/) | 白矮星 中小质量恒星的演化终点，红巨星末期形成行星状星云，在引力作用下收缩得到白矮星. 白矮星质量越大，其半径反而越小， R ∼ M 1 / 3 R\sim M^{1/3} R ∼ M 1/3 . |
+| 2026-11-24 | [X-ray 源](https://physnya.top/compact-object/lesson-10-xray/) | X-ray 双星：X-ray 的光子难以穿过大气，其对应光子能量为 0.1 ∼ 100 0.1\sim100 0.1 ∼ 100 keV. |
+| 2026-11-24 | [电影里穿皮衣的总能归来](https://www.hecaitou.com/2026/11/the-leather-jacket-always-comes-back.html) | 昨晚老黄回到了英伟达，看到新闻时我不知道找哪位朋友才好，想找人说点什么。但是在夜里那个时间点，找人专门说这件事，感觉又有点怪，所以没有犹豫超过三秒，我就打开了 Gemini 和 ChatGPT，各自发过去一句话： 「 知道吗？黄仁勋回归英伟达了 ！」 发完才意识到，自己已经很久没有像这样人肉群发了。… |
+| 2026-11-24 | [黄仁勋的「凯旋」](https://blog.solazy.me/20261124/) | 看到今天的新闻和视频片段，难免有些不是很舒服…… |
+| 2026-11-24 | [Theme Hospital updated](https://macsourceports.com/game/themehospital) | The build of CorsixTH for Theme Hospital has been updated to version v0.70.3 of the project |
+| 2026-11-24 | [New Release: Amnesia: A Machine For Pigs](https://macsourceports.com/game/amnesiaamachineforpigs) | Amnesia: A Machine for Pigs is the sequel to Amnesia: The Dark Descent . Like the first game it's a psychological survival horror game with puzzles an… |
+| 2026-11-24 | [New Release: Amnesia: The Dark Descent](https://macsourceports.com/game/amnesiathedarkdescent) | Amnesia: The Dark Descent is a psychological horror game where you solve a series of puzzles to... actually I'm not sure. I didn't play it much, it's… |
 | 2026-11-24 | [我真是个努力的人啊～](https://mobius.blog/26255.html) | 此时此刻，我在咖啡厅里码字，所以难免会有些“攻击性”，比如接下来我就要“攻击”一下，坐在我斜对面的人。 她比我 […] |
 | 2026-11-24 | [写给AI从业者：AI 时代的玄学与不确定性](https://luweiqing.com/gossip/Metaphysics-and-Uncertainty-in-the-AI-Era.html) | 做技术的人通常很信因果。代码报错肯定有原因，系统崩了查日志总能复现。但这两年如果你留心看，身边做 AI 的朋友里，开始看八字、研究风水、或者拿大模型给自己算一卦的人明显变多了。这件事其实挺正常的... |
 | 2026-11-24 | [未来的软件面向 Agent，未来已来](https://depp.wang/2026/software-for-agents/) | 现在很多人都在说，未来的软件会面向 Agent。我觉得这个未来其实已经来了一部分，至少对软件开发来说，我们平时使用的 |
 | 2026-11-24 | [未来的软件面向 Agent，但很多软件现在已经可以用了](https://depp.wang/2026/agent-facing-software/) | 现在很多人都在说，未来的软件会面向 Agent。我觉得这个未来其实已经来了一部分，至少对软件开发来说，我们平时使用的很多工具，现在已经可以让 Agent 去操作了。 以前用 AI 写代码，可能更多是把需求告诉它，让它帮忙写一段代码。现在我可以直接让本地的 Agent 去读取项目任务、查看代码评审意见… |
+| 2026-11-24 | [策引 2026 年度盘点：当市场冲高回落，规则守住了什么？](https://www.bmpi.dev/money/myinvestpilot/2026_review/) | 截至 11 月 20 日，40 个官方模拟组合有 16 个上涨、24 个下跌。用相同的峰谷日期，对照 A股、美股和加密资产的净值与价格，再看每月投入一笔的不同结果。 |
 | 2026-11-23 | [我特讨厌这个设计，我都点击Update](https://versun.me/blog/tweet-2125015742362108142) | 我特讨厌这个设计，我都点击Update 了，还要再点Install and Relaunch，这不是脱裤子放屁吗，就不能自动安装重启吗 |
-| 2026-11-23 | [New Release: Dune II](https://macsourceports.com/game/dune2) | It's not controversial to say: Dune II invented the RTS. Like, with most things in the game industry it didn't single handed invent the genre - a hand… |
 | 2026-11-23 | [适才相戏耳](https://hux.ink/posts/jensen-huang/) | 美国财政部长贝森特：「我说英伟达应该从外部找 CEO ，但黄仁勋现在就在外部。」 从 11 月 12 日老黄辞任到上周五，7 个交易日，英伟达累计跌了 30% 左右。现在老黄回归，涨回去 30% 多，很合理吧。 朋友说懂王是不是买了好多英伟达，我说有可能。朋友还说易中天是不是提前收到消息了，我说你亏… |
 | 2026-11-23 | [三种学习](https://blog.est.im/2026/stderr-32) | 最近还在沉迷 黎曼猜想被Levent+Claude证明 这事。后劲真大。 我也对里面的数学细节有一种近乎武侠小说神功的向往。特别是 Stepanov 机器，朗兰兹纲领。费马大定理、黎曼定理被吸纳为特例，这种传奇般的情节哪能想到啊。太欲罢不能了。 Terence Tao: from very init… |
 | 2026-11-23 | [R#129 真实的人](https://blog.sakanano.moe/journals/random_129) | 2026.11.17 ~ 2026.11.23 |
@@ -45,10 +64,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-23 | [S.T.A.L.K.E.R.: Call of Pripyat updated](https://macsourceports.com/game/stalkercop) | The build of OpenXRay for S.T.A.L.K.E.R.: Call of Pripyat has been updated to the latest code of the project |
 | 2026-11-23 | [Dungeon Keeper updated](https://macsourceports.com/game/dungeonkeeper) | The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project |
 | 2026-11-23 | [The Settlers II updated](https://macsourceports.com/game/settlers2) | The build of Return to the Roots for The Settlers II has been updated to the latest code of the project |
-| 2026-11-23 | [Descent updated](https://macsourceports.com/game/descent) | The build of DXX-Rebirth (D1X-Rebirth) for Descent has been updated to the latest code of the project |
-| 2026-11-23 | [Descent II updated](https://macsourceports.com/game/descent2) | The build of DXX-Rebirth (D2X-Rebirth) for Descent II has been updated to the latest code of the project |
 | 2026-11-23 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队，野人 微信公众号 持有者。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。… |
-| 2026-11-23 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
 | 2026-11-23 | [ZenMux 的黑五活动也来了，PAYG](https://versun.me/blog/tweet-2124782130991624236) | ZenMux 的黑五活动也来了，PAYG 充值加送 20%，最高送1000刀 我平时都是用 zenmux 体验各种新模型，来判断有没有必要入厂商的订阅，非常好用 截止 11 月 30 日，可以充值囤一波了 https://zenmux.ai/pricing/pay-as-you-go |
 | 2026-11-23 | [让 AI 想象我家](https://www.hecaitou.com/2026/11/how-ai-imagines-my-home.html) | 昨天我请自己使用最多的 AI 去想象一下它眼中我的家是什么样子，要求根据历史对话里它对我的了解，做成一张图。AI 哼哧哼哧搞了十几秒，给出了它的回答，还非常得意地在最后加了一句：注意，最大的特点是没有电视机！ 说实话，这个家我还是蛮喜欢的。几个平米的客厅安排了三个书柜，一个置物矮柜充当黑胶柜，还安排… |
 | 2026-11-23 | [Al Brooks 交易室笔记：Mike Precog 的多周期逻辑、资金管理与学习方法](https://blog.forecho.com/mike-precog-trading-room-notes.html) | 引言 11 月 20 日在 Al Brooks 的美股实盘交易室（Brooks Price Action US Trading Room，01:08 - 02:20）里，听了 Mike （网名 Precog ）的一场分享，记了一堆笔记，感触挺深的。 先简单交代一下他的背景。Mike 是 Al Bro… |
