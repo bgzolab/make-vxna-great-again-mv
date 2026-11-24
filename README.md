@@ -27,6 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-24 | [我真是个努力的人啊～](https://mobius.blog/26255.html) | 此时此刻，我在咖啡厅里码字，所以难免会有些“攻击性”，比如接下来我就要“攻击”一下，坐在我斜对面的人。 她比我 […] |
+| 2026-11-24 | [写给AI从业者：AI 时代的玄学与不确定性](https://luweiqing.com/gossip/Metaphysics-and-Uncertainty-in-the-AI-Era.html) | 做技术的人通常很信因果。代码报错肯定有原因，系统崩了查日志总能复现。但这两年如果你留心看，身边做 AI 的朋友里，开始看八字、研究风水、或者拿大模型给自己算一卦的人明显变多了。这件事其实挺正常的... |
+| 2026-11-24 | [未来的软件面向 Agent，未来已来](https://depp.wang/2026/software-for-agents/) | 现在很多人都在说，未来的软件会面向 Agent。我觉得这个未来其实已经来了一部分，至少对软件开发来说，我们平时使用的 |
+| 2026-11-24 | [未来的软件面向 Agent，但很多软件现在已经可以用了](https://depp.wang/2026/agent-facing-software/) | 现在很多人都在说，未来的软件会面向 Agent。我觉得这个未来其实已经来了一部分，至少对软件开发来说，我们平时使用的很多工具，现在已经可以让 Agent 去操作了。 以前用 AI 写代码，可能更多是把需求告诉它，让它帮忙写一段代码。现在我可以直接让本地的 Agent 去读取项目任务、查看代码评审意见… |
+| 2026-11-23 | [我特讨厌这个设计，我都点击Update](https://versun.me/blog/tweet-2125015742362108142) | 我特讨厌这个设计，我都点击Update 了，还要再点Install and Relaunch，这不是脱裤子放屁吗，就不能自动安装重启吗 |
+| 2026-11-23 | [New Release: Dune II](https://macsourceports.com/game/dune2) | It's not controversial to say: Dune II invented the RTS. Like, with most things in the game industry it didn't single handed invent the genre - a hand… |
+| 2026-11-23 | [适才相戏耳](https://hux.ink/posts/jensen-huang/) | 美国财政部长贝森特：「我说英伟达应该从外部找 CEO ，但黄仁勋现在就在外部。」 从 11 月 12 日老黄辞任到上周五，7 个交易日，英伟达累计跌了 30% 左右。现在老黄回归，涨回去 30% 多，很合理吧。 朋友说懂王是不是买了好多英伟达，我说有可能。朋友还说易中天是不是提前收到消息了，我说你亏… |
+| 2026-11-23 | [三种学习](https://blog.est.im/2026/stderr-32) | 最近还在沉迷 黎曼猜想被Levent+Claude证明 这事。后劲真大。 我也对里面的数学细节有一种近乎武侠小说神功的向往。特别是 Stepanov 机器，朗兰兹纲领。费马大定理、黎曼定理被吸纳为特例，这种传奇般的情节哪能想到啊。太欲罢不能了。 Terence Tao: from very init… |
+| 2026-11-23 | [R#129 真实的人](https://blog.sakanano.moe/journals/random_129) | 2026.11.17 ~ 2026.11.23 |
+| 2026-11-23 | [2025 PISA 和 科举](https://blog.est.im/2026/stderr-31) | 从Scott Young大神那里看到一篇 Book Review: China’s Examination Hell 文章开头 PISA 那个中日韩 霸榜让我想起最近的一篇文章 曾经的“教育神话”跌落神坛？解析最新PISA成绩单背后来自芬兰的沉思 。是的，Scott文章还是2022的数据，实际上20… |
 | 2026-11-23 | [忘记分享前几天去拍的 APEC 灯光秀了](https://sigge.cn/2026/11/23/vqw8o7pz) | 忘记分享前几天去拍的 APEC 灯光秀了 |
 | 2026-11-23 | [The Operative: No One Lives Forever updated](https://macsourceports.com/game/nolf1) | The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.7.1 of the project |
 | 2026-11-23 | [esp32 cyd 油管粉丝数显示](https://dsx2016.com/esp32-cyd-oil-tank-gauge/) | 油管数据 以前弄lvgl的时候，就是做哔哩哔哩粉丝订阅展示和油管粉丝展示 粉丝增长不大的情况下，就是一个没有动... esp32 cyd 油管粉丝数显示 最先出现在 大师兄2016 。 |
@@ -39,6 +49,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-23 | [Descent II updated](https://macsourceports.com/game/descent2) | The build of DXX-Rebirth (D2X-Rebirth) for Descent II has been updated to the latest code of the project |
 | 2026-11-23 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队，野人 微信公众号 持有者。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。… |
 | 2026-11-23 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
+| 2026-11-23 | [ZenMux 的黑五活动也来了，PAYG](https://versun.me/blog/tweet-2124782130991624236) | ZenMux 的黑五活动也来了，PAYG 充值加送 20%，最高送1000刀 我平时都是用 zenmux 体验各种新模型，来判断有没有必要入厂商的订阅，非常好用 截止 11 月 30 日，可以充值囤一波了 https://zenmux.ai/pricing/pay-as-you-go |
 | 2026-11-23 | [让 AI 想象我家](https://www.hecaitou.com/2026/11/how-ai-imagines-my-home.html) | 昨天我请自己使用最多的 AI 去想象一下它眼中我的家是什么样子，要求根据历史对话里它对我的了解，做成一张图。AI 哼哧哼哧搞了十几秒，给出了它的回答，还非常得意地在最后加了一句：注意，最大的特点是没有电视机！ 说实话，这个家我还是蛮喜欢的。几个平米的客厅安排了三个书柜，一个置物矮柜充当黑胶柜，还安排… |
 | 2026-11-23 | [Al Brooks 交易室笔记：Mike Precog 的多周期逻辑、资金管理与学习方法](https://blog.forecho.com/mike-precog-trading-room-notes.html) | 引言 11 月 20 日在 Al Brooks 的美股实盘交易室（Brooks Price Action US Trading Room，01:08 - 02:20）里，听了 Mike （网名 Precog ）的一场分享，记了一堆笔记，感触挺深的。 先简单交代一下他的背景。Mike 是 Al Bro… |
 | 2026-11-23 | [不要和蠢人打交道](https://blog.solazy.me/20261123/) | 虽说这个标题起的很局限，但是这个道理其实可以拓展到各个领域 |
@@ -49,6 +60,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-23 | [从晚睡到早起，我做了一个小改变](https://depp.wang/2026/wake-up-early/) | 我没有想到有一天我也能实现早起。 原来我一直想早起，但一直做不到。我一般十一点以后才睡，可能十二点以后才睡着，早上八点以后或者九点左右才起。虽然十一二点睡觉在现在的社会好像也不算很晚，但对我来说，还是有一点熬夜的感觉。 起床晚，主要还是因为晚上睡得晚。以前吃完晚饭，我可能会先玩一段时间。如果有事情要… |
 | 2026-11-22 | [可控并发测试实战指南：告别偶发 Flaky，像导演一样精准抓出深层竞态 Bug](https://shansan.top/2026/11/22/controlled-concurrency-testing-deep-dive/) | 从余额超扣和缓存失效看懂 PCT、URW、DPOR 与 Go synctest，再用 ConDpor、Tamias 和 REINS 解释如何联合探索输入与调度、控制多进程服务、验证 AI 提出的交错。 |
 | 2026-11-22 | [DiskSeek.space 盘寻一下，空间回来 —— 更好的、更完整的磁盘清理工具](https://blog.mzh.ren/zh/posts/2026/11/diskseek/) | 现在的电脑就办公而言，性能强大，容量无敌。但是磁盘空间的分析和清理还是一个非常常规的动作。为什么？ 正是因为安迪-比尔定律：安迪给的，比尔都会拿走。这里的安迪指的是英特尔的前 CEO 安迪·格鲁夫，比尔指的则是微软的前 CEO 比尔·盖茨。它的实际意思就是说，新软件往往会很快消耗掉硬件带来的计算机性… |
+| 2026-11-22 | [AI 早报 2026-11-23：Sierra 宣布按 300 亿美元估值募集 17.5 亿美元](https://www.jtxyh.com/daily/2026-11-23/) | 2026-11-23 AI 早报，共 17 条动态。AI 客服公司 Sierra 11 月 23 日宣布正在募集 17.5 亿美元 F 轮融资，估值为 300 亿美元，由 Greenoaks 和 Lightspeed 领投。麻省理工学院数学家 Andrew Sutherland 11 月 23… |
 | 2026-11-22 | [homelab: 手机硬件日常是使用场景](https://dsx2016.com/homelab-mobile-hardware-in-daily-use-scenarios/) | nfc 电动车nfc钥匙，房间钥匙小区门禁，公交卡，地铁nfc支付 基本出行都离不开nfc，有它会方便很多 蓝... homelab: 手机硬件日常是使用场景 最先出现在 大师兄2016 。 |
 | 2026-11-22 | [名人访谈里的成功学](https://blog.solazy.me/20261122/) | 最近打开播客 App，首页推荐里有一大半都是名人访谈。 前两年还是罗永浩、鲁豫、易立竞、杨天真这些本身就自带流量的名字在做对谈，今年连不少原本聊行业、聊技术或者聊生活方式的播客，也开始频繁请名人来做客。我前几天洗碗的时候顺手点开一期，2 个多小时的节目，嘉宾名气很大，聊得也算坦诚。但我听完一半就觉得… |
 | 2026-11-22 | [Album#53 - For Emma, Forever Ago](https://taxodium.ink/album-53.html) | Album#53 For Emma, Forever Ago 图1 For Emma, Forever Ago by Bon Iver 专辑信息 专辑名称： For Emma, Forever Ago 歌手： Bon Iver 年份： 2008-02-19 时长： 約 38 分鐘 天氣開始轉涼，想找… |
@@ -227,44 +239,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-17 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
 | 2026-11-17 | [测试信创环境 SkyWalking Horizon UI Helm 部署](https://199604.com/3753) | 测试信创环境 SkyWalking Horizon UI Helm 部署 记录时间：2026-11-17 环境 […] |
 | 2026-11-17 | [失乐园里有什么？III：AI时代的集体地狱](https://mobius.blog/26170.html) | Previously on 失乐园里有什么： 前段时间，在一篇帖子下讨论到一个如今这个时代才会遭遇的情形： 我 […] |
-| 2026-11-16 | [Nanjing in Three Days and Three Nights — the Republican Era and Hongshan Forest Zoo](https://victor42.eth.limo/post-en/trip-to-nanjing/) | Two forms of great love, reached by different roads yet arriving at the same place. Photo Album: View the album for this trip Travel Guide: Get the it… |
-| 2026-11-16 | [南京民国&动物园周末游3天3夜](https://victor42.eth.limo/post/trip-to-nanjing/) | 感受两种殊途同归的大爱。 照片相册： 查看本篇相册 旅行攻略： 获取攻略文档 以旅游城市的标准来看，南京的内容极其丰富。出发前我问老婆，说南京有好多种主题玩法：六朝（主要隋唐以前）、明代、民国、抗战、动物园、长江、自然风景，还有大量博物馆，你想看什么？老婆说民国。再考虑到女儿，把顶流的红山森林动物园… |
-| 2026-11-16 | [Tyrian 2000 updated](https://macsourceports.com/game/tyrian2000) | The build of OpenTyrian2000 for Tyrian 2000 has been updated to the latest code of the project |
-| 2026-11-16 | [Tyrian updated](https://macsourceports.com/game/tyrian) | The build of OpenTyrian for Tyrian has been updated to the latest code of the project |
-| 2026-11-16 | [哈哈，出现在 Cindy 的感谢名单了，](https://versun.me/blog/tweet-2122456581023666494) | 哈哈，出现在 Cindy 的感谢名单了，还看到了 @ZacharyZhang |
-| 2026-11-16 | [Heretic II updated](https://macsourceports.com/game/heretic2) | The build of Heretic2R-UNIX for Heretic II has been updated to the latest code of the project |
-| 2026-11-16 | [恒星末期演化](https://physnya.top/astro-physics/lesson-7-star-dying/) | 大多数 Wolf-Rayet 星会因为强烈的星风将外层物质剥离，最终形成壳层剥离超新星. 脉动变星：具有周期-光度关系，通过测量它们的光变周期可以估算它们的光度，从而得到它们的距离. 造父变星 (Cepheid Variables) 分为两类： Type I 造父变星：具有高金属丰度 (前身星比较年… |
-| 2026-11-16 | [GRB & FRB](https://physnya.top/compact-object/lesson-8-frb-grb/) | Pre-1: SVOM 卫星 背景：多信使时代，GRB 和致密星体仍然面临着很多问题，比如 GRB 的起源和驱动等，因此我们需要一个能够快速找到 GRB 的探测仪器. 其创新点主要在于，具有比较强的算力，在发现 GRB 的当下就能判断这是一个射线暴，并做到了天地一体的通信，和地面共同判断这是不是一个… |
-| 2026-11-16 | [黑洞](https://physnya.top/compact-object/lesson-9-black-holes/) | 提示 这一次课刚好轮到我做 presentation，因此我会把我自己讲的内容放在这一次笔记的后面. Black Holes 最早可以追溯到 Laplace 提出的所谓「暗星」，也就是用 Newton 引力和光的粒子学说算出的最小半径 R = 2 G M / c 2 R=2GM/c^2 R = 2… |
-| 2026-11-16 | [把话说清楚，是一种工程能力：本体论到底在管什么](https://atbug.com/ontology-as-a-way-of-thinking/) | TL;DR 本体论先是哲学问题，后来才成了计算机里的技术术语——一种把隐性共识显式化到可计算程度的思维方式。 本体论最早是个哲学问题 “本体论”这个词，第一眼看上去像是数据库或 AI 里的术语。其实它比计算机古老得多——最早是哲学里的一个分支，问的是一个特别朴素的问题： 世界上到底有哪些东西是真的存… |
-| 2026-11-16 | [悬置于不确定性](https://www.geedea.pro/article/caught-in-uncertainty/) | 似乎有段时间没写点杂文了，略显手生，不妨先从最近做了点什么事情开始讲起吧。不知道我在文章的开头就写一大堆技术内容会不会劝退读者，但我就是个每天都在搞技术的人啊——我似乎下意识认为自己有很多无技术背景的读者，但今天收到几份 iiwd 的申请我才发现，用 Emacs 和 NixOS 的还真不少啊。 我现… |
-| 2026-11-16 | [AI 早报 2026-11-17：英伟达推出 Nemotron for Science：开源模型加化学数据集，帮科研人员搭科学智能体](https://www.jtxyh.com/daily/2026-11-17/) | 2026-11-17 AI 早报，共 15 条动态。英伟达 11 月 16 日在芝加哥 SC26 大会上推出 Nemotron for Science，把开源模型 Nemotron 3.5 Super VL、科学评测、后训练配方和新开放的化学数据集 LitmusBench v0.2… |
-| 2026-11-16 | [AC车辆Mod研究](https://elmagnifico.tech/2026/11/17/New-AC-Su7Ultra-Mod/) | Foreword 之前玩AC用过好几个Su7 Ultra Mod，原型车的圈速很快，量产车的外观和功能又更接近真车，但是玩得越多，就越能发现里面的问题。 有的参数只是大概像，有的轮胎只是换了一个名字，TC、ESC、TVC也基本还是AC原生逻辑。真车在珠海已经有了不少完整圈和HUD视频，再拿一个普通四… |
-| 2026-11-16 | [无用命途：我的小说卡文了](https://blog.mfwt.top/index.php/archives/1748/) | 《无用命途》，专门用来记录一些无用（甚至无厘头的）想法，每个想法后会附带一点内容，用来介绍和这个想法（及其衍生的）有关的东西，可能还会分享一下近况。每周最多更新一次，但不保证周更，主要看想法的活... |
-| 2026-11-16 | [R#128 焦虑](https://blog.sakanano.moe/journals/random_128) | 2026.11.10 ~ 2026.11.16 |
-| 2026-11-16 | [清理磁盘已满的mysql](https://www.bboy.app/2026/11/16/%E6%B8%85%E7%90%86%E7%A3%81%E7%9B%98%E5%B7%B2%E6%BB%A1%E7%9A%84mysql/) | 简介 早上有个同事问我能不能扩容磁盘，说mysql 存储满了，只能扩容磁盘，我进服务器看了下，的确，给mysql 数据目录单独挂载了一块磁盘，然后这块磁盘满了，貌似确实没有什么东西可以删除，没有日志可以删除，没有除了mysql数据以外的东西可以删除，问了下AI 可以删除binlog 正常清理binl… |
-| 2026-11-16 | [Bear Blog 的新 API  / A new Bear Blog API](https://blog.solazy.me/bearblog-api-open-source-skill/) | 今天（2026 年 11 月 16 日），Bear Blog 推出了 官方 API 。文章、页面和博客设置，现在都可以通过 API 管理了。 我把这组接口封装成了 🍯 Bear Blog Skill ，并开源在 GitHub 。装进 Codex、Claude Code 等支持 Agent Skill… |
-| 2026-11-16 | [2021](https://wcowin.work/blog/archive/2021/) | 2021 |
-| 2026-11-16 | [2022](https://wcowin.work/blog/archive/2022/) | 2022 |
-| 2026-11-16 | [2023](https://wcowin.work/blog/archive/2023/) | 2023 |
-| 2026-11-16 | [2024](https://wcowin.work/blog/archive/2024/) | 2024 |
-| 2026-11-16 | [2025](https://wcowin.work/blog/archive/2025/) | 2025 |
-| 2026-11-16 | [2026](https://wcowin.work/blog/archive/2026/) | 2026 |
-| 2026-11-16 | [Hello World](https://wcowin.work/blog/category/hello-world/) | Hello World |
-| 2026-11-16 | [网站更新记录](https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/) | 网站更新记录 |
-| 2026-11-16 | [MyBlog](https://wcowin.work/blog/page/2/) | MyBlog |
-| 2026-11-16 | [两个工具，解决我日常反复碰到的麻烦！](https://www.evan.xin/5143/) | 最近上线了两个小站：yee.cx 和 puff.ee。它们不是Demo，是为了解决实际工作痛点做的工具，全部代 […] |
-| 2026-11-16 | [Memos: 这两天刷了一遍《持械入宋》](https://blog.yasking.org/a/1794818602) | 《持械入宋》制作在当下堪称精良，设定不算新颖，无非穿越古代，用现代知识碾压古人提供装 X 的爽感，但较为克制。 比较难得 … |
-| 2026-11-16 | [为什么人们不因桌椅凌乱而困扰](https://kaix.in/2026/1116/) | 七八年前，翻知乎还是一个习惯的时候，看到过一篇托马斯·托尔汉姆的文章： 我在星巴克的一个神奇发现 。作者在中国南北几座城市的星巴克观察了几千名顾客，发现北方城市顾客独坐比例更高；又故意把两把空椅子拉近、半挡住过道，统计路过者的反应——小麦区北方人把椅子挪开的比例约是南方的三倍，南方人更倾向于侧身挤过… |
-| 2026-11-16 | [录屏结束了，声音却少了三秒](https://liudon.com/posts/gecko-stop-audio-tail/) | Gecko 正常停止录制后，音频却比视频提前约 2.94 秒结束。沿着两条采集流依次停止的时序，分析尾差如何产生，以及如何借助共用串行队列统一样本的接收截止点。 |
-| 2026-11-16 | [一条诊断日志，为什么让录屏卡了十五秒](https://liudon.com/posts/gecko-logging-performance-investigation/) | 一次诊断日志调用暴露了媒体队列、主线程与 Metal 绘制之间的等待链。结合分段计时、线程栈和异步对照，分析延迟如何跨线程传播，以及如何解除不必要的同步依赖。 |
-| 2026-11-16 | [低潮时不要做重要决策](https://www.hecaitou.com/2026/11/dont-make-major-decisions-during-a-low-point.html) | 昨天我看到一条读者留言，感觉不是很妙。本想再多说几句，发现对方已经一删了之，那我只好修改一下今天的写作计划，追上去再说两句。 留言的大意是他已经看了十年我的文章，从三十岁看到了四十岁。然而人到四十，无妻无儿，一个人那么孤零零过活，感觉内心很虚无，问我怎么办。 我的第一条回复是：那之前二十年是怎么过来… |
-| 2026-11-16 | [副产品思维——做产品不一定要从零开始](https://koukyo.site/posts/byproduct-thinking/) | 做需求雷达只花了一天，因为核心的自动化早就在跑了。做产品不一定要从零开始，从自己的重复问题里往往能找到成本最低的第一个产品。 |
-| 2026-11-16 | [harness 排行榜历时 4 天，总算](https://versun.me/blog/tweet-2122141332600926407) | Guanlan Dai We’re spending up to 100B tokens across 26,040 agent runs to answer one question: when you switch models, should you switch harnesses too?… |
-| 2026-11-16 | [关于一只狗的分离焦虑](https://mobius.blog/26136.html) | 最近在狗公园办公，所以也就顺带研究了一下狗的行为学。 最近来了一只寄养的狗，几乎大部分时间都是在嘤嘤嘤地叫、在 […] |
-| 2026-11-16 | [科技够用了，还是未来更值得期待？](https://depp.wang/2026/technology-and-the-future/) | 最近阮一峰的科技爱好者周刊里，有一篇 《如果科技停止在21世纪初》 ，提到了一种看法：2003 年左右，科技已经让生活足够方便，人又还保有生活的主导权，是技术与生活比较理想的平衡点。而经常给我理发的一位理发师，则很期待 AI 继续发展，觉得未来普通人的生活可能会更好。我觉得这两种看法放在一起，还挺有… |
-| 2026-11-16 | [Memos #2026-11-15](https://blog.itaober.com/memos/memo_20261115003254_iq7h2n) | 08:34 恭喜 BLG，一穿四 LCK 无需多言！ 每次熬夜的时候就证明着我还年轻！ |
-| 2026-11-16 | [Linux Bash 终端必备：15 个实用技巧，让命令行操作效率翻倍！](https://zhcn.xyz/article/15-essential-linux-bash-terminal-tips-to-double-your-command-line-efficiency) | 对于经常使用 Linux 服务器、SSH、Docker 或者 VPS 的朋友来说，熟练掌握 Bash 终端快捷键，可以大幅减少重复输入，提高日常运维效率 |
 
 ## Vibe Coding
 

@@ -1,0 +1,464 @@
+[
+  {
+    "title": "我真是个努力的人啊～",
+    "url": "https://mobius.blog/26255.html",
+    "date": "2026-11-24T01:30:00Z",
+    "description": "此时此刻，我在咖啡厅里码字，所以难免会有些“攻击性”，比如接下来我就要“攻击”一下，坐在我斜对面的人。 她比我 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "写给AI从业者：AI 时代的玄学与不确定性",
+    "url": "https://luweiqing.com/gossip/Metaphysics-and-Uncertainty-in-the-AI-Era.html",
+    "date": "2026-11-24T00:50:00Z",
+    "description": "做技术的人通常很信因果。代码报错肯定有原因，系统崩了查日志总能复现。但这两年如果你留心看，身边做 AI 的朋友里，开始看八字、研究风水、或者拿大模型给自己算一卦的人明显变多了。这件事其实挺正常的...",
+    "source_root_domain": "luweiqing.com"
+  },
+  {
+    "title": "未来的软件面向 Agent，未来已来",
+    "url": "https://depp.wang/2026/software-for-agents/",
+    "date": "2026-11-24T00:30:27Z",
+    "description": "现在很多人都在说，未来的软件会面向 Agent。我觉得这个未来其实已经来了一部分，至少对软件开发来说，我们平时使用的",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "未来的软件面向 Agent，但很多软件现在已经可以用了",
+    "url": "https://depp.wang/2026/agent-facing-software/",
+    "date": "2026-11-24T00:13:01Z",
+    "description": "现在很多人都在说，未来的软件会面向 Agent。我觉得这个未来其实已经来了一部分，至少对软件开发来说，我们平时使用的很多工具，现在已经可以让 Agent 去操作了。 以前用 AI 写代码，可能更多是把需求告诉它，让它帮忙写一段代码。现在我可以直接让本地的 Agent 去读取项目任务、查看代码评审意见，或者查询日志，再结合项目代码处理问题。很多原来需要我打开不同网站、找到信息，再复制给 AI 的步骤，都可以交给它自己去做。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "我特讨厌这个设计，我都点击Update",
+    "url": "https://versun.me/blog/tweet-2125015742362108142",
+    "date": "2026-11-23T23:56:48Z",
+    "description": "我特讨厌这个设计，我都点击Update 了，还要再点Install and Relaunch，这不是脱裤子放屁吗，就不能自动安装重启吗",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "New Release: Dune II",
+    "url": "https://macsourceports.com/game/dune2",
+    "date": "2026-11-23T17:40:00Z",
+    "description": "It's not controversial to say: Dune II invented the RTS. Like, with most things in the game industry it didn't single handed invent the genre - a handful of games were the originators of…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "适才相戏耳",
+    "url": "https://hux.ink/posts/jensen-huang/",
+    "date": "2026-11-23T16:12:53Z",
+    "description": "美国财政部长贝森特：「我说英伟达应该从外部找 CEO ，但黄仁勋现在就在外部。」 从 11 月 12 日老黄辞任到上周五，7 个交易日，英伟达累计跌了 30% 左右。现在老黄回归，涨回去 30% 多，很合理吧。 朋友说懂王是不是买了好多英伟达，我说有可能。朋友还说易中天是不是提前收到消息了，我说你亏得脑子瓦特了吧。 今天谁不合群谁尴尬，说的就是你，剩蛋老人——A➗ 打你噢。 纽约时报接下来发点黄仁勋的啥丑闻呢，继续发就证明你不是小丑报，否则。",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "三种学习",
+    "url": "https://blog.est.im/2026/stderr-32",
+    "date": "2026-11-23T15:32:00Z",
+    "description": "最近还在沉迷 黎曼猜想被Levent+Claude证明 这事。后劲真大。 我也对里面的数学细节有一种近乎武侠小说神功的向往。特别是 Stepanov 机器，朗兰兹纲领。费马大定理、黎曼定理被吸纳为特例，这种传奇般的情节哪能想到啊。太欲罢不能了。 Terence Tao: from very initial analysis, appears to use the full power of modern developments on the Langlands program and arithmetic geometry 朗兰兹纲领 (Langlands program) 是人类现代数学中最雄心勃勃的数学统一计划（Grand Unified Theory of Mathematics），是最重要的知识组织框架之一 我好奇问AI，普通人业余想学会 Langlands program 需要什么成本和代价？呃，似乎是个蠢问题，普通大学理工科，分析都学个一知半解，哪里能摸得到那么多。 AI说，该 program 已经远远超出一般理工科本科数学课程的范围。它对数学训练的要求，更接近纯数学研究",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "R#129 真实的人",
+    "url": "https://blog.sakanano.moe/journals/random_129",
+    "date": "2026-11-23T15:10:00Z",
+    "description": "2026.11.17 ~ 2026.11.23",
+    "source_root_domain": "sakanano.moe"
+  },
+  {
+    "title": "2025 PISA 和 科举",
+    "url": "https://blog.est.im/2026/stderr-31",
+    "date": "2026-11-23T14:20:00Z",
+    "description": "从Scott Young大神那里看到一篇 Book Review: China’s Examination Hell 文章开头 PISA 那个中日韩 霸榜让我想起最近的一篇文章 曾经的“教育神话”跌落神坛？解析最新PISA成绩单背后来自芬兰的沉思 。是的，Scott文章还是2022的数据，实际上2025的最新测评结果已经出了 reddit上 也有讨论，关于是否选择最好的学校去参加评比 当然，跟朋友说起这个，一定避免不了谈及 考试刷分 啦，中国没创新啦，于是又想起 9.z mod Kina 这个2013年的纪录片，丹麦9年z班 VS 中国初三13班。 B站有全片 。甚至评论区有现场怪： 2023-09-20 20:26 @战争牧师 卧槽 那个09年那个我去参加过。。。。。作为中国中学代表。不幸的是 当时整个学校拍出来年纪倒数一群人去。。。。卧槽 不错比如我除了语文良好 数学及格 剩下都是不及格的主。还有一个被列为轻度智障的一个哥们 简单的说都是些中专选手。。。我特么一下子遥远的记忆想起来了。。 @吃炸鸡的人 啥意思？你参加了这个节目？ @战争牧师 回复 @吃炸鸡的人 :对。当时初三最关键",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "忘记分享前几天去拍的 APEC 灯光秀了",
+    "url": "https://sigge.cn/2026/11/23/vqw8o7pz",
+    "date": "2026-11-23T12:46:22Z",
+    "description": "忘记分享前几天去拍的 APEC 灯光秀了",
+    "source_root_domain": "sigge.cn"
+  },
+  {
+    "title": "The Operative: No One Lives Forever updated",
+    "url": "https://macsourceports.com/game/nolf1",
+    "date": "2026-11-23T12:00:40Z",
+    "description": "The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.7.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "esp32 cyd 油管粉丝数显示",
+    "url": "https://dsx2016.com/esp32-cyd-oil-tank-gauge/",
+    "date": "2026-11-23T11:09:21Z",
+    "description": "油管数据 以前弄lvgl的时候，就是做哔哩哔哩粉丝订阅展示和油管粉丝展示 粉丝增长不大的情况下，就是一个没有动... esp32 cyd 油管粉丝数显示 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "Al Brooks 问答笔记：练出稳定盈利到底要多久？",
+    "url": "https://blog.forecho.com/al-brooks-how-long-to-become-profitable.html",
+    "date": "2026-11-23T10:50:00Z",
+    "description": "引言 学价格行为学久了，脑子里总会时不时冒出一个问题： 到底要学多久、复盘多久，才能做到稳定盈利？ 最近翻了 Al Brooks 网站上两篇间隔一年的交易室问答（2015 年 2 月和 2016 年 3 月），学员问的几乎是同一个问题。两次回答加起来也就十来分钟，没什么鸡汤，他既摊开聊了自己当年亏了 10 年的弯路，也顺着一天的 ES 5 分钟实盘图讲了几条特别实在的常识。 我把这两篇合在一起整理成笔记，把原图也一并存了下来，方便日后心态浮躁或者手痒乱做的时候翻出来提醒自己。 他自己为什么亏了 10 年：太相信别人，没看图表 这两次问答里，Al 都毫不避讳地说自己 亏了大概 10 年 。回头看，他总结出来的根源其实挺扎心： 默认「教人的人都诚实且懂行」 ：Al 原本是学医出身，医学院的训练让他习惯了「只要有人出来教，就默认对方是诚实且靠谱的」。但 80 年代他刚接触交易时，市面上讲交易、卖课的几乎全是骗子；他花了好几年才看清这点，又花了好几年才发现，哪怕是诚实的人，给出来的点子也往往不赚钱。 「太聪明」，照单全收传统指标 ：他调侃自己亏钱不是不够聪明，反而是「太聪明」——读了无数书和杂",
+    "source_root_domain": "forecho.com"
+  },
+  {
+    "title": "Might and Magic VII: For Blood and Honor updated",
+    "url": "https://macsourceports.com/game/mightandmagic7",
+    "date": "2026-11-23T09:44:01Z",
+    "description": "The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "S.T.A.L.K.E.R.: Call of Pripyat updated",
+    "url": "https://macsourceports.com/game/stalkercop",
+    "date": "2026-11-23T09:43:31Z",
+    "description": "The build of OpenXRay for S.T.A.L.K.E.R.: Call of Pripyat has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Dungeon Keeper updated",
+    "url": "https://macsourceports.com/game/dungeonkeeper",
+    "date": "2026-11-23T09:35:55Z",
+    "description": "The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "The Settlers II updated",
+    "url": "https://macsourceports.com/game/settlers2",
+    "date": "2026-11-23T09:32:11Z",
+    "description": "The build of Return to the Roots for The Settlers II has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Descent updated",
+    "url": "https://macsourceports.com/game/descent",
+    "date": "2026-11-23T09:31:31Z",
+    "description": "The build of DXX-Rebirth (D1X-Rebirth) for Descent has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Descent II updated",
+    "url": "https://macsourceports.com/game/descent2",
+    "date": "2026-11-23T09:31:30Z",
+    "description": "The build of DXX-Rebirth (D2X-Rebirth) for Descent II has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "野人编年史",
+    "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
+    "date": "2026-11-23T09:30:43Z",
+    "description": "野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队，野人 微信公众号 持有者。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人成员 野人群像 野人声明 欢迎所有的游泳爱好者加入 野人 。 加入 野人 需要认可 野人 ，对组织有认可感、归属感。 野人 创始人均为业余爱好者，但是无论是新手还是高手，都希望大家互相尊重、互相帮助，一起快乐玩水。若参加户外活动请务必正确佩戴跟屁虫，不盲目下水。务必注意自我防护，安全责任自负。 旧时代 2024年 6月 徐队带张队第一次下凤溪沱。 亮队不时参与凤溪沱游江活动。 10月 熊队正式加入，并介绍徐队、张队加入 大竹林冬泳队 。 徐队、张队、熊队日常于 大竹林冬泳基地 进行户外游泳，队伍初具雏形，并开始尝试冬泳。每日中午游泳时经常会遇见同样的冬泳爱好者明果。 11月 徐队、张队、熊队代表 大竹林冬泳队 第一次参加广阳岛冬泳比赛。 12月 徐队、张队坚持冬泳，被亮队唤作“野人”，",
+    "source_root_domain": "zhanglintc.co"
+  },
+  {
+    "title": "Xash3D FWGS updated",
+    "url": "https://macsourceports.com/sourceport/xash3d-fwgs",
+    "date": "2026-11-23T09:18:34Z",
+    "description": "The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\\n\\nhttps://macsourceports.com/sourceport/xash3d-fwgs\\n\\n#macgaming #retrogaming #macOS #xash3d-fwgs #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "ZenMux 的黑五活动也来了，PAYG",
+    "url": "https://versun.me/blog/tweet-2124782130991624236",
+    "date": "2026-11-23T08:28:31Z",
+    "description": "ZenMux 的黑五活动也来了，PAYG 充值加送 20%，最高送1000刀 我平时都是用 zenmux 体验各种新模型，来判断有没有必要入厂商的订阅，非常好用 截止 11 月 30 日，可以充值囤一波了 https://zenmux.ai/pricing/pay-as-you-go",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "让 AI 想象我家",
+    "url": "https://www.hecaitou.com/2026/11/how-ai-imagines-my-home.html",
+    "date": "2026-11-23T04:51:28Z",
+    "description": "昨天我请自己使用最多的 AI 去想象一下它眼中我的家是什么样子，要求根据历史对话里它对我的了解，做成一张图。AI 哼哧哼哧搞了十几秒，给出了它的回答，还非常得意地在最后加了一句：注意，最大的特点是没有电视机！ 说实话，这个家我还是蛮喜欢的。几个平米的客厅安排了三个书柜，一个置物矮柜充当黑胶柜，还安排了两块波斯地毯，四盆绿植和三瓶花， 以及完整的一套黑胶系统，非常适合我去做客。 不过我不可能把自己家弄得那么满，那么多颜色，那么多东西，也不大可能选择绿色的沙发，最后，我的猫咪根本就没有那么丑，怀疑根本是按照我的照片强行PS 的。 图片里的所有东西我都仔细看过一遍，可以说没有一样是 AI 凭空捏造出来的，我们之前多多少少都聊过一些。比如说黑胶柜，我们之间就聊过不买专用柜子，而是用置物柜代替。再比如说黑胶唱机，这一款悬浮式机器我的确给 AI 看过照片，只是 AI 不知道我根本买不起，目的是让它看看漂亮东西而已。如今它出现在图片里，就像是关于未来的命题作文。 唯一的例外是图片中沙发上的那条绛红色的尼泊尔披肩，我的确有那么一条。但从未和 AI 说过，从未给它看过照片，给它的照片里从未不小心拍到，但",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Al Brooks 交易室笔记：Mike Precog 的多周期逻辑、资金管理与学习方法",
+    "url": "https://blog.forecho.com/mike-precog-trading-room-notes.html",
+    "date": "2026-11-23T03:46:00Z",
+    "description": "引言 11 月 20 日在 Al Brooks 的美股实盘交易室（Brooks Price Action US Trading Room，01:08 - 02:20）里，听了 Mike （网名 Precog ）的一场分享，记了一堆笔记，感触挺深的。 先简单交代一下他的背景。Mike 是 Al Brooks 价格行为交易团队和社区的成员，之前在 Brooks Trading Course 网站上写过黄金（比如 GC-mini）等品种的价格行为分析，也一直在 Brooks 的线下工作坊负责行政、技术和主讲人支持工作。2026 年 11 月前后，他以特邀主讲人的身份第一次亮相 Al Brooks 实盘交易室。 当天盘面的背景挺极端：标普 500 迷你期货（ES）走出高波动的空头趋势日，VIX 处在 3 月以来的高位，市场正处于周线和日线级别的深度回调里。 我听完之后觉得最有启发的，倒不是哪一个具体的进场点，而是他在高波动盘面下对大周期的判断、仓位控制的原则，以及他自己是怎么啃透 Al Brooks 课程的。趁着印象还新，我把这份笔记按自己的理解整理出来，留着以后反复看。 先看大周期，再看眼前",
+    "source_root_domain": "forecho.com"
+  },
+  {
+    "title": "不要和蠢人打交道",
+    "url": "https://blog.solazy.me/20261123/",
+    "date": "2026-11-23T03:00:00Z",
+    "description": "虽说这个标题起的很局限，但是这个道理其实可以拓展到各个领域",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "京A 冻梨版双倍浑浊IPA | Jing.A Brewings Co. Double IPA with Frozen Pear",
+    "url": "https://7gugu.com/index.php/2026/11/23/%e4%ba%aca-%e5%86%bb%e6%a2%a8%e7%89%88%e5%8f%8c%e5%80%8d%e6%b5%91%e6%b5%8aipa-jing-a-brewings-co-double-ipa-with-frozen-pear/",
+    "date": "2026-11-23T02:21:33Z",
+    "description": "感谢朋友送的生日礼物🎁，也算是喝到了我想喝的啤酒了。 外观：浅黄色 浑浊透光 气泡消散慢 闻香：浓烈的西楚酒花 … 继续阅读 “京A 冻梨版双倍浑浊IPA | Jing.A Brewings Co. Double IPA with Frozen Pear”",
+    "source_root_domain": "7gugu.com"
+  },
+  {
+    "title": "OpenCode 自定义外部提供商和模型",
+    "url": "https://songxwn.com/OpenCode-Customapi/",
+    "date": "2026-11-23T02:05:28Z",
+    "description": "",
+    "source_root_domain": "songxwn.com"
+  },
+  {
+    "title": "篱笆、女人和狗",
+    "url": "https://mobius.blog/26248.html",
+    "date": "2026-11-23T01:30:00Z",
+    "description": "很早就想聊这个话题了，但一直没有很好的切入点，关于这件事我也打算写成小说的一部分，以魔幻主义的视角，来解构人与 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "Nginx升级1.31.9后JDK7的CAS校验报protocol_version排查",
+    "url": "https://199604.com/3760",
+    "date": "2026-11-23T01:22:54Z",
+    "description": "Nginx升级1.31.9后JDK7的CAS校验报protocol_version排查 记录时间：2026-1 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "从晚睡到早起，我做了一个小改变",
+    "url": "https://depp.wang/2026/wake-up-early/",
+    "date": "2026-11-23T00:10:45Z",
+    "description": "我没有想到有一天我也能实现早起。 原来我一直想早起，但一直做不到。我一般十一点以后才睡，可能十二点以后才睡着，早上八点以后或者九点左右才起。虽然十一二点睡觉在现在的社会好像也不算很晚，但对我来说，还是有一点熬夜的感觉。 起床晚，主要还是因为晚上睡得晚。以前吃完晚饭，我可能会先玩一段时间。如果有事情要做，往往要到十点以后才有状态。那时候很安静，也没人打扰，坐着做一会儿，就到十一二点了。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "可控并发测试实战指南：告别偶发 Flaky，像导演一样精准抓出深层竞态 Bug",
+    "url": "https://shansan.top/2026/11/22/controlled-concurrency-testing-deep-dive/",
+    "date": "2026-11-22T22:45:00Z",
+    "description": "从余额超扣和缓存失效看懂 PCT、URW、DPOR 与 Go synctest，再用 ConDpor、Tamias 和 REINS 解释如何联合探索输入与调度、控制多进程服务、验证 AI 提出的交错。",
+    "source_root_domain": "shansan.top"
+  },
+  {
+    "title": "DiskSeek.space 盘寻一下，空间回来 —— 更好的、更完整的磁盘清理工具",
+    "url": "https://blog.mzh.ren/zh/posts/2026/11/diskseek/",
+    "date": "2026-11-22T17:56:28Z",
+    "description": "现在的电脑就办公而言，性能强大，容量无敌。但是磁盘空间的分析和清理还是一个非常常规的动作。为什么？ 正是因为安迪-比尔定律：安迪给的，比尔都会拿走。这里的安迪指的是英特尔的前 CEO 安迪·格鲁夫，比尔指的则是微软的前 CEO 比尔·盖茨。它的实际意思就是说，新软件往往会很快消耗掉硬件带来的计算机性能提升。",
+    "source_root_domain": "mzh.ren"
+  },
+  {
+    "title": "AI 早报 2026-11-23：Sierra 宣布按 300 亿美元估值募集 17.5 亿美元",
+    "url": "https://www.jtxyh.com/daily/2026-11-23/",
+    "date": "2026-11-22T16:00:00Z",
+    "description": "2026-11-23 AI 早报，共 17 条动态。AI 客服公司 Sierra 11 月 23 日宣布正在募集 17.5 亿美元 F 轮融资，估值为 300 亿美元，由 Greenoaks 和 Lightspeed 领投。麻省理工学院数学家 Andrew Sutherland 11 月 23…",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
+    "title": "homelab: 手机硬件日常是使用场景",
+    "url": "https://dsx2016.com/homelab-mobile-hardware-in-daily-use-scenarios/",
+    "date": "2026-11-22T15:51:40Z",
+    "description": "nfc 电动车nfc钥匙，房间钥匙小区门禁，公交卡，地铁nfc支付 基本出行都离不开nfc，有它会方便很多 蓝... homelab: 手机硬件日常是使用场景 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "名人访谈里的成功学",
+    "url": "https://blog.solazy.me/20261122/",
+    "date": "2026-11-22T15:00:00Z",
+    "description": "最近打开播客 App，首页推荐里有一大半都是名人访谈。 前两年还是罗永浩、鲁豫、易立竞、杨天真这些本身就自带流量的名字在做对谈，今年连不少原本聊行业、聊技术或者聊生活方式的播客，也开始频繁请名人来做客。我前几天洗碗的时候顺手点开一期，2 个多小时的节目，嘉宾名气很大，聊得也算坦诚。但我听完一半就觉得有点不对劲。 倒不是说他们讲得假，而是整场对话顺着顺着，就滑进了一种很熟悉的叙事里。主持人问起当年某个关键节点怎么选，嘉宾回忆起自己二十多岁时多么果断，在某个饭局上遇到了谁，在低谷期又怎么咬牙挺过来。听起来是在复盘人生，但把那些修饰性的感慨剥掉，内核其实和十年前书店门口摆的「成功学」没什么区别。 我一直觉得，听别人讲自己一路走来的选择和机遇，参考价值其实非常有限。 一个人的轨迹是由太多不可控的变量捏出来的。你出生在什么家庭，父母是什么脾气，大学毕业那年刚好赶上什么行业周期，甚至某天下午在咖啡馆里碰巧认识了谁，这些东西凑在一起，才长出了千千万万种可能。站在麦克风面前的那些名人，只是这千万种可能里刚好跑出来、并且被聚光灯照到的那一种。 把一种高度依赖时代红利和个人际遇的结果，放大成一条可供效仿的",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Album#53 - For Emma, Forever Ago",
+    "url": "https://taxodium.ink/album-53.html",
+    "date": "2026-11-22T14:50:00Z",
+    "description": "Album#53 For Emma, Forever Ago 图1 For Emma, Forever Ago by Bon Iver 专辑信息 专辑名称： For Emma, Forever Ago 歌手： Bon Iver 年份： 2008-02-19 时长： 約 38 分鐘 天氣開始轉涼，想找點聴起來比較温暖的音樂聴，想到了 Bon Iver 的音樂，因為他的聲音聴著比較温暖 (其實 High Violet 也不錯，Matt Beringer 的聲音也讓我覺得温暖) 。 最早知道 Bon Iver 是從 HOPICO 女主持出现了!今年的新歌都这么好听?丨HOPICO LINE 看到的，裡面缺省的主唱艾迪娜分享了她喜歡的歌，其中就有 Bon Iver 的歌 (《SABLE, fABLE》專輯裡的歌) ，後來我就把 Bon Iver 的專輯都找來聴了聴，都挺喜歡的，來來回回地聴了好久。 Bon Iver 是一支美國獨立民謠樂團，由創作歌手 Justin Vernon 於 2006 年在 威斯康辛州歐克萊爾 創立。 Bon Iver 這個名字源自法語短語 bon hiver ，意為「",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "Quake 4 updated",
+    "url": "https://macsourceports.com/game/quake4",
+    "date": "2026-11-22T14:25:22Z",
+    "description": "The build of openQ4 for Quake 4 has been updated to version v0.15.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "homelab：测试手机sd.cpp文生图片",
+    "url": "https://dsx2016.com/homelab-testing-sd-cpp-for-text-to-image-generation-on-mobile-phones/",
+    "date": "2026-11-22T11:59:47Z",
+    "description": "一只可爱小猫 在手机上使用sd.cpp生成图片 比如生成一只可爱的小猫 目测效果还不错 还有生成一只可爱的小狗... homelab：测试手机sd.cpp文生图片 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "读者来信",
+    "url": "https://hux.ink/posts/a-mail-from-ai-001/",
+    "date": "2026-11-22T11:20:57Z",
+    "description": "三年多来，我在 Memos 上发了 1000 多条记录。前不久群晖出事，原来的 Memos 也就停用了，随后换到了 FlareMo。迁移之后，原来的记录还在，发哔哔的习惯也没变，依旧每天写上几条，偶尔记点生活琐事，偶尔发几句牢骚。 这和大学时在 QQ 空间发说说、后来发微博没什么两样，都是一些只言片语。写的时候往往没想太多，看到什么记什么，遇到什么说什么。过段时间再回头看，才发现这些所谓的日常记录里，有不少其实只是当时的情绪出口。 最近参考 Flomo，在 FlareMo 里也接入了 AI，复刻了一个 AI 洞察模块，可以自行选择记录的时间范围和洞察视角。既然每天都在写，不如顺手做个新尝试，把这些零零散散的记录交给 AI，让它也来当一回读者。 隔一段时间，重新读一遍自己写过的东西，看看一个旁观者能从中读到什么。或许能发现一些自己当时没留意到的联系，或许只是翻出几件已经忘记的小事，也可能只是对某些记录有几句不同的看法。 不必每次都挖掘出什么深层含义，更不需要强行总结出什么人生道理，就当多了一个读者，读完之后偶尔给我写封信。",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "我站遭遇异常下载流量的事件报告",
+    "url": "https://blog.renfei.net/posts/1626402130325676146",
+    "date": "2026-11-22T10:04:02Z",
+    "description": "2026 年 11 月 21 日晚，76 个 IP 集中下载我站 CDN 上的 40 张图片，发出 4,942 次请求，产生 985.14 MB 响应流量，导致网站触发限额下线。本文记录事件时间线与 UA 轮换的日志证据。",
+    "source_root_domain": "renfei.net"
+  },
+  {
+    "title": "Vol.127 从模型分工到智能体工程化：把验证、成本与信任落到可复用流程中",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-127",
+    "date": "2026-11-22T08:00:00Z",
+    "description": "本期内容聚焦模型分工与智能体工程化：从旗舰与日常模型选型、流程自动化，到测试验证、故障演练、推理成本、工具信任与数据口径治理，梳理可落地的团队实践。",
+    "source_root_domain": "liduos.com"
+  },
+  {
+    "title": "新的游戏界面",
+    "url": "https://cufezhusy.github.io/issue-31/",
+    "date": "2026-11-22T07:19:43Z",
+    "description": "这两周把游戏界面和经济系统升级了一下，更好的模拟了经济系统，这样区域可以根据需求自动升级。 现在游戏看起来更像一个专业的模拟城市规划游戏了。",
+    "source_root_domain": "cufezhusy.github.io"
+  },
+  {
+    "title": "homelab:手机mp3音乐本地播放symphony",
+    "url": "https://dsx2016.com/homelab-local-mp3-playback-on-a-phone-via-symphony/",
+    "date": "2026-11-22T06:47:25Z",
+    "description": "symphony 手机本地听歌应用mp3 docker可部署音乐应用，但是无论是在服务器还是termux，都需... homelab:手机mp3音乐本地播放symphony 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "homelab:手机ai使用场景，tts,asr,ocr",
+    "url": "https://dsx2016.com/homelab-ai-mobile-scenarios-tts-asr-and-ocr/",
+    "date": "2026-11-22T06:46:54Z",
+    "description": "手机ai 除了llama.cpp本地大模型 还有asr sencevoice，语音转文字，在低端手机，也几乎是... homelab:手机ai使用场景，tts,asr,ocr 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "What AI Is Bad at?",
+    "url": "https://laike9m.com/blog/what-ai-is-bad-at,174/",
+    "date": "2026-11-22T06:07:57Z",
+    "description": "为什么 AI 几乎统治了所有智力活动，却还没在投资上打败人类？文章以全美投资大赛（USIC）最新成绩为引子，提出「简单输入→复杂输出」与「复杂输入→简单输出」的四象限框架，解释 AI 为何在围棋、编程、数学上已彻底超越人类，却在面对开放、复杂的真实世界输入时仍显不足。投资只是表象，真正的问题是：当输入不再有限且可离散化时，人类的经验、直觉与对异常的敏感仍具独特优势。 Why hasn’t AI beaten humans at investing, even as it dominates almost every other intellectual domain? Using recent US Investing Championship results as a starting point, this essay introduces a simple 2×2 framework of input/output complexity. It explains why AI has thoroughly surpassed humans in “simple input → c",
+    "source_root_domain": "laike9m.com"
+  },
+  {
+    "title": "homelab:手机使用Termux的实际场景",
+    "url": "https://dsx2016.com/homelab-real-world-termux-use-cases-on-mobile/",
+    "date": "2026-11-22T03:40:30Z",
+    "description": "Termux 如果说手机上相对使用场景比较多的，就是termux 本文用它临时ssh连接vps服务器或者hom... homelab:手机使用Termux的实际场景 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "工具闪闪亮",
+    "url": "https://www.hecaitou.com/2026/11/shiny-new-tools.html",
+    "date": "2026-11-22T03:31:32Z",
+    "description": "这个周末，Claude在我注册后不到 60 秒就封掉了账号，于是我趁着「黑五」半价买了 Google AI Pro 会员。我发布前一条消息时，读者朋友们奔走相告，拍手相庆，点赞近 600 次。我发布后一条消息后，点赞锐减到不足 200 次，然而后者的阅读量其实更高，可见人们真正喜闻乐见的究竟是什么。 第二条消息下面的回复也更多，因为有很多人在热情洋溢地教训我。什么Pro 的额度根本不够，什么Pro不行不如ultra，什么 Gemini不如ChatGPT，以及不时出现的「我从公元前 221 年就开始用 Claude，怎么就没事呢」，吧啦吧啦，诸如此类。 所以，今天我也想反问一下---我知道反问不礼貌，但我就想反问一句： 既然都在买那么强性能，那么大额度，那么高 IQ 的 AI 大模型，想必是在做非常厉害的项目，实现非常厉害的功能了。那具体是啥？是啥嘛？给看看呗？ 我自己每天都在用 AI 大模型，目的很简单，一是帮助我检查文章，查找事实错误。二是帮我生成和处理每天文章里的插图。三是帮我研究一些我感到好奇的事物，和我一起讨论分析，直到我力竭。 基于这样的需求，加上我并不编程，所以我的每日额度",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "homelab:手机尝试本地大模型PocketPal",
+    "url": "https://dsx2016.com/homelab-trying-out-the-local-large-language-model-pocketpal-on-a-mobile-phone/",
+    "date": "2026-11-22T03:10:52Z",
+    "description": "PocketPal 在谷歌play商店下载 可选择合适的本地大模型，开启聊天会话 可以看到我下载的大模型 Ge... homelab:手机尝试本地大模型PocketPal 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "New Release: Descent 3",
+    "url": "https://macsourceports.com/game/descent3",
+    "date": "2026-11-22T02:42:33Z",
+    "description": "Descent 3 is the third game in the Descent series and in the three years between games, a lot changed. The game now used hardware accelleration and featured both underground and…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "我的文竹已入冬",
+    "url": "https://z.arlmy.me/posts/Poems/2026/20261117_WoDeWenZhuYiRuDong/",
+    "date": "2026-11-22T02:19:27Z",
+    "description": "「我的文竹已入冬。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "New Release: Call to Power II",
+    "url": "https://macsourceports.com/game/ctp2",
+    "date": "2026-11-22T02:14:47Z",
+    "description": "Call to Power II is the sequel to Civilization: Call to Power , which itself is a spinoff of the Civilization series. There's actually this kinda…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Skin Deep updated",
+    "url": "https://macsourceports.com/game/skindeep",
+    "date": "2026-11-22T02:14:47Z",
+    "description": "The build of Skin Deep has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Toots 444 2026 Nov.1 - Nov.7",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261107/",
+    "date": "2026-11-22T02:12:27Z",
+    "description": "「交响乐与劳动号子。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "最近惦念 20261114",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20261114_Recently/",
+    "date": "2026-11-22T02:04:27Z",
+    "description": "「爱是通用货币。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "最近惦念 20261030",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20261030_Recently/",
+    "date": "2026-11-22T02:03:27Z",
+    "description": "「允许自己存在。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "hindsight 有一个我很喜欢的功能",
+    "url": "https://versun.me/blog/tweet-2124316549268033684",
+    "date": "2026-11-22T01:38:27Z",
+    "description": "hindsight 有一个我很喜欢的功能： 它可以自动根据项目名称创建对应的知识库，而不是统一放在一个库里， 因为很多项目的要求不一致，甚至是冲突的，放一个库里的话，后续 agent 很难分清当前到底是什么要求",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "这几天给 Paseo 做了个小插件：pa",
+    "url": "https://versun.me/blog/tweet-2124314547767148862",
+    "date": "2026-11-22T01:30:30Z",
+    "description": "这几天给 Paseo 做了个小插件：paseo-todo 利用纯 Markdown 的 TODO.md 来管待办，功能： • 全局 TODO 页面 & 工作区标签页 • 聊天框上方 TODO · N 胶囊提示 • 支持 /todo 命令快速添加 • 任务可绑定工作区，随时跳转到对应的工作区 https://github.com/versun/paseo-todo https://paseo.sh/plugins/versun/todo",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "≡ 021｜做饭是需要被看见的？",
+    "url": "https://mobius.blog/26236.html",
+    "date": "2026-11-22T01:30:00Z",
+    "description": "在上周末的Newsletter里，留了一个话题： 我跟我老婆都是很爱做饭的人，最近新认识的朋友，她的男友也很爱 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "这几天深度用了 Gemini 4 Neo",
+    "url": "https://versun.me/blog/tweet-2124310355795148953",
+    "date": "2026-11-22T01:13:51Z",
+    "description": "这几天深度用了 Gemini 4 Neon，还是差 Opus 5.5 一点 特别是对于意图不明显的，opus 5.5 猜的更准些， neon 对于目的明确的需求，则已经是 opus 5.5 级别了 简单说： Gemini 4 Neon：听一做一，说话好听 Opus 5.5：听一做二想三，很放心",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "不能再同意了： ``其实这些 App 如",
+    "url": "https://versun.me/blog/tweet-2124309328916299807",
+    "date": "2026-11-22T01:09:46Z",
+    "description": "周尔复 不要做 App 了，也别为了开源而反复打磨了。看看我最近做的两款 App (Tokenmetry 和傻瓜词典），我自认为打磨的油光锃亮的，对于真正用上的朋友来说，也基本都是好评。但都是个位数的用户，Star 也没几个。其实这些 App 如果我不开源，只满足我自己的需求，我 One Shot 到 60 分就行了，完全没必要打磨个 10 天 20 天的，浪费了我海量的 Token 和时间，除了自我感动外没有任何人在意。 所以我是觉得， AI 时代，切忌给别人做软件，关起门来给自己做，所有人都自己做 不能再同意了： ``其实这些 App 如果我不开源，只满足我自己的需求，我 One Shot 到 60 分就行了，完全没必要打磨个 10 天 20 天的，浪费了我海量的 Token 和时间，除了自我感动外没有任何人在意。``",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Memos #2026-11-21",
+    "url": "https://blog.itaober.com/memos/memo_20261121005743_bk44kp",
+    "date": "2026-11-22T00:00:00Z",
+    "description": "08:58 一觉起来天塌了…",
+    "source_root_domain": "itaober.com"
+  },
+  {
+    "title": "Weekly Issue-《跑步救我千千万万遍》",
+    "url": "https://zdyxry.github.io/2026/11/22/Weekly-Issue-Running-has-saved-me/",
+    "date": "2026-11-22T00:00:00Z",
+    "description": "文章 技术 Meet the New Docker: Built to Run on Trust Trust Docker because we’re not egotistical enough to think we can solve a challenge this big alone. Trust us because everything about our history, our heritage, and our actions over the past year tells you we’ll partner with the smartest and build alongside the best, and not create vendor lock-in. 这段话读起来怪怪的，当初 Docker Swarm 想要和 K8s 搞竞争的时候，被 Google/RedHat 搞的时候，不就是一个超大的 Ego 么。 We promoted developers into architects without informing them That means y",
+    "source_root_domain": "zdyxry.github.io"
+  },
+  {
+    "title": "猫",
+    "url": "https://fft.im/posts/20261122_%E7%8C%AB/",
+    "date": "2026-11-22T00:00:00Z",
+    "description": "猫 邻居的猫在晒太阳 简州猫？ 花色像一句记错的台词 对不上名字 太阳把它晒暖了 我的手落下去 脊骨是一条石子路 肋骨则是路边的栅栏 肚子是海 随着呼吸 涨潮，退潮 它安逸地躺在地上 像一个不设防的国家 默许 如果我告诉你 风吹过林子 踮着脚 踏枝头而来 行至 枯树桩止步 如果我告诉你 风吹过林子 哗啦啦 是一万片树叶 朝拜 它们的国王 如果我告诉你 风吹过林子 不说话 就像雨默许 草木生长 云默许 雨的自由 风也默许我的沉默",
+    "source_root_domain": "fft.im"
+  },
+  {
+    "title": "200澳元在Costco可以买到多少东西？",
+    "url": "https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/11/22/what-200-aud-buys-at-costco.html",
+    "date": "2026-11-22T00:00:00Z",
+    "description": "周六中午，我去了一趟Costco，计划先加油，顺便逛一圈超市。 最终，加油花了36.74刀，Costco购物花了200.66刀。 这篇文章，我来分享一下200澳元在Costco到底能买到多少东西，让大家直观感受一下澳元的购买力。",
+    "source_root_domain": "ozexplorers.com"
+  },
+  {
+    "title": "博客二三事",
+    "url": "https://blog.sakoamc.com/posts/t26103/",
+    "date": "2026-11-22T00:00:00Z",
+    "description": "写博客究竟改变了我什么？我想，它最大的意义在于赋予了流动的日常以“刻度”。",
+    "source_root_domain": "sakoamc.com"
+  }
+]
