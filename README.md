@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-24 | [视频硬字幕怎么转 SRT？从软字幕检测到 VLM 识别，一篇讲透。](https://blog.mzh.ren/zh/posts/2026/11/hard-subtitle-ocr-intro/) | 机缘凑巧，我一直在维护多个字幕相关的工具和应用: 字幕工具箱 - 免费的在线字幕工具集合: https://zm.i8k.tv/ 硬字幕在线提取器: https://subocr.i8k.tv/ 识幕 SeeSub — 一站式字幕工作台: https://seesub.com/ 最近有网友问我硬字幕… |
+| 2026-11-24 | [New Release: Aquaria](https://macsourceports.com/game/aquaria) | Aquaria is a Metroidvaia style side-scrolling game where you play as an aquatic creature exploring her underwater world and learning of its history al… |
+| 2026-11-24 | [esp32 cyd 番茄钟添加gif等图片提示](https://dsx2016.com/esp32-cyd-pomodoro-timer-gif-and-image-notifications/) | 番茄钟 目前番茄钟倒计时音频基本没有问题 不论是代码音效还是wav提示音，还是人声或者短音乐都没有问题 但是还... esp32 cyd 番茄钟添加gif等图片提示 最先出现在 大师兄2016 。 |
+| 2026-11-24 | [新站 airankbank.org：每天只讲一件事](https://gugegt.com/20261124-airankbank-org.html) | 今天上线了一个英文新站： airankbank.org 。 站的想法写在右列顶端，一句话：Your time is Precious, Talk about one thing today. 每天只讲一件事，世界上最热的那一件，一篇长文章把来龙去脉说清楚，不追信息流，不刷十条快讯。 首页就是当天那篇… |
+| 2026-11-24 | [秋假](https://yipai.me/post/2559.html) | 儿子上周放秋假（可能跟 APEC 有关），连起来有 8 天，如果愿意周六请一天假，可以有 9 天。但因为我年假有限，而且 APEC 还要值班，所以只请了 3 天假。看了下去外地的机票价格，再考虑到已经在大 A 亏了六七十万，还是就在省内自驾玩玩吧。自从降温后，他就吵着要泡澡。所以计划是泡一次温泉，不… |
 | 2026-11-24 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.146 of the project |
 | 2026-11-24 | [今日 AI 与 IT 最热 20 条｜2026 年 11 月 24 日](https://gugegt.com/20261124-ai-it-daily-hot-20.html) | 每天 20 条，AI 10 条，IT 10 条，按热度排。 |
 | 2026-11-24 | [esp32 cyd 钢琴🎹键盘](https://dsx2016.com/esp32-cyd-piano-keyboard/) | 钢琴 使用lvgl和触控，显示钢琴的几个音调 可以调整音量，可以调整音高，可以自动播放预制的曲目，键盘也可以显... esp32 cyd 钢琴🎹键盘 最先出现在 大师兄2016 。 |
@@ -35,6 +40,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-24 | [Descent II updated](https://macsourceports.com/game/descent2) | The build of DXX-Rebirth (D2X-Rebirth) for Descent II has been updated to the latest code of the project |
 | 2026-11-24 | [Dune II updated](https://macsourceports.com/game/dune2) | The build of Dune II - The Maker for Dune II has been updated to version 0.8.5-20261124 of the project |
 | 2026-11-24 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
+| 2026-11-24 | [Energy Reasoner for Looped Model：EBR 与 CRAM](https://mer.dev/posts/energy-reasoner-for-looped-modelebr-%E4%B8%8E-cram/) | 十一月上旬前后脚出来两篇做 Energy Reasoning 的文章，感觉有点意思。 |
 | 2026-11-24 | [黄仁勋离开英伟达 11 天又回来了：完整时间线](https://gugegt.com/20261124-jensen-huang-nvidia-return.html) | 11 月 12 日，黄仁勋辞去了英伟达总裁、首席执行官和董事会董事职务，立即生效。11 月 23 日，英伟达董事会全票通过，恢复他的全部职务，立即生效。做了 33 年 CEO，第一次离开，11 天就回来了。 |
 | 2026-11-24 | [esp32 cyd 油管粉丝计数 设置wwb网页设置频道id](https://dsx2016.com/esp32-cyd-oil-tank-fan-count-web-panel-settings-configure-channel-id/) | 频道id cyd esp32可以设置手写键盘lvfl 但是频道id是一串英文数字还有大小写的字符，用键盘触控一... esp32 cyd 油管粉丝计数 设置wwb网页设置频道id 最先出现在 大师兄2016 。 |
 | 2026-11-24 | [翻译-压力下的个人任务管理（使用Org模式）](https://blog.prayhand13013.top/20261124T144453--翻译-压力下的个人任务管理（使用org模式）__blog.html) |  |
@@ -47,12 +53,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-24 | [New Release: Amnesia: A Machine For Pigs](https://macsourceports.com/game/amnesiaamachineforpigs) | Amnesia: A Machine for Pigs is the sequel to Amnesia: The Dark Descent . Like the first game it's a psychological survival horror game with puzzles an… |
 | 2026-11-24 | [New Release: Amnesia: The Dark Descent](https://macsourceports.com/game/amnesiathedarkdescent) | Amnesia: The Dark Descent is a psychological horror game where you solve a series of puzzles to... actually I'm not sure. I didn't play it much, it's… |
 | 2026-11-24 | [我真是个努力的人啊～](https://mobius.blog/26255.html) | 此时此刻，我在咖啡厅里码字，所以难免会有些“攻击性”，比如接下来我就要“攻击”一下，坐在我斜对面的人。 她比我 […] |
+| 2026-11-24 | [2026云账单](https://krya.com/post/bill2026/) | 2024年我做过一个网络云账单，当年网络开销4800元，非常之高，难以接受。我这两年断舍离，奉行“如无必要，勿增实体”的原则，有意识地缩减开支。没想到随着 AI 的普及，事与愿违，花得更多了。现在我把26年正在使用的网络服务做一个费用总结。 序号 项目/服务 原价/计费方式 折合年费 (元) 1 阿… |
 | 2026-11-24 | [写给AI从业者：AI 时代的玄学与不确定性](https://luweiqing.com/gossip/Metaphysics-and-Uncertainty-in-the-AI-Era.html) | 做技术的人通常很信因果。代码报错肯定有原因，系统崩了查日志总能复现。但这两年如果你留心看，身边做 AI 的朋友里，开始看八字、研究风水、或者拿大模型给自己算一卦的人明显变多了。这件事其实挺正常的... |
 | 2026-11-24 | [未来的软件面向 Agent，未来已来](https://depp.wang/2026/software-for-agents/) | 现在很多人都在说，未来的软件会面向 Agent。我觉得这个未来其实已经来了一部分，至少对软件开发来说，我们平时使用的 |
 | 2026-11-24 | [未来的软件面向 Agent，但很多软件现在已经可以用了](https://depp.wang/2026/agent-facing-software/) | 现在很多人都在说，未来的软件会面向 Agent。我觉得这个未来其实已经来了一部分，至少对软件开发来说，我们平时使用的很多工具，现在已经可以让 Agent 去操作了。 以前用 AI 写代码，可能更多是把需求告诉它，让它帮忙写一段代码。现在我可以直接让本地的 Agent 去读取项目任务、查看代码评审意见… |
 | 2026-11-24 | [策引 2026 年度盘点：当市场冲高回落，规则守住了什么？](https://www.bmpi.dev/money/myinvestpilot/2026_review/) | 截至 11 月 20 日，40 个官方模拟组合有 16 个上涨、24 个下跌。用相同的峰谷日期，对照 A股、美股和加密资产的净值与价格，再看每月投入一笔的不同结果。 |
 | 2026-11-23 | [我特讨厌这个设计，我都点击Update](https://versun.me/blog/tweet-2125015742362108142) | 我特讨厌这个设计，我都点击Update 了，还要再点Install and Relaunch，这不是脱裤子放屁吗，就不能自动安装重启吗 |
 | 2026-11-23 | [适才相戏耳](https://hux.ink/posts/jensen-huang/) | 美国财政部长贝森特：「我说英伟达应该从外部找 CEO ，但黄仁勋现在就在外部。」 从 11 月 12 日老黄辞任到上周五，7 个交易日，英伟达累计跌了 30% 左右。现在老黄回归，涨回去 30% 多，很合理吧。 朋友说懂王是不是买了好多英伟达，我说有可能。朋友还说易中天是不是提前收到消息了，我说你亏… |
+| 2026-11-23 | [AI 早报 2026-11-24：Applied Digital 北达科他州第二座 AI 园区首个 25 兆瓦机房具备交付条件](https://www.jtxyh.com/daily/2026-11-24/) | 2026-11-24 AI 早报，共 33 条动态。Applied Digital 宣布，位于北达科他州哈伍德的 Polaris Forge 2 园区首个 25 兆瓦机房已完成整合安装，达到可提供服务的状态。英国金融行为监管局（FCA）公布面向金融机构、科技公司和社交平台的 AI 代理监管说明。 |
 | 2026-11-23 | [三种学习](https://blog.est.im/2026/stderr-32) | 最近还在沉迷 黎曼猜想被Levent+Claude证明 这事。后劲真大。 我也对里面的数学细节有一种近乎武侠小说神功的向往。特别是 Stepanov 机器，朗兰兹纲领。费马大定理、黎曼定理被吸纳为特例，这种传奇般的情节哪能想到啊。太欲罢不能了。 Terence Tao: from very init… |
 | 2026-11-23 | [R#129 真实的人](https://blog.sakanano.moe/journals/random_129) | 2026.11.17 ~ 2026.11.23 |
 | 2026-11-23 | [2025 PISA 和 科举](https://blog.est.im/2026/stderr-31) | 从Scott Young大神那里看到一篇 Book Review: China’s Examination Hell 文章开头 PISA 那个中日韩 霸榜让我想起最近的一篇文章 曾经的“教育神话”跌落神坛？解析最新PISA成绩单背后来自芬兰的沉思 。是的，Scott文章还是2022的数据，实际上20… |

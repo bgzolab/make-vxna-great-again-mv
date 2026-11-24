@@ -1,5 +1,40 @@
 [
   {
+    "title": "视频硬字幕怎么转 SRT？从软字幕检测到 VLM 识别，一篇讲透。",
+    "url": "https://blog.mzh.ren/zh/posts/2026/11/hard-subtitle-ocr-intro/",
+    "date": "2026-11-24T20:30:41Z",
+    "description": "机缘凑巧，我一直在维护多个字幕相关的工具和应用: 字幕工具箱 - 免费的在线字幕工具集合: https://zm.i8k.tv/ 硬字幕在线提取器: https://subocr.i8k.tv/ 识幕 SeeSub — 一站式字幕工作台: https://seesub.com/ 最近有网友问我硬字幕 OCR 提取的问题，我就顺便整理了一下流程和关键环节，供大家参考。其实很多代码也是 AI 帮忙写的，我觉得自己很有必要 review 一下代码，了解一下技术细节，为了以后扩展功能、提升交互体验做准备。",
+    "source_root_domain": "mzh.ren"
+  },
+  {
+    "title": "New Release: Aquaria",
+    "url": "https://macsourceports.com/game/aquaria",
+    "date": "2026-11-24T17:53:27Z",
+    "description": "Aquaria is a Metroidvaia style side-scrolling game where you play as an aquatic creature exploring her underwater world and learning of its history along with her own past. You can sing to…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "esp32 cyd 番茄钟添加gif等图片提示",
+    "url": "https://dsx2016.com/esp32-cyd-pomodoro-timer-gif-and-image-notifications/",
+    "date": "2026-11-24T16:36:11Z",
+    "description": "番茄钟 目前番茄钟倒计时音频基本没有问题 不论是代码音效还是wav提示音，还是人声或者短音乐都没有问题 但是还... esp32 cyd 番茄钟添加gif等图片提示 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "新站 airankbank.org：每天只讲一件事",
+    "url": "https://gugegt.com/20261124-airankbank-org.html",
+    "date": "2026-11-24T15:45:00Z",
+    "description": "今天上线了一个英文新站： airankbank.org 。 站的想法写在右列顶端，一句话：Your time is Precious, Talk about one thing today. 每天只讲一件事，世界上最热的那一件，一篇长文章把来龙去脉说清楚，不追信息流，不刷十条快讯。 首页就是当天那篇长文章。左列是大标题、发布时间和全文，右列是标语加按日期倒序排的文章列表。 存档页 按周分组，最近一周默认展开。 今天这篇讲黄仁勋回英伟达： Jensen Huang Returns to Nvidia After 11 Days, and the Market Adds $1 Trillion in a Day 。时间线从 10 月 29 日《纽约时报》曝出 Alice Huang 的间谍嫌疑写起，经过 11 月 8 日董事会启动调查、11 月 12 日黄仁勋辞职、11 月 17 日董事长说绝不复职，到 11 月 21 日到 22 日那个周末特朗普和万斯向董事会施压，11 月 23 日董事会全票复职，股价一天涨 31.5%，市值增加近 1 万亿美元。文末还留了没写完的尾巴，Megaspee",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "秋假",
+    "url": "https://yipai.me/post/2559.html",
+    "date": "2026-11-24T13:22:55Z",
+    "description": "儿子上周放秋假（可能跟 APEC 有关），连起来有 8 天，如果愿意周六请一天假，可以有 9 天。但因为我年假有限，而且 APEC 还要值班，所以只请了 3 天假。看了下去外地的机票价格，再考虑到已经在大 A 亏了六七十万，还是就在省内自驾玩玩吧。自从降温后，他就吵着要泡澡。所以计划是泡一次温泉，不泡温泉的时候也要住有浴缸的酒店。Day 1 从化娃他妈同时介",
+    "source_root_domain": "yipai.me"
+  },
+  {
     "title": "Quetoo updated",
     "url": "https://macsourceports.com/game/quetoo",
     "date": "2026-11-24T12:00:40Z",
@@ -54,6 +89,13 @@
     "date": "2026-11-24T09:05:16Z",
     "description": "The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\\n\\nhttps://macsourceports.com/sourceport/xash3d-fwgs\\n\\n#macgaming #retrogaming #macOS #xash3d-fwgs #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
     "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Energy Reasoner for Looped Model：EBR 与 CRAM",
+    "url": "https://mer.dev/posts/energy-reasoner-for-looped-modelebr-%E4%B8%8E-cram/",
+    "date": "2026-11-24T08:44:00Z",
+    "description": "十一月上旬前后脚出来两篇做 Energy Reasoning 的文章，感觉有点意思。",
+    "source_root_domain": "mer.dev"
   },
   {
     "title": "黄仁勋离开英伟达 11 天又回来了：完整时间线",
@@ -140,6 +182,13 @@
     "source_root_domain": "mobius.blog"
   },
   {
+    "title": "2026云账单",
+    "url": "https://krya.com/post/bill2026/",
+    "date": "2026-11-24T01:00:00Z",
+    "description": "2024年我做过一个网络云账单，当年网络开销4800元，非常之高，难以接受。我这两年断舍离，奉行“如无必要，勿增实体”的原则，有意识地缩减开支。没想到随着 AI 的普及，事与愿违，花得更多了。现在我把26年正在使用的网络服务做一个费用总结。 序号 项目/服务 原价/计费方式 折合年费 (元) 1 阿里云轻量 420元/年 420 2 腾讯云轻量 24元/月 288 3 日本 AWS Lightsail 5美元/月 402 4 美国 DMIT 720元/年 720 5 Google AI Pro 99.99美元/年 667 6 Apple iCloud 订阅 118.8美元/年 792 7 QQ音乐 128元/年 128 8 1Password 密码管理器 39.9美元/年 288 9 中国电信澳门学生卡 1068元/年 1068 10 Office 365 合租 45元/年 45 11 小米 MiMo 模型 468元/年 468 12 Infuse Pro 67元/年 67 合计 共 12 项 — 5353 这份账单，可能已经无法再精简了，每一项都是刚需。相比2024年，已经没有了一堆",
+    "source_root_domain": "krya.com"
+  },
+  {
     "title": "写给AI从业者：AI 时代的玄学与不确定性",
     "url": "https://luweiqing.com/gossip/Metaphysics-and-Uncertainty-in-the-AI-Era.html",
     "date": "2026-11-24T00:50:00Z",
@@ -180,6 +229,13 @@
     "date": "2026-11-23T16:12:53Z",
     "description": "美国财政部长贝森特：「我说英伟达应该从外部找 CEO ，但黄仁勋现在就在外部。」 从 11 月 12 日老黄辞任到上周五，7 个交易日，英伟达累计跌了 30% 左右。现在老黄回归，涨回去 30% 多，很合理吧。 朋友说懂王是不是买了好多英伟达，我说有可能。朋友还说易中天是不是提前收到消息了，我说你亏得脑子瓦特了吧。 今天谁不合群谁尴尬，说的就是你，剩蛋老人——A➗ 打你噢。 纽约时报接下来发点黄仁勋的啥丑闻呢，继续发就证明你不是小丑报，否则。",
     "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "AI 早报 2026-11-24：Applied Digital 北达科他州第二座 AI 园区首个 25 兆瓦机房具备交付条件",
+    "url": "https://www.jtxyh.com/daily/2026-11-24/",
+    "date": "2026-11-23T16:00:00Z",
+    "description": "2026-11-24 AI 早报，共 33 条动态。Applied Digital 宣布，位于北达科他州哈伍德的 Polaris Forge 2 园区首个 25 兆瓦机房已完成整合安装，达到可提供服务的状态。英国金融行为监管局（FCA）公布面向金融机构、科技公司和社交平台的 AI 代理监管说明。",
+    "source_root_domain": "jtxyh.com"
   },
   {
     "title": "三种学习",
