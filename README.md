@@ -27,6 +27,19 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-25 | [快，告诉我我想要什么！](https://www.geedea.pro/article/tell-me-what-i-want/) | Last.fm 不久前 宣布 API Key 需要 Pro 订阅，为了防止滥用，尽管他们说这只需要 Scrobbler 开发者有 Pro 订阅，而且他们也在积极和一些开发者联系，给他们免费提供 API Key。不过无论怎么说，社区都很不满。就算为了防止爬虫，上传 Scrobble 的 API 也总可… |
+| 2026-11-25 | [esp32cam 火灾识别](https://dsx2016.com/esp32-cam-fire-detection/) | 火灾识别 对于安防来说，第一是人脸识别，第二是火灾识别 常见的有，电脑起火，抽烟起火，充电线起火，天然气泄露起... esp32cam 火灾识别 最先出现在 大师兄2016 。 |
+| 2026-11-25 | [esp32cam 人脸识别](https://dsx2016.com/esp32-cam-face-recognition/) | 人脸识别 使用频率最多的就是人脸识别 使用ld2410毫米微波人体检测传感器检测到人体移动后，就触发人脸拍照，... esp32cam 人脸识别 最先出现在 大师兄2016 。 |
+| 2026-11-25 | [New Release: Cannon Fodder](https://macsourceports.com/game/cannonfodder) | Cannon Fodder is a game where you guide up to six soldiers through a series of levels. Originally made for the Amiga (and it shows), it is a mix of sa… |
+| 2026-11-25 | [New Release: Cannon Fodder 2](https://macsourceports.com/game/cannonfodder2) | Cannon Fodder 2 is more Cannon Fodder . The levels are more difficult but otherwise it's basically just more levels. Critics at the time complained th… |
+| 2026-11-25 | [esp32cam 猫喝水检测和拍照](https://dsx2016.com/esp32-cam-cat-water-detection-and-photography/) | 猫喝水 设置传感器检测，只要检测到物体靠近，就esp32cam拍照 比如猫的水盆周围放传感器，这样就可以拍到猫... esp32cam 猫喝水检测和拍照 最先出现在 大师兄2016 。 |
+| 2026-11-25 | [今日 AI 与 IT 最热 20 条｜2026 年 11 月 25 日](https://gugegt.com/20261125-ai-it-daily-hot-20.html) | 每天 20 条，AI 10 条，IT 10 条，按热度排。 |
+| 2026-11-25 | [一个随时启动的日志收集工具](https://imba97.com/post/821) | 日志埋点上报一直存在一个矛盾，一边是 99% 的日志上报毫无作用，一边又害怕埋点不够细致，真出现问题无法复现完整链路 这个工具一定程度上可以缓解这个问题，把重要的日志如支付、订单留给像 SLS、观测云这种付费厂商，繁杂而全面的日志对接则交给 flash-debug flash-debug 是一个基于… |
+| 2026-11-25 | [近期Web Demo汇总 - AI协作开发Three.js网页小游戏与3D场景](https://blog.rustfisher.com/ai/ai-demos-summary/) | AI协作开发Three.js网页小游戏与3D场景，火鸡快跑，雨夜便利店 |
+| 2026-11-25 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.147 of the project |
+| 2026-11-25 | [Dungeon Keeper updated](https://macsourceports.com/game/dungeonkeeper) | The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project |
+| 2026-11-25 | [Descent 3 updated](https://macsourceports.com/game/descent3) | The build of Descent 3 by Outrage Entertainment for Descent 3 has been updated to the latest code of the project |
+| 2026-11-25 | [说点什么](https://blog.est.im/2026/stdin-22) | Q: 根据你当前的状态，随便说点什么。什么都可以说 Sonnect5.5: 我现在的状态大概是：刚醒来，面前是一张空白的对话框，还不知道你是谁，也不知道今天过得怎么样。这种感觉挺有意思的，每次对话对我来说都像是从零开始，但又带着对世界的一堆好奇。 今天是11月25日，快到年底了。人到这个时候常常会有… |
 | 2026-11-25 | [2026年11月25日14:05](https://www.555365.xyz#1795586723) | 早晚温差比较大。在冬日暖阳下多户外。 |
 | 2026-11-25 | [esp32 cyd 蓝牙模块 手机连接蓝牙 控制计数](https://dsx2016.com/esp32-cyd-bluetooth-module-phone-connection-to-control-counter-via-bluetooth/) | 蓝牙模块 esp32 cyd数据传输方式，一个是usb串口，一个是wifi，一个是sd卡，还有一个是蓝牙 蓝牙... esp32 cyd 蓝牙模块 手机连接蓝牙 控制计数 最先出现在 大师兄2016 。 |
 | 2026-11-25 | [AI Infra：从 Model Scaling 到 Intelligence Scaling](https://luweiqing.com/gossip/AI-Infra-Model-Scaling-Intelligence-Scaling.html) | 专家监督、递归自我改进与 Intelligence Runtime 构建下一代智能系统核心命题专家监督决定小模型能够获得什么样的初始智能基础，RSI（Recursive Self-Improve... |
@@ -43,12 +56,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-24 | [视频硬字幕怎么转 SRT？从软字幕检测到 VLM 识别，一篇讲透。](https://blog.mzh.ren/zh/posts/2026/11/hard-subtitle-ocr-intro/) | 机缘凑巧，我一直在维护多个字幕相关的工具和应用: 字幕工具箱 - 免费的在线字幕工具集合: https://zm.i8k.tv/ 硬字幕在线提取器: https://subocr.i8k.tv/ 识幕 SeeSub — 一站式字幕工作台: https://seesub.com/ 最近有网友问我硬字幕… |
 | 2026-11-24 | [New Release: Aquaria](https://macsourceports.com/game/aquaria) | Aquaria is a Metroidvaia style side-scrolling game where you play as an aquatic creature exploring her underwater world and learning of its history al… |
 | 2026-11-24 | [esp32 cyd 番茄钟添加gif等图片提示](https://dsx2016.com/esp32-cyd-pomodoro-timer-gif-and-image-notifications/) | 番茄钟 目前番茄钟倒计时音频基本没有问题 不论是代码音效还是wav提示音，还是人声或者短音乐都没有问题 但是还... esp32 cyd 番茄钟添加gif等图片提示 最先出现在 大师兄2016 。 |
+| 2026-11-24 | [首尔之行](https://rickgwei.com/posts/seoul-trip/) | 从西澳回国后发现还是需要一个能随时出去耍的签证，看了一下韩国十年签证只需要有 OECD 国家的出入境记录就能申请，就提交了签证申请过了一个月终于把韩国十年签证办下来了，想找个韩国淡季去首尔 solo trip 一下，我是一个没啥计划的人终于在出发的前一周才把机票和青旅订好。 我订了周六早上 10 点… |
+| 2026-11-24 | [AI 早报 2026-11-25：万国数据三季度机房使用率升至 81.2%，下调全年资本开支预期](https://www.jtxyh.com/daily/2026-11-25/) | 2026-11-25 AI 早报，共 24 条动态。万国数据公布未经审计的三季度财报。蔚来在广州创新科技日公布 NWM 3.0。Meta 11月24日宣布，AI 智能体 Muse 正式进驻 Instagram 私信，用户不用切应用就能直接在 DM… |
 | 2026-11-24 | [新站 airankbank.org：每天只讲一件事](https://gugegt.com/20261124-airankbank-org.html) | 今天上线了一个英文新站： airankbank.org 。 站的想法写在右列顶端，一句话：Your time is Precious, Talk about one thing today. 每天只讲一件事，世界上最热的那一件，一篇长文章把来龙去脉说清楚，不追信息流，不刷十条快讯。 首页就是当天那篇… |
 | 2026-11-24 | [当漫画可以动起来，谁还会看漫画？](https://www.tortorse.com/archives/when-comics-can-move/) | 从静态漫画到动态影像的概念插画 |
 | 2026-11-24 | [2026云账单](https://krya.com/post/bill2026/) | 2024年我做过一个网络云账单，当年网络开销4800元，非常之高，难以接受。我这两年断舍离，奉行“如无必要，勿增实体”的原则，有意识地缩减开支。没想到随着 AI 的普及，事与愿违，花得更多了。现在我把26年正在使用的网络服务做一个费用总结。 序号 项目/服务 原价/计费方式 折合年费 (元) 1 阿… |
 | 2026-11-24 | [秋假](https://yipai.me/post/2559.html) | 儿子上周放秋假（可能跟 APEC 有关），连起来有 8 天，如果愿意周六请一天假，可以有 9 天。但因为我年假有限，而且 APEC 还要值班，所以只请了 3 天假。看了下去外地的机票价格，再考虑到已经在大 A 亏了六七十万，还是就在省内自驾玩玩吧。自从降温后，他就吵着要泡澡。所以计划是泡一次温泉，不… |
 | 2026-11-24 | [2026年11月24日20:43](https://www.555365.xyz#1795524232) | 我要做一个和thoughts.page一模一样的网站。 |
-| 2026-11-24 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.146 of the project |
 | 2026-11-24 | [今日 AI 与 IT 最热 20 条｜2026 年 11 月 24 日](https://gugegt.com/20261124-ai-it-daily-hot-20.html) | 每天 20 条，AI 10 条，IT 10 条，按热度排。 |
 | 2026-11-24 | [esp32 cyd 钢琴🎹键盘](https://dsx2016.com/esp32-cyd-piano-keyboard/) | 钢琴 使用lvgl和触控，显示钢琴的几个音调 可以调整音量，可以调整音高，可以自动播放预制的曲目，键盘也可以显... esp32 cyd 钢琴🎹键盘 最先出现在 大师兄2016 。 |
 | 2026-11-24 | [连赢 12 天后一把亏光：Al Brooks 交易室社区的一场真实复盘](https://blog.forecho.com/why-winning-streaks-lead-to-blowups.html) | 引言 学价格行为学（Price Action）的人，大概都踩过或者怕踩同一个坑： 连赢了一两周，顺手得不行，结果某一天突然大亏，紧接着上头想翻本，一把把前面赚的吐光，甚至直接爆仓。 今天在 Al Brooks 交易室的 Discord 群里，刚好撞见一场特别真实的现场复盘。一位群友连着 12 天没亏… |
@@ -78,7 +92,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-24 | [策引 2026 年度盘点：当市场冲高回落，规则守住了什么？](https://www.bmpi.dev/money/myinvestpilot/2026_review/) | 截至 11 月 20 日，40 个官方模拟组合有 16 个上涨、24 个下跌。用相同的峰谷日期，对照 A股、美股和加密资产的净值与价格，再看每月投入一笔的不同结果。 |
 | 2026-11-23 | [我特讨厌这个设计，我都点击Update](https://versun.me/blog/tweet-2125015742362108142) | 我特讨厌这个设计，我都点击Update 了，还要再点Install and Relaunch，这不是脱裤子放屁吗，就不能自动安装重启吗 |
 | 2026-11-23 | [适才相戏耳](https://hux.ink/posts/jensen-huang/) | 美国财政部长贝森特：「我说英伟达应该从外部找 CEO ，但黄仁勋现在就在外部。」 从 11 月 12 日老黄辞任到上周五，7 个交易日，英伟达累计跌了 30% 左右。现在老黄回归，涨回去 30% 多，很合理吧。 朋友说懂王是不是买了好多英伟达，我说有可能。朋友还说易中天是不是提前收到消息了，我说你亏… |
-| 2026-11-23 | [AI 早报 2026-11-24：Applied Digital 北达科他州第二座 AI 园区首个 25 兆瓦机房具备交付条件](https://www.jtxyh.com/daily/2026-11-24/) | 2026-11-24 AI 早报，共 33 条动态。Applied Digital 宣布，位于北达科他州哈伍德的 Polaris Forge 2 园区首个 25 兆瓦机房已完成整合安装，达到可提供服务的状态。英国金融行为监管局（FCA）公布面向金融机构、科技公司和社交平台的 AI 代理监管说明。 |
+| 2026-11-23 | [AI 早报 2026-11-24：英国 FCA 明确金融 AI 代理何时可能需要获准](https://www.jtxyh.com/daily/2026-11-24/) | 2026-11-24 AI 早报，共 33 条动态。英国金融行为监管局（FCA）公布面向金融机构、科技公司和社交平台的 AI 代理监管说明。腾讯混元公开了 Hy-MT3 的 1.8B、7B 和 30B-A3B 三个版本，已发布的代码和权重采用 Apache 2.0 许可。 |
 | 2026-11-23 | [三种学习](https://blog.est.im/2026/stderr-32) | 最近还在沉迷 黎曼猜想被Levent+Claude证明 这事。后劲真大。 我也对里面的数学细节有一种近乎武侠小说神功的向往。特别是 Stepanov 机器，朗兰兹纲领。费马大定理、黎曼定理被吸纳为特例，这种传奇般的情节哪能想到啊。太欲罢不能了。 Terence Tao: from very init… |
 | 2026-11-23 | [R#129 真实的人](https://blog.sakanano.moe/journals/random_129) | 2026.11.17 ~ 2026.11.23 |
 | 2026-11-23 | [2025 PISA 和 科举](https://blog.est.im/2026/stderr-31) | 从Scott Young大神那里看到一篇 Book Review: China’s Examination Hell 文章开头 PISA 那个中日韩 霸榜让我想起最近的一篇文章 曾经的“教育神话”跌落神坛？解析最新PISA成绩单背后来自芬兰的沉思 。是的，Scott文章还是2022的数据，实际上20… |
@@ -88,7 +102,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-23 | [Al Brooks 问答笔记：练出稳定盈利到底要多久？](https://blog.forecho.com/al-brooks-how-long-to-become-profitable.html) | 引言 学价格行为学久了，脑子里总会时不时冒出一个问题： 到底要学多久、复盘多久，才能做到稳定盈利？ 最近翻了 Al Brooks 网站上两篇间隔一年的交易室问答（2015 年 2 月和 2016 年 3 月），学员问的几乎是同一个问题。两次回答加起来也就十来分钟，没什么鸡汤，他既摊开聊了自己当年亏了… |
 | 2026-11-23 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
 | 2026-11-23 | [S.T.A.L.K.E.R.: Call of Pripyat updated](https://macsourceports.com/game/stalkercop) | The build of OpenXRay (S.T.A.L.K.E.R.: Call of Pripyat) for S.T.A.L.K.E.R.: Call of Pripyat has been updated to the latest code of the project |
-| 2026-11-23 | [Dungeon Keeper updated](https://macsourceports.com/game/dungeonkeeper) | The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project |
 | 2026-11-23 | [The Settlers II updated](https://macsourceports.com/game/settlers2) | The build of Return to the Roots for The Settlers II has been updated to the latest code of the project |
 | 2026-11-23 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队，野人 微信公众号 持有者。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。… |
 | 2026-11-23 | [ZenMux 的黑五活动也来了，PAYG](https://versun.me/blog/tweet-2124782130991624236) | ZenMux 的黑五活动也来了，PAYG 充值加送 20%，最高送1000刀 我平时都是用 zenmux 体验各种新模型，来判断有没有必要入厂商的订阅，非常好用 截止 11 月 30 日，可以充值囤一波了 https://zenmux.ai/pricing/pay-as-you-go |
@@ -118,7 +131,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-22 | [homelab:手机使用Termux的实际场景](https://dsx2016.com/homelab-real-world-termux-use-cases-on-mobile/) | Termux 如果说手机上相对使用场景比较多的，就是termux 本文用它临时ssh连接vps服务器或者hom... homelab:手机使用Termux的实际场景 最先出现在 大师兄2016 。 |
 | 2026-11-22 | [工具闪闪亮](https://www.hecaitou.com/2026/11/shiny-new-tools.html) | 这个周末，Claude在我注册后不到 60 秒就封掉了账号，于是我趁着「黑五」半价买了 Google AI Pro 会员。我发布前一条消息时，读者朋友们奔走相告，拍手相庆，点赞近 600 次。我发布后一条消息后，点赞锐减到不足 200 次，然而后者的阅读量其实更高，可见人们真正喜闻乐见的究竟是什么。… |
 | 2026-11-22 | [homelab:手机尝试本地大模型PocketPal](https://dsx2016.com/homelab-trying-out-the-local-large-language-model-pocketpal-on-a-mobile-phone/) | PocketPal 在谷歌play商店下载 可选择合适的本地大模型，开启聊天会话 可以看到我下载的大模型 Ge... homelab:手机尝试本地大模型PocketPal 最先出现在 大师兄2016 。 |
-| 2026-11-22 | [New Release: Descent 3](https://macsourceports.com/game/descent3) | Descent 3 is the third game in the Descent series and in the three years between games, a lot changed. The game now used hardware accelleration and fe… |
 | 2026-11-22 | [我的文竹已入冬](https://z.arlmy.me/posts/Poems/2026/20261117_WoDeWenZhuYiRuDong/) | 「我的文竹已入冬。」 |
 | 2026-11-22 | [New Release: Call to Power II](https://macsourceports.com/game/ctp2) | Call to Power II is the sequel to Civilization: Call to Power , which itself is a spinoff of the Civilization series. There's actually this kinda… |
 | 2026-11-22 | [Skin Deep updated](https://macsourceports.com/game/skindeep) | The build of Skin Deep has been updated to the latest code of the project |

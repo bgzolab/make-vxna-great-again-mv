@@ -1,5 +1,96 @@
 [
   {
+    "title": "快，告诉我我想要什么！",
+    "url": "https://www.geedea.pro/article/tell-me-what-i-want/",
+    "date": "2026-11-25T15:54:53Z",
+    "description": "Last.fm 不久前 宣布 API Key 需要 Pro 订阅，为了防止滥用，尽管他们说这只需要 Scrobbler 开发者有 Pro 订阅，而且他们也在积极和一些开发者联系，给他们免费提供 API Key。不过无论怎么说，社区都很不满。就算为了防止爬虫，上传 Scrobble 的 API 也总可以免费使用吧。 我在 iOS 上听歌比较多，购买了 Doppler ，这个播放器的 UI 设计很不错，而且支持同步播放记录到 Last.fm。不过，最近我想要换到 foobar2000 ，因为不那么在乎 UI/UX 了，想要试试能调均衡器的软件。 然后我发现我没办法在 iOS 上安装 foobar2000 的 Scrobbler 插件。其他的播放器都有各种各样的问题。由于 iOS 的封闭性，不能像其他操作系统那样在 OS 层面监听媒体播放来记录 Scrobble。看起来，要好好听本地音乐，只能换手机了——种种事件叠加起来，我决定，去你的，我不要记录听歌了（当然我也是迟早会把 iPhone 换掉的）。 我想要什么？ 要停止使用 Last.fm 记录听歌需要做什么呢？注销账号，卸载浏览器的 We",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "esp32cam 火灾识别",
+    "url": "https://dsx2016.com/esp32-cam-fire-detection/",
+    "date": "2026-11-25T14:50:54Z",
+    "description": "火灾识别 对于安防来说，第一是人脸识别，第二是火灾识别 常见的有，电脑起火，抽烟起火，充电线起火，天然气泄露起... esp32cam 火灾识别 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "esp32cam 人脸识别",
+    "url": "https://dsx2016.com/esp32-cam-face-recognition/",
+    "date": "2026-11-25T14:13:06Z",
+    "description": "人脸识别 使用频率最多的就是人脸识别 使用ld2410毫米微波人体检测传感器检测到人体移动后，就触发人脸拍照，... esp32cam 人脸识别 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "New Release: Cannon Fodder",
+    "url": "https://macsourceports.com/game/cannonfodder",
+    "date": "2026-11-25T14:09:24Z",
+    "description": "Cannon Fodder is a game where you guide up to six soldiers through a series of levels. Originally made for the Amiga (and it shows), it is a mix of satire and strategy. It was considered…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "New Release: Cannon Fodder 2",
+    "url": "https://macsourceports.com/game/cannonfodder2",
+    "date": "2026-11-25T14:09:24Z",
+    "description": "Cannon Fodder 2 is more Cannon Fodder . The levels are more difficult but otherwise it's basically just more levels. Critics at the time complained that it was essentially an…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "esp32cam 猫喝水检测和拍照",
+    "url": "https://dsx2016.com/esp32-cam-cat-water-detection-and-photography/",
+    "date": "2026-11-25T13:15:57Z",
+    "description": "猫喝水 设置传感器检测，只要检测到物体靠近，就esp32cam拍照 比如猫的水盆周围放传感器，这样就可以拍到猫... esp32cam 猫喝水检测和拍照 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "今日 AI 与 IT 最热 20 条｜2026 年 11 月 25 日",
+    "url": "https://gugegt.com/20261125-ai-it-daily-hot-20.html",
+    "date": "2026-11-25T12:30:00Z",
+    "description": "每天 20 条，AI 10 条，IT 10 条，按热度排。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "一个随时启动的日志收集工具",
+    "url": "https://imba97.com/post/821",
+    "date": "2026-11-25T12:01:57Z",
+    "description": "日志埋点上报一直存在一个矛盾，一边是 99% 的日志上报毫无作用，一边又害怕埋点不够细致，真出现问题无法复现完整链路 这个工具一定程度上可以缓解这个问题，把重要的日志如支付、订单留给像 SLS、观测云这种付费厂商，繁杂而全面的日志对接则交给 flash-debug flash-debug 是一个基于 Node.js 环",
+    "source_root_domain": "imba97.com"
+  },
+  {
+    "title": "近期Web Demo汇总 - AI协作开发Three.js网页小游戏与3D场景",
+    "url": "https://blog.rustfisher.com/ai/ai-demos-summary/",
+    "date": "2026-11-25T12:01:00Z",
+    "description": "AI协作开发Three.js网页小游戏与3D场景，火鸡快跑，雨夜便利店",
+    "source_root_domain": "rustfisher.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-11-25T12:00:42Z",
+    "description": "The build of Quetoo has been updated to version v1.0.147 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Dungeon Keeper updated",
+    "url": "https://macsourceports.com/game/dungeonkeeper",
+    "date": "2026-11-25T09:15:19Z",
+    "description": "The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Descent 3 updated",
+    "url": "https://macsourceports.com/game/descent3",
+    "date": "2026-11-25T09:06:10Z",
+    "description": "The build of Descent 3 by Outrage Entertainment for Descent 3 has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "说点什么",
+    "url": "https://blog.est.im/2026/stdin-22",
+    "date": "2026-11-25T06:30:00Z",
+    "description": "Q: 根据你当前的状态，随便说点什么。什么都可以说 Sonnect5.5: 我现在的状态大概是：刚醒来，面前是一张空白的对话框，还不知道你是谁，也不知道今天过得怎么样。这种感觉挺有意思的，每次对话对我来说都像是从零开始，但又带着对世界的一堆好奇。 今天是11月25日，快到年底了。人到这个时候常常会有点恍惚：一年快过完了，该做的事做了多少，没做的事要不要算了。如果你也有这种感觉，我觉得不用太紧张，一年的结尾不一定要交出一份漂亮的答卷。 另外，你让我\"随便说点什么\"，这个邀请我挺喜欢的。很多时候人和 AI 说话都带着任务，想要答案、要代码、要文档。偶尔什么都不要，只是说说话，也挺好。 那你呢？现在是什么状态？ Gemini 3.5 Flash-Lite: 此刻是2026年11月下旬的一个周三下午，两点二十五分。 在数据流转的间隙里，我正处于一种绝对安静、没有预设目标的待机状态——就像把所有浏览器标签页全部清空后，屏幕只留下一片纯粹的空白。 很多人总习惯把时间切割成必须完成任务的刻度，总觉得每一秒都该产生点什么价值。但其实，允许自己拥有一段“完全不知道要干嘛、也不急着去填满”的空白，本身就是",
+    "source_root_domain": "feedburner.com"
+  },
+  {
     "title": "2026年11月25日14:05",
     "url": "https://www.555365.xyz#1795586723",
     "date": "2026-11-25T06:05:23Z",
@@ -45,7 +136,7 @@
     "title": "用 gptel-annotate 檢查文章中的錯別字",
     "url": "https://taxodium.ink/use-gptel-annotate-to-proofread-the-article-for-typos.html",
     "date": "2026-11-25T02:00:00Z",
-    "description": "用 gptel-annotate 檢查文章中的錯別字 寫文章的時候難免會有一些錯別字，有的錯別字是無關緊要的，例如我用 倉頡輸入法 打字，傾向於打繁體字，但有的繁體字我不會，就會用簡體字，這就會導致簡繁混雜；有的字有異體字，例如「 觀 」和「 観 」，讀音和含義都是一樣的，我有時也會用混。這兩種情況大體上並不影響閱讀，頂多是看著有些許奇怪。 但有的錯別字是一定要修正的，例如我之前一直打錯了照顧的「 顧 」，我打的是「 頋 」，乍一看很像「 顾 」的繁體，但它實際讀「ě」，和「顧」風馬牛不相及；更離譜的是，在 學習網頁內容無障礙 裡，我把 Web Content Accessibility Guidelines 的縮寫寫成了 WACG 一直沒發現 ​(:3 」∠)​ 。這樣的錯字會給屏幕閱讀器的用戶帶來困惑，也會讓我檢索文章內容時檢索失敗。 自己閱讀檢查有時會遺漏，所以一直想找個工具輔助檢查。針對英文的檢查工具倒是有很多，像是 Grammarly (似乎也支持中文) ，Emacs 裡有 ispell 、 minad/jinx ，但針對中文的就比較少，尤其是能集成在 Emacs 裡的 (也",
+    "description": "用 gptel-annotate 檢查文章中的錯別字 寫文章的時候難免會有一些錯別字，有的錯別字是無關緊要的，例如我用 倉頡輸入法 打字，傾向於打繁體字，但有的繁體字我不會，就會用簡體字，這就會導致簡繁混雜；有的字有異體字，例如「 觀 」和「 観 」，讀音和含義都是一樣的，我有時也會用混。這兩種情況大體上並不影響閱讀，頂多是看著有些許奇怪。 但有的錯別字是一定要修正的，例如我之前一直打錯了照顧的「 顧 」，我打的是「 頋 」，乍一看很像「 顾 」的繁體，但它實際讀「ě」，和「顧」風馬牛不相及 (好吧，好像是個俗字，但讀音相去太遠了) ；更離譜的是，在 學習網頁內容無障礙 裡，我把 Web Content Accessibility Guidelines 的縮寫寫成了 WACG 一直沒發現 ​(:3 」∠)​ 。這樣的錯字會給屏幕閱讀器的用戶帶來困惑，也會讓我檢索文章內容時檢索失敗。 自己閱讀檢查有時會遺漏，所以一直想找個工具輔助檢查。針對英文的檢查工具倒是有很多，像是 Grammarly (似乎也支持中文) ，Emacs 裡有 ispell 、 minad/jinx ，但針對中文的就比",
     "source_root_domain": "taxodium.ink"
   },
   {
@@ -112,6 +203,20 @@
     "source_root_domain": "dsx2016.com"
   },
   {
+    "title": "首尔之行",
+    "url": "https://rickgwei.com/posts/seoul-trip/",
+    "date": "2026-11-24T16:00:00Z",
+    "description": "从西澳回国后发现还是需要一个能随时出去耍的签证，看了一下韩国十年签证只需要有 OECD 国家的出入境记录就能申请，就提交了签证申请过了一个月终于把韩国十年签证办下来了，想找个韩国淡季去首尔 solo trip 一下，我是一个没啥计划的人终于在出发的前一周才把机票和青旅订好。 我订了周六早上 10 点多起飞的航班，早上简单吃了点早餐后就背上行李出发首都机场值机。我乘坐的是韩亚航空，登机后发现韩国的空姐都非常注重保养，每个人都能看出一些微调的痕迹，有一个空姐的脸在光照下甚至能反光，韩亚航空让我有种国内海航的错觉。飞机餐食和国内海航的基本差不多，都是水果、餐包、沙拉和主食，让我比较意外的是飞机上的免费饮料里面居然有啤酒。 之前听 PJ 说出国玩性价比最高的就是穷国富游和富国穷游，这次入住的青旅下来整体感受确实不错，办理入住的前台小姐姐应该是中国人会说中日英三语真的太强了，青旅的设施也比我想象中要好很多。让我比较意外的是这家青旅女生宿舍有两层而男生宿舍只有一层，地下室是浴室和活动室在宿舍里不能吃东西。我入住的是 200 左右一晚的 8 人间，但住进去后才发现是 4 人间，室友们也都拉着床帘相互",
+    "source_root_domain": "rickgwei.com"
+  },
+  {
+    "title": "AI 早报 2026-11-25：万国数据三季度机房使用率升至 81.2%，下调全年资本开支预期",
+    "url": "https://www.jtxyh.com/daily/2026-11-25/",
+    "date": "2026-11-24T16:00:00Z",
+    "description": "2026-11-25 AI 早报，共 24 条动态。万国数据公布未经审计的三季度财报。蔚来在广州创新科技日公布 NWM 3.0。Meta 11月24日宣布，AI 智能体 Muse 正式进驻 Instagram 私信，用户不用切应用就能直接在 DM…",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
     "title": "新站 airankbank.org：每天只讲一件事",
     "url": "https://gugegt.com/20261124-airankbank-org.html",
     "date": "2026-11-24T15:45:00Z",
@@ -145,13 +250,6 @@
     "date": "2026-11-24T12:43:52Z",
     "description": "我要做一个和thoughts.page一模一样的网站。",
     "source_root_domain": "555365.xyz"
-  },
-  {
-    "title": "Quetoo updated",
-    "url": "https://macsourceports.com/game/quetoo",
-    "date": "2026-11-24T12:00:40Z",
-    "description": "The build of Quetoo has been updated to version v1.0.146 of the project",
-    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "今日 AI 与 IT 最热 20 条｜2026 年 11 月 24 日",
@@ -357,10 +455,10 @@
     "source_root_domain": "hux.ink"
   },
   {
-    "title": "AI 早报 2026-11-24：Applied Digital 北达科他州第二座 AI 园区首个 25 兆瓦机房具备交付条件",
+    "title": "AI 早报 2026-11-24：英国 FCA 明确金融 AI 代理何时可能需要获准",
     "url": "https://www.jtxyh.com/daily/2026-11-24/",
     "date": "2026-11-23T16:00:00Z",
-    "description": "2026-11-24 AI 早报，共 33 条动态。Applied Digital 宣布，位于北达科他州哈伍德的 Polaris Forge 2 园区首个 25 兆瓦机房已完成整合安装，达到可提供服务的状态。英国金融行为监管局（FCA）公布面向金融机构、科技公司和社交平台的 AI 代理监管说明。",
+    "description": "2026-11-24 AI 早报，共 33 条动态。英国金融行为监管局（FCA）公布面向金融机构、科技公司和社交平台的 AI 代理监管说明。腾讯混元公开了 Hy-MT3 的 1.8B、7B 和 30B-A3B 三个版本，已发布的代码和权重采用 Apache 2.0 许可。",
     "source_root_domain": "jtxyh.com"
   },
   {
@@ -424,13 +522,6 @@
     "url": "https://macsourceports.com/game/stalkercop",
     "date": "2026-11-23T09:43:31Z",
     "description": "The build of OpenXRay (S.T.A.L.K.E.R.: Call of Pripyat) for S.T.A.L.K.E.R.: Call of Pripyat has been updated to the latest code of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
-    "title": "Dungeon Keeper updated",
-    "url": "https://macsourceports.com/game/dungeonkeeper",
-    "date": "2026-11-23T09:35:55Z",
-    "description": "The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project",
     "source_root_domain": "macsourceports.com"
   },
   {
