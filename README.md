@@ -27,11 +27,27 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-25 | [2026年11月25日14:05](https://www.555365.xyz#1795586723) | 早晚温差比较大。在冬日暖阳下多户外。 |
+| 2026-11-25 | [esp32 cyd 蓝牙模块 手机连接蓝牙 控制计数](https://dsx2016.com/esp32-cyd-bluetooth-module-phone-connection-to-control-counter-via-bluetooth/) | 蓝牙模块 esp32 cyd数据传输方式，一个是usb串口，一个是wifi，一个是sd卡，还有一个是蓝牙 蓝牙... esp32 cyd 蓝牙模块 手机连接蓝牙 控制计数 最先出现在 大师兄2016 。 |
+| 2026-11-25 | [AI Infra：从 Model Scaling 到 Intelligence Scaling](https://luweiqing.com/gossip/AI-Infra-Model-Scaling-Intelligence-Scaling.html) | 专家监督、递归自我改进与 Intelligence Runtime 构建下一代智能系统核心命题专家监督决定小模型能够获得什么样的初始智能基础，RSI（Recursive Self-Improve... |
+| 2026-11-25 | [无尽的解释](https://www.hecaitou.com/2026/11/Explanations-Without-End.html) | 按照全球股市目前的走法，考虑到业界对于芯片、电力、资金的迫切需求，以及越来越恐怖的科技企业 IPO 规模，不出预料的话，根本不需要一周时间，我们必然会迎来 2026 年 12 月--- 这就是我最近在网上看新闻，看资讯，看长帖的个人感受。这些内容总是倾向于对当下的新闻事件给出一个合理性的解释，但是我… |
+| 2026-11-25 | [esp32 cyd 图片 jpg png gif动图](https://dsx2016.com/esp32-cyd-images-jpg-png-gif-and-animations/) | gif 为了给番茄钟加上图片提示的场景，比如倒计时喝水，休息，工作等 特意加上gif动图，这样，既生动有趣，也... esp32 cyd 图片 jpg png gif动图 最先出现在 大师兄2016 。 |
+| 2026-11-25 | [Kibana跨集群迁移与高级设置不生效的处理](https://199604.com/3763) | Kibana跨集群迁移与高级设置不生效的处理 记录时间：2026-11-24 环境：旧端 x86 单机 ELK […] |
+| 2026-11-25 | [用 gptel-annotate 檢查文章中的錯別字](https://taxodium.ink/use-gptel-annotate-to-proofread-the-article-for-typos.html) | 用 gptel-annotate 檢查文章中的錯別字 寫文章的時候難免會有一些錯別字，有的錯別字是無關緊要的，例如我用 倉頡輸入法 打字，傾向於打繁體字，但有的繁體字我不會，就會用簡體字，這就會導致簡繁混雜；有的字有異體字，例如「 觀 」和「 観 」，讀音和含義都是一樣的，我有時也會用混。這兩種情況… |
+| 2026-11-25 | [星巴克奇遇](https://blog.solazy.me/20261125/) | 记录一下昨天的一件稀奇事 |
+| 2026-11-25 | [New Release: Freeciv](https://macsourceports.com/game/freeciv) | Freeciv is exactly what it sounds like - a freeware Civilization clone. One of the oldest source port projects in existence, it was started by three c… |
+| 2026-11-25 | [文具多才是创造“差生”的原因？](https://mobius.blog/26287.html) | 抱歉，这个话题还是得从那个把所有“家当”都铺在桌面上、拍照打卡的人说起，但接下来的内容并不是在聊她。 2026 […] |
+| 2026-11-25 | [Memos #2026-11-24](https://blog.itaober.com/memos/memo_20261124020458_3oa4dg) | 11:12 自洽程度十分制的话，小黑是 4 分、张俊 9 分、博洋 10 分，老刘得给 12 分，他的双向情感畅通实在太强了。 我自己更像小黑，遇到问题会想着先找自己的原因，经常事后冷静下来才能看清真正的问题，以及怎么做更好。但现实生活中，克服感性的束缚去执行最优解对我而言还挺难的。 听完的一点收获… |
+| 2026-11-24 | [SWE 2.1出来了，和 K3.1一样，](https://versun.me/blog/tweet-2125354851769164006) | Cognition Introducing SWE-2.1, our latest coding model. Like its predecessor, SWE-2.1 is trained with pure reinforcement learning on Kimi K3. It deliv… |
+| 2026-11-24 | [New Release: S.T.A.L.K.E.R.: Clear Sky](https://macsourceports.com/game/stalkercs) | S.T.A.L.K.E.R. is a series of hardcore survival horror FPS games set in a fictional dystopian version of Ukraine after a second Chernobyl disaster. In… |
 | 2026-11-24 | [视频硬字幕怎么转 SRT？从软字幕检测到 VLM 识别，一篇讲透。](https://blog.mzh.ren/zh/posts/2026/11/hard-subtitle-ocr-intro/) | 机缘凑巧，我一直在维护多个字幕相关的工具和应用: 字幕工具箱 - 免费的在线字幕工具集合: https://zm.i8k.tv/ 硬字幕在线提取器: https://subocr.i8k.tv/ 识幕 SeeSub — 一站式字幕工作台: https://seesub.com/ 最近有网友问我硬字幕… |
 | 2026-11-24 | [New Release: Aquaria](https://macsourceports.com/game/aquaria) | Aquaria is a Metroidvaia style side-scrolling game where you play as an aquatic creature exploring her underwater world and learning of its history al… |
 | 2026-11-24 | [esp32 cyd 番茄钟添加gif等图片提示](https://dsx2016.com/esp32-cyd-pomodoro-timer-gif-and-image-notifications/) | 番茄钟 目前番茄钟倒计时音频基本没有问题 不论是代码音效还是wav提示音，还是人声或者短音乐都没有问题 但是还... esp32 cyd 番茄钟添加gif等图片提示 最先出现在 大师兄2016 。 |
 | 2026-11-24 | [新站 airankbank.org：每天只讲一件事](https://gugegt.com/20261124-airankbank-org.html) | 今天上线了一个英文新站： airankbank.org 。 站的想法写在右列顶端，一句话：Your time is Precious, Talk about one thing today. 每天只讲一件事，世界上最热的那一件，一篇长文章把来龙去脉说清楚，不追信息流，不刷十条快讯。 首页就是当天那篇… |
+| 2026-11-24 | [当漫画可以动起来，谁还会看漫画？](https://www.tortorse.com/archives/when-comics-can-move/) | 从静态漫画到动态影像的概念插画 |
+| 2026-11-24 | [2026云账单](https://krya.com/post/bill2026/) | 2024年我做过一个网络云账单，当年网络开销4800元，非常之高，难以接受。我这两年断舍离，奉行“如无必要，勿增实体”的原则，有意识地缩减开支。没想到随着 AI 的普及，事与愿违，花得更多了。现在我把26年正在使用的网络服务做一个费用总结。 序号 项目/服务 原价/计费方式 折合年费 (元) 1 阿… |
 | 2026-11-24 | [秋假](https://yipai.me/post/2559.html) | 儿子上周放秋假（可能跟 APEC 有关），连起来有 8 天，如果愿意周六请一天假，可以有 9 天。但因为我年假有限，而且 APEC 还要值班，所以只请了 3 天假。看了下去外地的机票价格，再考虑到已经在大 A 亏了六七十万，还是就在省内自驾玩玩吧。自从降温后，他就吵着要泡澡。所以计划是泡一次温泉，不… |
+| 2026-11-24 | [2026年11月24日20:43](https://www.555365.xyz#1795524232) | 我要做一个和thoughts.page一模一样的网站。 |
 | 2026-11-24 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.146 of the project |
 | 2026-11-24 | [今日 AI 与 IT 最热 20 条｜2026 年 11 月 24 日](https://gugegt.com/20261124-ai-it-daily-hot-20.html) | 每天 20 条，AI 10 条，IT 10 条，按热度排。 |
 | 2026-11-24 | [esp32 cyd 钢琴🎹键盘](https://dsx2016.com/esp32-cyd-piano-keyboard/) | 钢琴 使用lvgl和触控，显示钢琴的几个音调 可以调整音量，可以调整音高，可以自动播放预制的曲目，键盘也可以显... esp32 cyd 钢琴🎹键盘 最先出现在 大师兄2016 。 |
@@ -53,9 +69,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-24 | [New Release: Amnesia: A Machine For Pigs](https://macsourceports.com/game/amnesiaamachineforpigs) | Amnesia: A Machine for Pigs is the sequel to Amnesia: The Dark Descent . Like the first game it's a psychological survival horror game with puzzles an… |
 | 2026-11-24 | [New Release: Amnesia: The Dark Descent](https://macsourceports.com/game/amnesiathedarkdescent) | Amnesia: The Dark Descent is a psychological horror game where you solve a series of puzzles to... actually I'm not sure. I didn't play it much, it's… |
 | 2026-11-24 | [我真是个努力的人啊～](https://mobius.blog/26255.html) | 此时此刻，我在咖啡厅里码字，所以难免会有些“攻击性”，比如接下来我就要“攻击”一下，坐在我斜对面的人。 她比我 […] |
-| 2026-11-24 | [2026云账单](https://krya.com/post/bill2026/) | 2024年我做过一个网络云账单，当年网络开销4800元，非常之高，难以接受。我这两年断舍离，奉行“如无必要，勿增实体”的原则，有意识地缩减开支。没想到随着 AI 的普及，事与愿违，花得更多了。现在我把26年正在使用的网络服务做一个费用总结。 序号 项目/服务 原价/计费方式 折合年费 (元) 1 阿… |
 | 2026-11-24 | [写给AI从业者：AI 时代的玄学与不确定性](https://luweiqing.com/gossip/Metaphysics-and-Uncertainty-in-the-AI-Era.html) | 做技术的人通常很信因果。代码报错肯定有原因，系统崩了查日志总能复现。但这两年如果你留心看，身边做 AI 的朋友里，开始看八字、研究风水、或者拿大模型给自己算一卦的人明显变多了。这件事其实挺正常的... |
-| 2026-11-24 | [未来的软件面向 Agent，未来已来](https://depp.wang/2026/software-for-agents/) | 现在很多人都在说，未来的软件会面向 Agent。我觉得这个未来其实已经来了一部分，至少对软件开发来说，我们平时使用的 |
+| 2026-11-24 | [未来的软件面向 Agent，未来已来](https://depp.wang/2026/software-for-agents/) | 现在很多人都在说，未来的软件会面向 Agent。我觉得这个未来其实已经来了一部分，至少对软件开发来说，我们平时使用的很多工具，现在已经可以让 Agent 去操作了。 以前用 AI 写代码，可能更多是把需求告诉它，让它帮忙写一段代码。现在我可以直接让本地的 Agent 去读取项目任务、查看代码评审意见… |
+| 2026-11-24 | [来自 DHH 对 Gemini 4 Ne](https://versun.me/blog/tweet-2125022285828596203) | DHH I don't know how long the largesse with Gemini 4 Neon is going to last, but I literally had it running across 6 computers today as I was optimizin… |
+| 2026-11-24 | [Q: 请问董事会在整个事件中达成了哪些成](https://versun.me/blog/tweet-2125021827311579204) | Kalshi BREAKING: Nvidia reinstates Jensen Huang as CEO and President Nvidia surges nearly $300,000,000,000.00 Q: 请问董事会在整个事件中达成了哪些成就？ A: 1.抄底 2.刷新老黄的工龄 |
+| 2026-11-24 | [体验了下，确实很轻量，很快，但没有插件系](https://versun.me/blog/tweet-2125021285524836446) | Ladybird Ladybird is now in alpha 🐞 Downloads for macOS and Linux available on our website. https://ladybird.org/posts/alpha/ 体验了下，确实很轻量，很快，但没有插件系统，注定… |
 | 2026-11-24 | [未来的软件面向 Agent，但很多软件现在已经可以用了](https://depp.wang/2026/agent-facing-software/) | 现在很多人都在说，未来的软件会面向 Agent。我觉得这个未来其实已经来了一部分，至少对软件开发来说，我们平时使用的很多工具，现在已经可以让 Agent 去操作了。 以前用 AI 写代码，可能更多是把需求告诉它，让它帮忙写一段代码。现在我可以直接让本地的 Agent 去读取项目任务、查看代码评审意见… |
 | 2026-11-24 | [策引 2026 年度盘点：当市场冲高回落，规则守住了什么？](https://www.bmpi.dev/money/myinvestpilot/2026_review/) | 截至 11 月 20 日，40 个官方模拟组合有 16 个上涨、24 个下跌。用相同的峰谷日期，对照 A股、美股和加密资产的净值与价格，再看每月投入一笔的不同结果。 |
 | 2026-11-23 | [我特讨厌这个设计，我都点击Update](https://versun.me/blog/tweet-2125015742362108142) | 我特讨厌这个设计，我都点击Update 了，还要再点Install and Relaunch，这不是脱裤子放屁吗，就不能自动安装重启吗 |
@@ -69,7 +87,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-23 | [esp32 cyd 油管粉丝数显示](https://dsx2016.com/esp32-cyd-oil-tank-gauge/) | 油管数据 以前弄lvgl的时候，就是做哔哩哔哩粉丝订阅展示和油管粉丝展示 粉丝增长不大的情况下，就是一个没有动... esp32 cyd 油管粉丝数显示 最先出现在 大师兄2016 。 |
 | 2026-11-23 | [Al Brooks 问答笔记：练出稳定盈利到底要多久？](https://blog.forecho.com/al-brooks-how-long-to-become-profitable.html) | 引言 学价格行为学久了，脑子里总会时不时冒出一个问题： 到底要学多久、复盘多久，才能做到稳定盈利？ 最近翻了 Al Brooks 网站上两篇间隔一年的交易室问答（2015 年 2 月和 2016 年 3 月），学员问的几乎是同一个问题。两次回答加起来也就十来分钟，没什么鸡汤，他既摊开聊了自己当年亏了… |
 | 2026-11-23 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
-| 2026-11-23 | [S.T.A.L.K.E.R.: Call of Pripyat updated](https://macsourceports.com/game/stalkercop) | The build of OpenXRay for S.T.A.L.K.E.R.: Call of Pripyat has been updated to the latest code of the project |
+| 2026-11-23 | [S.T.A.L.K.E.R.: Call of Pripyat updated](https://macsourceports.com/game/stalkercop) | The build of OpenXRay (S.T.A.L.K.E.R.: Call of Pripyat) for S.T.A.L.K.E.R.: Call of Pripyat has been updated to the latest code of the project |
 | 2026-11-23 | [Dungeon Keeper updated](https://macsourceports.com/game/dungeonkeeper) | The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project |
 | 2026-11-23 | [The Settlers II updated](https://macsourceports.com/game/settlers2) | The build of Return to the Roots for The Settlers II has been updated to the latest code of the project |
 | 2026-11-23 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队，野人 微信公众号 持有者。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。… |
@@ -241,28 +259,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-18 | [最近在给 Paseo 写插件，然后发现它](https://versun.me/blog/tweet-2122855362160447704) | 最近在给 Paseo 写插件，然后发现它竟然是用 React Native 写的，，这在一堆用 Rust 和 Electron 产品中应该算是一股清流吧😂 还有就是插件接口和跨设备的体验都好好，客户端和移动端都共用一套代码，简直不要太方便了， 整个插件开发过程比 DSH 和 Cindy 好太多了😂 |
 | 2026-11-18 | [提升生活幸福度的小物件](https://depp.wang/2026/little-things/) | 最近买了一双勃肯鞋，觉得确实提升了不少生活幸福感，也想借这个机会，写几个让日常生活更方便、舒服的小物件。 先说这双鞋。它前面包头，后面没有后跟，穿起来跟拖鞋差不多，一脚蹬就能出门。 |
 | 2026-11-18 | [Memos #2026-11-17](https://blog.itaober.com/memos/memo_20261117113421_4n1hff) | 19:34 窝囊废开会。 |
-| 2026-11-17 | [就在大家为 gemini 狂欢的时候，o](https://versun.me/blog/tweet-2122826509832565107) | 就在大家为 gemini 狂欢的时候，openai 突然跳了出来， 拿着 6.2 astra，提醒大家，不要忘了我这个小垃圾啊 完蛋了openai，前几个月哭着喊着模型要降速的，也就 openai 信了😂 |
-| 2026-11-17 | [为什么H1B和EB签证不会被改正](https://sinyalee.com/blog/?p=1383) | 美国科技界，无论雇主还是雇员，一直都在公开抨击这套千疮百孔的移民制度。多年来，许多人摆事实、讲道理，论证它如何 […] |
-| 2026-11-17 | [AI 早报 2026-11-18：俄勒冈州起诉 OpenAI 索赔 20.35 亿美元：指控 ChatGPT 危害未成年人](https://www.jtxyh.com/daily/2026-11-18/) | 2026-11-18 AI 早报，共 22 条动态。俄勒冈州总检察长丹·雷菲尔德 11 月 17 日起诉 OpenAI，索赔至少 20.35 亿美元，指控 ChatGPT 危害未成年人、误导家长。谷歌 11 月 17 日宣布，Gemini 应用里的个人 AI 助手 Tasks… |
-| 2026-11-17 | [AC自主驾驶与AI车手](https://elmagnifico.tech/2026/11/18/AC-AI-Drive/) | Foreword 上一篇写了SU7 Ultra Mod是怎么做的，里面提到后面又做了一套自主控制器，用来替代我自己一圈圈试车。 实际做下来，这个东西比改Mod麻烦得多。AC不是CARLA，也不是专门给自动驾驶研究做的仿真器。它能把车开得很真实，但是没有一套完整的接口，让外部程序随便读取所有状态、修改… |
-| 2026-11-17 | [带劲的小曲儿](https://hux.ink/posts/catchy-tunes/) | 今天没去跑步，昨天跑了十公里，说说昨天吧。 懈怠了两个月，加上啤酒夜宵什么的，体重势头压不住了，曲线与A股走向背离。 给自己定了一个目标：挑战一个月不点外卖。今天是第 9 天。 晚上能不吃就扛着。昨天下班回到家时就很饿，咬咬牙换了一身跑步装备，出门去。 一开始伴跑的是播客节目，跑着跑着发现不得劲，打… |
-| 2026-11-17 | [为什么不装是最优策略？](https://blog.brmys.cn/no-pretending) | 关联主题:: 同级:: 2026-11-17_星期二 下一级:: 这篇思考源于“失眠专家”和我的善缘，因为我发自内心的善良，对方2026.11.17凌晨和我分享了一些道理，让我深受启发。 “失眠专家”的原话： 我说一些稍微颠覆你认知的话，就我从年轻时候做主持人到我后来在党委的协会（和厅级以上的领导、… |
-| 2026-11-17 | [护身符](https://www.geedea.pro/library/2026/amuleto/) | 他们真漂亮，真美啊！尽管正在肩并肩地走向深渊。我听见他们在唱歌，我成了疯子；我听见他们在唱歌，我无法阻止他们停下来；我距离他们太遥远，没力气下山站到草地中央去对它们说：停下来！你们正在走向死亡啊…… …… 虽然，我听见歌声里谈到了战争，谈到了整整一代拉美牺牲掉的青年人之英雄伟业，我却明白最重要的是说… |
-| 2026-11-17 | [当 Agent 开始协作，一种新的经济生态正在形成](https://luweiqing.com/gossip/Agent-infra-forming.html) | 设想这样一个场景。你希望调研一家科技公司。你的 Agent 接到任务后，先找到擅长产业研究的 Agent，请它梳理市场格局；再调用财务分析工具，处理公开财报；遇到专业技术问题时，向一个行业研究服... |
-| 2026-11-17 | [SimCity 2000 updated](https://macsourceports.com/game/simcity2000) | The build of OpenSC2K for SimCity 2000 has been updated to version v0.4.0 of the project |
-| 2026-11-17 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.16.0 of the project |
-| 2026-11-17 | [有订阅 devin 套餐的注意了！ 不要](https://versun.me/blog/tweet-2122635224081400284) | 有订阅 devin 套餐的注意了！ 不要单独使用 claude 或者 carbon 这些昂贵的模型， 一定要使用 fusion 模式，非常好用 经测试，opus 5.5 high + swe 2 high 效果最好，可以省50%左右的 token，而且性能不减！！ |
-| 2026-11-17 | [周记 – Nov 17，博客更名，我对于 AI 的态度](https://zhangke.space/%e5%91%a8%e8%ae%b0-nov-17%ef%bc%8c%e5%8d%9a%e5%ae%a2%e6%9b%b4%e5%90%8d%ef%bc%8c%e6%88%91%e5%af%b9%e4%ba%8e-ai-%e7%9a%84%e6%80%81%e5%ba%a6/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%2591%25a8%25e8%25ae%25b0-nov-17%25ef%25bc%258c%25e5%258d%259a%25e5%25ae%25a2%25e6%259b%25b4%25e5%2590%258d%25ef%25bc%258c%25e6%2588%2591%25e5%25af%25b9%25e4%25ba%258e-ai-%25e7%259a%2584%25e6%2580%2581%25e5%25ba%25a6) | 最近把博客名字改了，之前叫“张可的博客”，现在更名为 Apeiron 的博客。主要还是不想再实名制上网了，最开 […] |
-| 2026-11-17 | [Rise of the Triad updated](https://macsourceports.com/game/rott) | The build of rottexpr for Rise of the Triad has been updated to the latest code of the project |
-| 2026-11-17 | [Tomb Raider updated](https://macsourceports.com/game/tombraider1) | The build of OpenLara for Tomb Raider has been updated to the latest code of the project |
-| 2026-11-17 | [【笔记】01.京东CPS赚佣，如何在小红书引流2k人，0门槛带货 GMV 60w+](https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%F0%9F%92%B0%E9%87%91%E9%92%B1%E5%85%B3%E7%B3%BB/%E8%B5%9A%E9%92%B1%E6%A1%88%E4%BE%8B%E5%BA%93/%E3%80%90%E7%AC%94%E8%AE%B0%E3%80%9101.%E4%BA%AC%E4%B8%9CCPS%E8%B5%9A%E4%BD%A3%EF%BC%8C%E5%A6%82%E4%BD%95%E5%9C%A8%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%BC%95%E6%B5%812k%E4%BA%BA%EF%BC%8C0%E9%97%A8%E6%A7%9B%E5%B8%A6%E8%B4%A7-GMV-60w+) | . |
-| 2026-11-17 | [Memos: 百度千帆的编程套餐还不错](https://blog.yasking.org/a/1794899616) | 最近 ChatGPT 订阅一直不太够用，然后偶尔就直接用 DeepSeek Flash V4.1 的官方 API 应急，其实非谷时定价不便宜，一天用出去几十块很轻松 … |
-| 2026-11-17 | [离开 claude 的第4天🥹](https://versun.me/blog/tweet-2122564298623049934) | Versun 自从 claude 账号被封后， 吃的好，睡得好， 有时间出去走走了， 在外面也不会总抱着手机了， 生活竟然好了些许， 除了发现自己原来这么傻🥹 离开 claude 的第4天🥹 |
-| 2026-11-17 | [学会像呼吸一样拒绝别人](https://blog.solazy.me/20261117/) | 昨晚一件小事儿引发的思考 |
-| 2026-11-17 | [解析：不要介入他人因果](https://www.hecaitou.com/2026/11/deconstructing-others-karma.html) | 网上有句话听得我头皮发麻，它就是「不要介入他人因果」。具体什么意思，谁能给我解释一下吗？ 不是充愣装傻，我是真的不明白。凭我有限的所知，因果极为复杂，根本不像是在台球桌上打弹子，白球撞了红球，红球撞了黄球，可以清清爽爽看个仔细。小学课本里讲成语典故「塞翁失马」，那其实也是个关于因果的故事，介绍了因果… |
-| 2026-11-17 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
-| 2026-11-17 | [测试信创环境 SkyWalking Horizon UI Helm 部署](https://199604.com/3753) | 测试信创环境 SkyWalking Horizon UI Helm 部署 记录时间：2026-11-17 环境 […] |
-| 2026-11-17 | [失乐园里有什么？III：AI时代的集体地狱](https://mobius.blog/26170.html) | Previously on 失乐园里有什么： 前段时间，在一篇帖子下讨论到一个如今这个时代才会遭遇的情形： 我 […] |
 
 ## Vibe Coding
 
