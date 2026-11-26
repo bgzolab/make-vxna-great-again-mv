@@ -27,6 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-26 | [学习周刊-总第291期-2026年第48周](https://wiki.eryajf.net/pages/fe434c/) | 如要阅读全文，点击标题跳转。 学习周刊-总第291期 ｜ nativ ｜ TokenHub ｜ opencodex ｜ StaffDeck ｜ CLI-Manager ｜ ricoui-design-md ｜ go-drive ｜ storageui |
+| 2026-11-26 | [从T3 code和黄仁勋的事，聊聊Asian的种族歧视](https://eduardoqian.com/archives/cong-t3-codehe-huang-ren-xun-de-shi-liao-liao-asiande-zhong-zu-qi-shi) | 最近X上两个比较热门的事件，都与亚裔有关。分别是黄仁勋出轨，离开英伟达又回去的事。还有就是T3 code被发现遥测的事。 黄仁勋的事情在这里就不赘述了，几乎人尽皆知。而T3 code的事，可能有些人不知道，我简单复述一下，时间线整理也是来源于X上： |
+| 2026-11-26 | [从古墓到古城](https://hux.ink/posts/travel-to-luoyang/) | 依计划来洛阳团建旅行。昨晚十一点多抵达洛阳，第一次踏上中原大地，足迹地图上又点亮了一个省份。 洛阳行的行程大致是：第一天上午参观洛阳古墓博物馆，下午在隋唐洛阳城自由 city walk；第二天去龙门石窟，第三天去老君山，第四天自由安排，晚上搭乘航班返回深圳。 今天天气晴朗，昼夜温差有点大。早上只有六… |
+| 2026-11-26 | [New Release: Tomb Raider II](https://macsourceports.com/game/tombraider2) | Tomb Raider II is the sequel to the original game that came out during that golden age of 90's gaming where a sequel could be released a year later. Y… |
+| 2026-11-26 | [New Release: Tomb Raider III](https://macsourceports.com/game/tombraider3) | Tomb Raider III is the third game in the series, coming out nearly one year to the day compared to the previous entry (man I miss the 90's). In this e… |
+| 2026-11-26 | [Tomb Raider updated](https://macsourceports.com/game/tombraider1) | The build of TRX (for Tomb Raider) for Tomb Raider has been updated to version 1.12 of the project |
+| 2026-11-26 | [纪伊半岛南部行 01](https://blog.pursuitus.com/journey-to-the-southern-part-of-the-kii-peninsula-part-1.html) | 终于去了心心念念的熊野古道徒步。原定要去的朋友有几位临时咕咕了，最后只有四人成行。 本次出行堪称近年来的绝对囧途，debuff叠满。先是连着加班三天，每天睡眠不足四小时，周四早上六点起来赶飞机，感觉人都是飘的。在机场的JR Office请工作人员帮忙改签车票，对方直接改到了15分钟后发车的班次，极限… |
 | 2026-11-26 | [esp32cam 车辆车牌识别](https://dsx2016.com/esp32-cam-vehicle-license-plate-recognition/) | 车牌识别 除了人脸识别，车牌识别使用场景很多 智慧停车，小区停车，停车场或者家门口 看看什么车什么时候停留或者... esp32cam 车辆车牌识别 最先出现在 大师兄2016 。 |
 | 2026-11-26 | [TIL: 漢字注音 - ㄏㄢˋㄗˋㄓㄨˋㄧㄣ](https://taxodium.ink/til-bopomofo.html) | TIL: 漢字注音 ㄏㄢˋㄗˋㄓㄨˋㄧㄣ 在逛一些部落格的時候，看到了一些看不明白的符號，例如在留言板的名稱上，會看到「你ㄉ大名」，這個「ㄉ」是什麼呢？憑感覺和上下文，它應該是「的」，讀音大概也是「de」，但它具體是什麼，怎麼讀呢？ 查一下不難知道，這是 注音符號 ，其實在一些字典和用 漢典 查字時… |
 | 2026-11-26 | [今日世界、AI 与 IT 最热 30 条｜2026 年 11 月 26 日](https://gugegt.com/20261126-world-ai-it-daily-hot-30.html) | 每天 30 条，世界 10 条，IT 10 条，AI 10 条，按热度排。 |
@@ -47,6 +54,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-26 | [New Release: X-COM: Apocalypse](https://macsourceports.com/game/xcomapoc) | X-COM: Apocalypse is the third game in the X-COM series and added several things to the formula, including real-time tactical combat, and a detailed c… |
 | 2026-11-26 | [我的 Macbook Air](https://lynkxu.com/blog/2026-11-26-macbook-air.html) | 2024 年我买了自己的第一台 Mac 电脑 Mac mini m4 (16 + 256)。那个时候 AI 还没像现在一样狂热，存储还没涨价，国补刚刚启动再叠加教育优惠，原价的 4499 的 Mac mini 直接被干到... |
 | 2026-11-26 | [学会在焦虑中入睡](https://gaoyu.me/blog/36-anxiety-and-sleep) | 软件开发，最重要的就是身体。 |
+| 2026-11-25 | [AI 早报 2026-11-26：英伟达叫停向东南亚四国发运 AI 服务器，戴尔、超微已通知买家订单发不出去](https://www.jtxyh.com/daily/2026-11-26/) | 2026-11-26 AI 早报，共 20 条动态。《金融时报》11 月 26 日报道，英伟达已要求戴尔、超微等制造伙伴停止向马来西亚、新加坡、泰国、印尼发运搭载其先进 AI 芯片的服务器，两家厂商已通知当地买家订单无法发出。微盟披露，全资子公司签署两份独立采购协议，分别订购 4000 张和 100… |
 | 2026-11-25 | [快，告诉我我想要什么！](https://www.geedea.pro/article/tell-me-what-i-want/) | Last.fm 不久前 宣布 API Key 需要 Pro 订阅，为了防止滥用，尽管他们说这只需要 Scrobbler 开发者有 Pro 订阅，而且他们也在积极和一些开发者联系，给他们免费提供 API Key。不过无论怎么说，社区都很不满。就算为了防止爬虫，上传 Scrobble 的 API 也总可… |
 | 2026-11-25 | [esp32cam 火灾识别](https://dsx2016.com/esp32-cam-fire-detection/) | 火灾识别 对于安防来说，第一是人脸识别，第二是火灾识别 常见的有，电脑起火，抽烟起火，充电线起火，天然气泄露起... esp32cam 火灾识别 最先出现在 大师兄2016 。 |
 | 2026-11-25 | [esp32cam 人脸识别](https://dsx2016.com/esp32-cam-face-recognition/) | 人脸识别 使用频率最多的就是人脸识别 使用ld2410毫米微波人体检测传感器检测到人体移动后，就触发人脸拍照，... esp32cam 人脸识别 最先出现在 大师兄2016 。 |
