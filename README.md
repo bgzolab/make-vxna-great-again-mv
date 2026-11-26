@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-26 | [2026黑色星期五-RackNerd KVM VPS 特惠15.98 美元起](https://www.cheshirex.com/11767.html) | 2026黑色星期五-RackNerd KVM VPS 特惠15.98 美元起，除了VPS外RackNerd还做 […] |
+| 2026-11-26 | [2026黑色星期五-PureVoltage纽约物理服务器专属套餐60美元月起](https://www.cheshirex.com/11764.html) | PureVoltage2026黑色星期五提供3个配置的纽约物理服务器套餐。 官网：https://my.pur […] |
+| 2026-11-26 | [那个在夏天执意空调开28℃的人，会在冬天执意开窗通风吗？](https://mobius.blog/26293.html) | 今天的标题很不正经，但是聊的话题也不那么正经，如果你是我题目所说的这类人，我劝你还是不要看下去。 虽然已经很久 […] |
+| 2026-11-26 | [New Release: X-COM: Apocalypse](https://macsourceports.com/game/xcomapoc) | X-COM: Apocalypse is the third game in the X-COM series and added several things to the formula, including real-time tactical combat, and a detailed c… |
+| 2026-11-26 | [学会在焦虑中入睡](https://gaoyu.me/blog/36-anxiety-and-sleep) | 软件开发，最重要的就是身体。 |
 | 2026-11-25 | [快，告诉我我想要什么！](https://www.geedea.pro/article/tell-me-what-i-want/) | Last.fm 不久前 宣布 API Key 需要 Pro 订阅，为了防止滥用，尽管他们说这只需要 Scrobbler 开发者有 Pro 订阅，而且他们也在积极和一些开发者联系，给他们免费提供 API Key。不过无论怎么说，社区都很不满。就算为了防止爬虫，上传 Scrobble 的 API 也总可… |
 | 2026-11-25 | [esp32cam 火灾识别](https://dsx2016.com/esp32-cam-fire-detection/) | 火灾识别 对于安防来说，第一是人脸识别，第二是火灾识别 常见的有，电脑起火，抽烟起火，充电线起火，天然气泄露起... esp32cam 火灾识别 最先出现在 大师兄2016 。 |
 | 2026-11-25 | [esp32cam 人脸识别](https://dsx2016.com/esp32-cam-face-recognition/) | 人脸识别 使用频率最多的就是人脸识别 使用ld2410毫米微波人体检测传感器检测到人体移动后，就触发人脸拍照，... esp32cam 人脸识别 最先出现在 大师兄2016 。 |
@@ -39,9 +44,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-25 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.147 of the project |
 | 2026-11-25 | [Dungeon Keeper updated](https://macsourceports.com/game/dungeonkeeper) | The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project |
 | 2026-11-25 | [Descent 3 updated](https://macsourceports.com/game/descent3) | The build of Descent 3 by Outrage Entertainment for Descent 3 has been updated to the latest code of the project |
+| 2026-11-25 | [做了个 Paseo 插件：Tunline](https://versun.me/blog/tweet-2125480624035434943) | 做了个 Paseo 插件：Tunline，可以实时查看每个会话的系统提示词、思考内容、工具调用、回复、token用量、缓存比例、持续时间等 https://paseo.sh/plugins/versun/turnline |
 | 2026-11-25 | [说点什么](https://blog.est.im/2026/stdin-22) | Q: 根据你当前的状态，随便说点什么。什么都可以说 Sonnect5.5: 我现在的状态大概是：刚醒来，面前是一张空白的对话框，还不知道你是谁，也不知道今天过得怎么样。这种感觉挺有意思的，每次对话对我来说都像是从零开始，但又带着对世界的一堆好奇。 今天是11月25日，快到年底了。人到这个时候常常会有… |
 | 2026-11-25 | [2026年11月25日14:05](https://www.555365.xyz#1795586723) | 早晚温差比较大。在冬日暖阳下多户外。 |
 | 2026-11-25 | [esp32 cyd 蓝牙模块 手机连接蓝牙 控制计数](https://dsx2016.com/esp32-cyd-bluetooth-module-phone-connection-to-control-counter-via-bluetooth/) | 蓝牙模块 esp32 cyd数据传输方式，一个是usb串口，一个是wifi，一个是sd卡，还有一个是蓝牙 蓝牙... esp32 cyd 蓝牙模块 手机连接蓝牙 控制计数 最先出现在 大师兄2016 。 |
+| 2026-11-25 | [qwen 系列真的是撑起了开源模型的半边](https://versun.me/blog/tweet-2125448031919321486) | PrismML Today, we’re releasing Ternary Bonsai 2.5 27B. An upgrade to Ternary Bonsai 2 27B, with substantially stronger agentic coding, multi-turn tool… |
 | 2026-11-25 | [AI Infra：从 Model Scaling 到 Intelligence Scaling](https://luweiqing.com/gossip/AI-Infra-Model-Scaling-Intelligence-Scaling.html) | 专家监督、递归自我改进与 Intelligence Runtime 构建下一代智能系统核心命题专家监督决定小模型能够获得什么样的初始智能基础，RSI（Recursive Self-Improve... |
 | 2026-11-25 | [无尽的解释](https://www.hecaitou.com/2026/11/Explanations-Without-End.html) | 按照全球股市目前的走法，考虑到业界对于芯片、电力、资金的迫切需求，以及越来越恐怖的科技企业 IPO 规模，不出预料的话，根本不需要一周时间，我们必然会迎来 2026 年 12 月--- 这就是我最近在网上看新闻，看资讯，看长帖的个人感受。这些内容总是倾向于对当下的新闻事件给出一个合理性的解释，但是我… |
 | 2026-11-25 | [esp32 cyd 图片 jpg png gif动图](https://dsx2016.com/esp32-cyd-images-jpg-png-gif-and-animations/) | gif 为了给番茄钟加上图片提示的场景，比如倒计时喝水，休息，工作等 特意加上gif动图，这样，既生动有趣，也... esp32 cyd 图片 jpg png gif动图 最先出现在 大师兄2016 。 |
@@ -50,6 +57,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-25 | [星巴克奇遇](https://blog.solazy.me/20261125/) | 记录一下昨天的一件稀奇事 |
 | 2026-11-25 | [New Release: Freeciv](https://macsourceports.com/game/freeciv) | Freeciv is exactly what it sounds like - a freeware Civilization clone. One of the oldest source port projects in existence, it was started by three c… |
 | 2026-11-25 | [文具多才是创造“差生”的原因？](https://mobius.blog/26287.html) | 抱歉，这个话题还是得从那个把所有“家当”都铺在桌面上、拍照打卡的人说起，但接下来的内容并不是在聊她。 2026 […] |
+| 2026-11-25 | [hark pro 有这么好用吗，看好多人](https://versun.me/blog/tweet-2125396962908471586) | hark pro 有这么好用吗，看好多人再吹 |
+| 2026-11-25 | [bear 笔记总算出 web 了。。。](https://versun.me/blog/tweet-2125388110423093338) | Bear - Markdown Notes Hello, Bear Web! 🐻🚀🕸️ Bear is stepping into a bigger world. Browse, edit, and search your notes from any browser, on Windows, Li… |
 | 2026-11-25 | [Memos #2026-11-24](https://blog.itaober.com/memos/memo_20261124020458_3oa4dg) | 11:12 自洽程度十分制的话，小黑是 4 分、张俊 9 分、博洋 10 分，老刘得给 12 分，他的双向情感畅通实在太强了。 我自己更像小黑，遇到问题会想着先找自己的原因，经常事后冷静下来才能看清真正的问题，以及怎么做更好。但现实生活中，克服感性的束缚去执行最优解对我而言还挺难的。 听完的一点收获… |
 | 2026-11-24 | [SWE 2.1出来了，和 K3.1一样，](https://versun.me/blog/tweet-2125354851769164006) | Cognition Introducing SWE-2.1, our latest coding model. Like its predecessor, SWE-2.1 is trained with pure reinforcement learning on Kimi K3. It deliv… |
 | 2026-11-24 | [New Release: S.T.A.L.K.E.R.: Clear Sky](https://macsourceports.com/game/stalkercs) | S.T.A.L.K.E.R. is a series of hardcore survival horror FPS games set in a fictional dystopian version of Ukraine after a second Chernobyl disaster. In… |
@@ -246,31 +255,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-19 | [Memos #2026-11-18](https://blog.itaober.com/memos/memo_20261118105516_b5rn19) | 19:00 听多了愈发觉得刘振东是个善良乐观的人，碰到这么多糟糕的事，活的真不容易。 |
 | 2026-11-19 | [零知识图像来源认证综述](https://wcowin.work/blog/Cryptography/zk-image-provenance/) | 零知识图像来源认证综述 一张经过裁剪、调亮或 JPEG 压缩的照片，还能否证明它源自一台可信设备签名的原图，而且只做过被允许的处理？零知识图像来源认证尝试在不公开原图、被裁掉区域和编辑历史的前提下回答这个问题。本文梳理 PhotoProof（2016）及 2022–2026 年的代表系统，比较它们各… |
 | 2026-11-19 | [F20H 系列：《赛博朋克 2077》](https://bluepika.life/blog/f20h-cyberpunk-2077) | 特意选在 GTA 6 发售前写这一篇文章，为的是顺便聊聊吸引我的开放世界这个话题。 还是先来说说《赛博朋克 2077》吧，我本来打算在 Switch 2 上面游玩，没想到家庭组里的朋友在看完动画第一季后直接在 Steam 上购入了全套，我就干脆在 Steam Deck 上面玩了。 我已经有一阵子没有… |
-| 2026-11-18 | [谷歌又来新模型了，这次是中杯的 neon](https://versun.me/blog/tweet-2123179784142495885) | Google DeepMind Gemini 4 Neon is rolling out now. Sitting between Carbon and Hydrogen, it brings frontier intelligence and fast task completion for co… |
-| 2026-11-18 | [最让我觉得「应该发生在上海」的偶遇](https://www.owenyoung.com/chance-encounter) | 今天发生的偶遇，是我来上海之后最让我觉得「应该在上海发生」的事。 |
-| 2026-11-18 | [模型变笨了吗](https://rickgwei.com/posts/model-degradation/) | TL;DR 「模型变笨了」这个感受，通常有三个来源，从主观到客观依次是： 人变了 ：用过更聪明的模型之后，智力阈值被抬高，Prompt 也越写越省略。旧模型没有变，却再也难以忍受，这是知识诅咒。 参数变了 ：同一个模型，采样参数、输出上限、上下文窗口、系统提示词或权重快照一变，输出的风格和质量都会偏… |
-| 2026-11-18 | [AI 早报 2026-11-19：OpenAI 公布智能体实测：2–4 小时研究任务近半不用人插手](https://www.jtxyh.com/daily/2026-11-19/) | 2026-11-19 AI 早报，共 21 条动态。OpenAI 11 月 18 日发布第二份研究加速报告《Research acceleration: The jagged frontier》。北京镁伽机器人科技有限公司 11 月 19 日宣布完成新一轮近 2 亿美元融资。 |
-| 2026-11-18 | [Album#52 - 階段怪談](https://taxodium.ink/album-52.html) | Album#52 階段怪談 图1 階段怪談 by handycam 专辑信息 专辑名称： 階段怪談 歌手： handycam 年份： 2026-05-20 时长： 43:10 類型： 艺术摇滚/剧场音乐/厕所爵士 《階段怪談》這張專輯是 handycam 成團後發布的首張錄音室専輯，相比另外兩張 《… |
-| 2026-11-18 | [把自己作为「产品」](https://lomus.cc/把自己作为产品/) | 借用项飙老师的句式，小小标题党一下。其实我想讲的是，把自己产品化，或者把自己当做一个产品对待。 |
-| 2026-11-18 | [VSCode 中 Kilo 扩展的代理机制解析与分流配置（http.proxy 与 noProxy）](https://blog.rustfisher.com/tools/vscode-kilo-http-noproxy-settings/) | 在日常研发中，经常会遇到这样一种网络分流需求：AI 编程插件需要走代理访问外部模型 API，但同时又要直连公司内网的私有模型网关或本地调试服务（如 localhost 、 *.rustfisher.com ）。 <h2 |
-| 2026-11-18 | [没有港卡怎么激活Wise](http://www.5had0w.com/posts/5962c526.html) | 先说结论，最后是通过 iFAST 激活的 Wise，花了 125 元，主要是外汇转账（用的招行）的手续费（25元） + 通讯费（100元），这个外汇是用于激活 iFast，激活 iFast 后就可以无损入金激活 Wise。 全程线上办理，有国内银行卡就行。</ |
-| 2026-11-18 | [Serious Sam: The First Encounter updated](https://macsourceports.com/game/serioussamfe) | The build of Serious-Engine for Serious Sam: The First Encounter for Serious Sam: The First Encounter has been updated to the latest code of the proje… |
-| 2026-11-18 | [Serious Sam: The Second Encounter updated](https://macsourceports.com/game/serioussamse) | The build of Serious-Engine for Serious Sam: The Second Encounter for Serious Sam: The Second Encounter has been updated to the latest code of the pro… |
-| 2026-11-18 | [Mingle 这个工具不错，简单的 Ag](https://versun.me/blog/tweet-2122953837531283635) | earayu 任意 Agent，接入任意聊天软件。 https://mingle.build/zh/ 无服务器的Agent协作软件，所以不用担心日渐严峻的网络安全问题，感兴趣可以试用一下。 Mingle 这个工具不错，简单的 Agent 中继器，可以使用自己调配的 harness |
-| 2026-11-18 | [SkyWalking 网关插件在 SCG 2.2.8 上抛 NPE 导致网关请求 500 的排查](https://199604.com/3756) | SkyWalking 网关插件在 SCG 2.2.8 上抛 NPE 导致网关请求 500 的排查 记录时间：2 […] |
-| 2026-11-18 | [在凌晨五点醒来](https://www.hecaitou.com/2026/11/awake-at-5-am.html) | 今天凌晨五点我突然醒来，往常这应该是我睡得最香的时候。醒来之后头脑不是很清醒，于是开始执行每天的自动程序，去拉开窗帘，给加湿机补水，诸如此类的事情。 我以为现在是冬季了，北方的冬季天亮得晚，夜里应该是漆黑一团。但是拉开窗帘后发现天空是漂亮的深蓝色，沉静安详，在天光下能清清楚楚看见窗外的景物。而且，我… |
-| 2026-11-18 | [统计数据：当创始人团队面临“分道扬镳”？](https://wenfeixiang.com/2026/11/founder-leave-and-lose/) | 对创业公司而言，创始人的离开、是一个难以言说的话题。大到最近沸沸扬扬的黄仁勋离开英伟达，小到几乎每一家创业小公 […] |
-| 2026-11-18 | [招聘启事二则](https://www.kawabangga.com/posts/7461) | 我就职的公司东海集团（Shopee 母公司）拓展 AI 云业务（neocloud），现在招聘计算、存储、网络方 […] Continue reading... 相关文章: Gitops 的一些实践经验 最近的工作感悟 |
-| 2026-11-18 | [Pharaoh updated](https://macsourceports.com/game/pharaoh) | The build of Akhenaten for Pharaoh has been updated to version ra2611 of the project |
-| 2026-11-18 | [简单汇总下我目前调研到市面上 opus](https://versun.me/blog/tweet-2122898496835702990) | 简单汇总下我目前调研到市面上 opus 5.5 和 ds 41 flash 套餐额度比较： opus 5.5：claude官方 = 10 x devin = 15 x factory ds 41 flash：opencode = 1.5 x command code = 1.6 x ollma |
-| 2026-11-18 | [多就是好吗？](https://blog.solazy.me/20261118/) | 观朋友圈有感 |
-| 2026-11-18 | [为了听懂英文 Trading Room，我开发了一款实时字幕翻译软件 Liveglot](https://blog.forecho.com/introducing-liveglot.html) | 引言 学了一年多的价格行为学（Price Action），最近我终于付费进了 PA 的英文 Trading Room，想跟着看看老外实盘到底是怎么分析、怎么找入场和止损的。 钱是付了，进去以后才发现最大的问题不是看不懂 K 线，而是听不懂。讲师语速本来就快，里面又夹着一堆交易术语和盘口俚语，经常一句… |
-| 2026-11-18 | [Memos: 周大福 EOF 电商专属商品款号](https://blog.yasking.org/a/1794966132) | 在淘宝上看到周大福有个小挂饰看着还不错，昨天正好路过门店打算看看实物。 跟店长咨询，店长介绍说看商品详情中的 … |
-| 2026-11-18 | [我拒绝使用AI，不是因为AI而是因为我](https://mobius.blog/26189.html) | 昨天发布的《失乐园里有什么？III：AI时代的集体地狱》，收到了两则私信和一个留言区的留言，大家也都不约而同地 […] |
-| 2026-11-18 | [相比 openai 6.2，我反而对这个](https://versun.me/blog/tweet-2122861185259479271) | clem 🤗 Introducing Qwen3.8-27B-pi-adapted 🤗 We adapted Qwen's model specifically for the pi coding agent using reinforcement learning and a LoRA adapt… |
-| 2026-11-18 | [最近在给 Paseo 写插件，然后发现它](https://versun.me/blog/tweet-2122855362160447704) | 最近在给 Paseo 写插件，然后发现它竟然是用 React Native 写的，，这在一堆用 Rust 和 Electron 产品中应该算是一股清流吧😂 还有就是插件接口和跨设备的体验都好好，客户端和移动端都共用一套代码，简直不要太方便了， 整个插件开发过程比 DSH 和 Cindy 好太多了😂 |
-| 2026-11-18 | [提升生活幸福度的小物件](https://depp.wang/2026/little-things/) | 最近买了一双勃肯鞋，觉得确实提升了不少生活幸福感，也想借这个机会，写几个让日常生活更方便、舒服的小物件。 先说这双鞋。它前面包头，后面没有后跟，穿起来跟拖鞋差不多，一脚蹬就能出门。 |
-| 2026-11-18 | [Memos #2026-11-17](https://blog.itaober.com/memos/memo_20261117113421_4n1hff) | 19:34 窝囊废开会。 |
 
 ## Vibe Coding
 
