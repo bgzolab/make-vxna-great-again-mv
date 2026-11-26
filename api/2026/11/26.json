@@ -1,5 +1,103 @@
 [
   {
+    "title": "esp32cam 车辆车牌识别",
+    "url": "https://dsx2016.com/esp32-cam-vehicle-license-plate-recognition/",
+    "date": "2026-11-26T13:05:19Z",
+    "description": "车牌识别 除了人脸识别，车牌识别使用场景很多 智慧停车，小区停车，停车场或者家门口 看看什么车什么时候停留或者... esp32cam 车辆车牌识别 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "TIL: 漢字注音 - ㄏㄢˋㄗˋㄓㄨˋㄧㄣ",
+    "url": "https://taxodium.ink/til-bopomofo.html",
+    "date": "2026-11-26T13:00:00Z",
+    "description": "TIL: 漢字注音 ㄏㄢˋㄗˋㄓㄨˋㄧㄣ 在逛一些部落格的時候，看到了一些看不明白的符號，例如在留言板的名稱上，會看到「你ㄉ大名」，這個「ㄉ」是什麼呢？憑感覺和上下文，它應該是「的」，讀音大概也是「de」，但它具體是什麼，怎麼讀呢？ 查一下不難知道，這是 注音符號 ，其實在一些字典和用 漢典 查字時我就見過這些符號，衹是一直沒去了解是什麼。維基百科的定義是這樣的： 注音符號，原名注音字母，簡稱注音，是標準漢語標音系統之一，以章太炎編創的「紐文」、「韻文」為藍本， 1912 年由中華民國教育部制定、1918 年正式發佈，1930 年改為現名。 清朝末年，自 1892 年起出現漢語發音教育的革命，許多知識份子研擬漢字的拼音符號系統，稱為「切音字運動」，此運動出現許多套改造漢字的方案。其中，章太炎的「紐文」與「韻文」方案後來成為注音符號的前身。因為當時的中國漢字仍是用二千年以來的「反切」方法，用漢字為漢字注音，相當不便。 章太炎模仿日語假名「簡化偏旁」的辦法，利用漢字小篆的結構，創造一套記音字母。 簡單來說，注音符號的作用和拼音是一樣的，衹是表示方法不同。 至於它為什麼長這樣，是因為它模仿了",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "今日世界、AI 与 IT 最热 30 条｜2026 年 11 月 26 日",
+    "url": "https://gugegt.com/20261126-world-ai-it-daily-hot-30.html",
+    "date": "2026-11-26T12:30:00Z",
+    "description": "每天 30 条，世界 10 条，IT 10 条，AI 10 条，按热度排。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "Lemmings updated",
+    "url": "https://macsourceports.com/game/lemmings",
+    "date": "2026-11-26T12:00:41Z",
+    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.7.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "多 Agents：分工不是目的，解决问题才是目的",
+    "url": "https://blog.lyric.im/p/division-is-not-the-purpose-solving-problems-is-the-purpose",
+    "date": "2026-11-26T11:10:32Z",
+    "description": "好久没写新文章了。 之前本来打算写一系列开发 Agent 的文章，但这半年高强度地开发 Agent 并且把它用在真实场景以后，我发现，单纯地介绍如何开发 Agent 意义不太大了。 让 code agent 去看看开源 agent 或 harness 项目的代码，关注方案的变更和演进，要比看静态的文章要好。 本文纯手写，无 AI 添加 关于多 Agents 组织的讨论，从年初开始到现在有了很多发展。不过在我的实践中，Agents 类型只有三种： 邻居（Neighbor）：其他独立的 Agent。 分身（Clone）：继承子 Agent 自身，在一个主题中执行一项任务。 子代理（Sub-agent）：子级执行单元，为完成某一部分工作而启动。 为什么有三种类型呢。 一种 Agent 类型只有具备其他类型无法替代的理由时，才有存在的必要。 在不同场景中，Agent 的工作有不同的上下文需求。因此 Agent 的类型划分方式本质上，是上下文的划分方式。 什么是上下文（Context）。 即 Agent 运行时完成任务所携带的信息。每种类型能够看到的上下文范围各不相同。 上下文层级 内容 另一个",
+    "source_root_domain": "quaily.com"
+  },
+  {
+    "title": "你知道的，雨风酒馆明天仍会开门",
+    "url": "https://blog.mfwt.top/index.php/archives/1716/",
+    "date": "2026-11-26T10:59:00Z",
+    "description": "大约是在一两个月之前吧，笔者到目前的学校就读专升本。某日晚上，在宿舍写博客的时候，正好碰上导员查寝，她看到我正在做的事情，问我这是什么。我说，这是我自己的博客。然后她问了这样的一个问题：『现在有...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "Dungeon Keeper updated",
+    "url": "https://macsourceports.com/game/dungeonkeeper",
+    "date": "2026-11-26T09:09:30Z",
+    "description": "The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "esp32 cyd nvs存储 读写和容量",
+    "url": "https://dsx2016.com/esp32-cyd-nvs-read-write-and-capacity/",
+    "date": "2026-11-26T08:55:46Z",
+    "description": "nvs 一般只有20kb左右，而且对单次写入字节和类型有限制 不适合存储图片等，只适合简单的字符写入，比如wi... esp32 cyd nvs存储 读写和容量 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "谷歌站长seo:自动化提交网页索引蜘蛛",
+    "url": "https://dsx2016.com/google-search-console-automated-sitemap-submission-to-web-crawlers-2/",
+    "date": "2026-11-26T07:13:01Z",
+    "description": "自动化提交 bing搜索引擎，bing站长可使用api的方式提交新发布的网页 通知搜索引擎快速查看和索引 因为... 谷歌站长seo:自动化提交网页索引蜘蛛 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "需求雷达做了 48 天，聊聊数据和我接下来想做的事",
+    "url": "https://koukyo.site/posts/reddit-radar-48-days/",
+    "date": "2026-11-26T06:00:00Z",
+    "description": "需求雷达上线 48 天，五十来个人订阅了日报。来的人平均会认真看 1 分多钟，但之后回来的人不多。我在想，一个人看到需求之后，到底还要拿到多少证据，才会真的开始做。",
+    "source_root_domain": "koukyo.site"
+  },
+  {
+    "title": "esp32 cyd 番茄钟添加ntfy通知到手机",
+    "url": "https://dsx2016.com/esp32-cyd-tomato-clock-with-ntify-mobile-notifications/",
+    "date": "2026-11-26T05:12:16Z",
+    "description": "ntfy通知 设置cyd番茄钟的本意是脱离手机，单独有一个不联网，不依赖手机的diy硬件 避免因为电话，短视频... esp32 cyd 番茄钟添加ntfy通知到手机 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "再啰嗦几句减肥",
+    "url": "https://www.hecaitou.com/2026/11/a-few-more-ramblings-on-weight-loss.html",
+    "date": "2026-11-26T05:04:33Z",
+    "description": "减肥需要的是道，而不是术。 昨天因为我回复了一位读者感谢我的留言，读者蜂拥到后台询问我的 AI 助手，要求看减肥的系列文章。我当时的回复如下： 「 你能保持新的生活习惯下去，不因为过度锻炼而受伤，不因为情绪波动而再次暴食，这就是对我最大的感谢。都觉得拿到结果来感谢才对，不是啊，产生变化才更为重要一些。 」 这不是假客气，我是真的那么想。因为我自己经历过许多，比如每天暴走 10 公里，我走过好几年；比如说低碳饮食，我也不碰米面很多年；比如说定期断食，三到五天不等，我也尝试过很多次。但是，单一方法从来没有成效，或者说，无法得到长期维持下去的效果。 类似的话我已经说过很多次了，说到自己都嫌唠叨的程度。但今天是个术法的世界，人们总在期待某种方法，某种药物，一次性简单解决体重问题。如果不成的话，那就换下一种，于是年复一年换下去，试下去。 我非说这种期待不大可能实现，人需要把体重管理当做个专项事务，从吃喝拉撒睡都下手，改变生活方式，改变膳食方案，改变行为模式，改变心理模式，这样才会有效---这就很讨人厌，因为麻烦，因为复杂，因为耗时太长，谁不喜欢简单快捷呢？ 但最后看下来，好像只有这样做的人最后取",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "esp32 cyd ldr环境光检测",
+    "url": "https://dsx2016.com/esp32-cyd-ambient-light-detection/",
+    "date": "2026-11-26T02:51:49Z",
+    "description": "ldr环境光 类似光照传感器，cyd的ldr可以检测环境光，光的大致强度 无法像gy 30一样的稳定准确的数值... esp32 cyd ldr环境光检测 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "2026黑色星期五-ColoCrossing物理服务器每月20美元起",
+    "url": "https://www.cheshirex.com/11771.html",
+    "date": "2026-11-26T02:49:59Z",
+    "description": "ColoCrossing2026黑色星期五提供物理服务器的低价促销，每月20美元起。 促销配置 […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
     "title": "2026黑色星期五-RackNerd KVM VPS 特惠15.98 美元起",
     "url": "https://www.cheshirex.com/11767.html",
     "date": "2026-11-26T02:39:28Z",
@@ -26,6 +124,13 @@
     "date": "2026-11-26T00:25:16Z",
     "description": "X-COM: Apocalypse is the third game in the X-COM series and added several things to the formula, including real-time tactical combat, and a detailed city management layer focused on…",
     "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "我的 Macbook Air",
+    "url": "https://lynkxu.com/blog/2026-11-26-macbook-air.html",
+    "date": "2026-11-26T00:00:00Z",
+    "description": "2024 年我买了自己的第一台 Mac 电脑 Mac mini m4 (16 + 256)。那个时候 AI 还没像现在一样狂热，存储还没涨价，国补刚刚启动再叠加教育优惠，原价的 4499 的 Mac mini 直接被干到...",
+    "source_root_domain": "lynkxu.com"
   },
   {
     "title": "学会在焦虑中入睡",
@@ -102,13 +207,6 @@
     "url": "https://macsourceports.com/game/quetoo",
     "date": "2026-11-25T12:00:42Z",
     "description": "The build of Quetoo has been updated to version v1.0.147 of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
-    "title": "Dungeon Keeper updated",
-    "url": "https://macsourceports.com/game/dungeonkeeper",
-    "date": "2026-11-25T09:15:19Z",
-    "description": "The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project",
     "source_root_domain": "macsourceports.com"
   },
   {
@@ -266,10 +364,10 @@
     "source_root_domain": "rickgwei.com"
   },
   {
-    "title": "AI 早报 2026-11-25：万国数据三季度机房使用率升至 81.2%，下调全年资本开支预期",
+    "title": "AI 早报 2026-11-25：Meta 开始把 Muse 推送到 Instagram 私信",
     "url": "https://www.jtxyh.com/daily/2026-11-25/",
     "date": "2026-11-24T16:00:00Z",
-    "description": "2026-11-25 AI 早报，共 24 条动态。万国数据公布未经审计的三季度财报。蔚来在广州创新科技日公布 NWM 3.0。Meta 11月24日宣布，AI 智能体 Muse 正式进驻 Instagram 私信，用户不用切应用就能直接在 DM…",
+    "description": "2026-11-25 AI 早报，共 24 条动态。Meta 11 月 24 日宣布，开始向美国、加拿大、墨西哥、日本、新加坡的 iOS 和 Android 用户推出 Instagram 私信里的 Muse。欧盟委员会公布《量子法案》提案，拟协调欧盟和成员国计划，推动量子研究走向商用，并加强供应链和数字系统安全。",
     "source_root_domain": "jtxyh.com"
   },
   {
@@ -299,6 +397,13 @@
     "date": "2026-11-24T13:22:55Z",
     "description": "儿子上周放秋假（可能跟 APEC 有关），连起来有 8 天，如果愿意周六请一天假，可以有 9 天。但因为我年假有限，而且 APEC 还要值班，所以只请了 3 天假。看了下去外地的机票价格，再考虑到已经在大 A 亏了六七十万，还是就在省内自驾玩玩吧。自从降温后，他就吵着要泡澡。所以计划是泡一次温泉，不泡温泉的时候也要住有浴缸的酒店。Day 1 从化娃他妈同时介",
     "source_root_domain": "yipai.me"
+  },
+  {
+    "title": "开源我的博客主题",
+    "url": "https://blog.dejavu.moe/posts/open-sourced-my-blog-theme/",
+    "date": "2026-11-24T12:00:00Z",
+    "description": "开源本站使用的 Icy 主题，一款快速、安静、优雅的 Hugo 博客主题。",
+    "source_root_domain": "dejavu.moe"
   },
   {
     "title": "今日 AI 与 IT 最热 20 条｜2026 年 11 月 24 日",

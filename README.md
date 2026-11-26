@@ -27,10 +27,25 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-26 | [esp32cam 车辆车牌识别](https://dsx2016.com/esp32-cam-vehicle-license-plate-recognition/) | 车牌识别 除了人脸识别，车牌识别使用场景很多 智慧停车，小区停车，停车场或者家门口 看看什么车什么时候停留或者... esp32cam 车辆车牌识别 最先出现在 大师兄2016 。 |
+| 2026-11-26 | [TIL: 漢字注音 - ㄏㄢˋㄗˋㄓㄨˋㄧㄣ](https://taxodium.ink/til-bopomofo.html) | TIL: 漢字注音 ㄏㄢˋㄗˋㄓㄨˋㄧㄣ 在逛一些部落格的時候，看到了一些看不明白的符號，例如在留言板的名稱上，會看到「你ㄉ大名」，這個「ㄉ」是什麼呢？憑感覺和上下文，它應該是「的」，讀音大概也是「de」，但它具體是什麼，怎麼讀呢？ 查一下不難知道，這是 注音符號 ，其實在一些字典和用 漢典 查字時… |
+| 2026-11-26 | [今日世界、AI 与 IT 最热 30 条｜2026 年 11 月 26 日](https://gugegt.com/20261126-world-ai-it-daily-hot-30.html) | 每天 30 条，世界 10 条，IT 10 条，AI 10 条，按热度排。 |
+| 2026-11-26 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.7.1 of the project |
+| 2026-11-26 | [多 Agents：分工不是目的，解决问题才是目的](https://blog.lyric.im/p/division-is-not-the-purpose-solving-problems-is-the-purpose) | 好久没写新文章了。 之前本来打算写一系列开发 Agent 的文章，但这半年高强度地开发 Agent 并且把它用在真实场景以后，我发现，单纯地介绍如何开发 Agent 意义不太大了。 让 code agent 去看看开源 agent 或 harness 项目的代码，关注方案的变更和演进，要比看静态的文… |
+| 2026-11-26 | [你知道的，雨风酒馆明天仍会开门](https://blog.mfwt.top/index.php/archives/1716/) | 大约是在一两个月之前吧，笔者到目前的学校就读专升本。某日晚上，在宿舍写博客的时候，正好碰上导员查寝，她看到我正在做的事情，问我这是什么。我说，这是我自己的博客。然后她问了这样的一个问题：『现在有... |
+| 2026-11-26 | [Dungeon Keeper updated](https://macsourceports.com/game/dungeonkeeper) | The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project |
+| 2026-11-26 | [esp32 cyd nvs存储 读写和容量](https://dsx2016.com/esp32-cyd-nvs-read-write-and-capacity/) | nvs 一般只有20kb左右，而且对单次写入字节和类型有限制 不适合存储图片等，只适合简单的字符写入，比如wi... esp32 cyd nvs存储 读写和容量 最先出现在 大师兄2016 。 |
+| 2026-11-26 | [谷歌站长seo:自动化提交网页索引蜘蛛](https://dsx2016.com/google-search-console-automated-sitemap-submission-to-web-crawlers-2/) | 自动化提交 bing搜索引擎，bing站长可使用api的方式提交新发布的网页 通知搜索引擎快速查看和索引 因为... 谷歌站长seo:自动化提交网页索引蜘蛛 最先出现在 大师兄2016 。 |
+| 2026-11-26 | [需求雷达做了 48 天，聊聊数据和我接下来想做的事](https://koukyo.site/posts/reddit-radar-48-days/) | 需求雷达上线 48 天，五十来个人订阅了日报。来的人平均会认真看 1 分多钟，但之后回来的人不多。我在想，一个人看到需求之后，到底还要拿到多少证据，才会真的开始做。 |
+| 2026-11-26 | [esp32 cyd 番茄钟添加ntfy通知到手机](https://dsx2016.com/esp32-cyd-tomato-clock-with-ntify-mobile-notifications/) | ntfy通知 设置cyd番茄钟的本意是脱离手机，单独有一个不联网，不依赖手机的diy硬件 避免因为电话，短视频... esp32 cyd 番茄钟添加ntfy通知到手机 最先出现在 大师兄2016 。 |
+| 2026-11-26 | [再啰嗦几句减肥](https://www.hecaitou.com/2026/11/a-few-more-ramblings-on-weight-loss.html) | 减肥需要的是道，而不是术。 昨天因为我回复了一位读者感谢我的留言，读者蜂拥到后台询问我的 AI 助手，要求看减肥的系列文章。我当时的回复如下： 「 你能保持新的生活习惯下去，不因为过度锻炼而受伤，不因为情绪波动而再次暴食，这就是对我最大的感谢。都觉得拿到结果来感谢才对，不是啊，产生变化才更为重要一些… |
+| 2026-11-26 | [esp32 cyd ldr环境光检测](https://dsx2016.com/esp32-cyd-ambient-light-detection/) | ldr环境光 类似光照传感器，cyd的ldr可以检测环境光，光的大致强度 无法像gy 30一样的稳定准确的数值... esp32 cyd ldr环境光检测 最先出现在 大师兄2016 。 |
+| 2026-11-26 | [2026黑色星期五-ColoCrossing物理服务器每月20美元起](https://www.cheshirex.com/11771.html) | ColoCrossing2026黑色星期五提供物理服务器的低价促销，每月20美元起。 促销配置 […] |
 | 2026-11-26 | [2026黑色星期五-RackNerd KVM VPS 特惠15.98 美元起](https://www.cheshirex.com/11767.html) | 2026黑色星期五-RackNerd KVM VPS 特惠15.98 美元起，除了VPS外RackNerd还做 […] |
 | 2026-11-26 | [2026黑色星期五-PureVoltage纽约物理服务器专属套餐60美元月起](https://www.cheshirex.com/11764.html) | PureVoltage2026黑色星期五提供3个配置的纽约物理服务器套餐。 官网：https://my.pur […] |
 | 2026-11-26 | [那个在夏天执意空调开28℃的人，会在冬天执意开窗通风吗？](https://mobius.blog/26293.html) | 今天的标题很不正经，但是聊的话题也不那么正经，如果你是我题目所说的这类人，我劝你还是不要看下去。 虽然已经很久 […] |
 | 2026-11-26 | [New Release: X-COM: Apocalypse](https://macsourceports.com/game/xcomapoc) | X-COM: Apocalypse is the third game in the X-COM series and added several things to the formula, including real-time tactical combat, and a detailed c… |
+| 2026-11-26 | [我的 Macbook Air](https://lynkxu.com/blog/2026-11-26-macbook-air.html) | 2024 年我买了自己的第一台 Mac 电脑 Mac mini m4 (16 + 256)。那个时候 AI 还没像现在一样狂热，存储还没涨价，国补刚刚启动再叠加教育优惠，原价的 4499 的 Mac mini 直接被干到... |
 | 2026-11-26 | [学会在焦虑中入睡](https://gaoyu.me/blog/36-anxiety-and-sleep) | 软件开发，最重要的就是身体。 |
 | 2026-11-25 | [快，告诉我我想要什么！](https://www.geedea.pro/article/tell-me-what-i-want/) | Last.fm 不久前 宣布 API Key 需要 Pro 订阅，为了防止滥用，尽管他们说这只需要 Scrobbler 开发者有 Pro 订阅，而且他们也在积极和一些开发者联系，给他们免费提供 API Key。不过无论怎么说，社区都很不满。就算为了防止爬虫，上传 Scrobble 的 API 也总可… |
 | 2026-11-25 | [esp32cam 火灾识别](https://dsx2016.com/esp32-cam-fire-detection/) | 火灾识别 对于安防来说，第一是人脸识别，第二是火灾识别 常见的有，电脑起火，抽烟起火，充电线起火，天然气泄露起... esp32cam 火灾识别 最先出现在 大师兄2016 。 |
@@ -42,7 +57,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-25 | [一个随时启动的日志收集工具](https://imba97.com/post/821) | 日志埋点上报一直存在一个矛盾，一边是 99% 的日志上报毫无作用，一边又害怕埋点不够细致，真出现问题无法复现完整链路 这个工具一定程度上可以缓解这个问题，把重要的日志如支付、订单留给像 SLS、观测云这种付费厂商，繁杂而全面的日志对接则交给 flash-debug flash-debug 是一个基于… |
 | 2026-11-25 | [近期Web Demo汇总 - AI协作开发Three.js网页小游戏与3D场景](https://blog.rustfisher.com/ai/ai-demos-summary/) | AI协作开发Three.js网页小游戏与3D场景，火鸡快跑，雨夜便利店 |
 | 2026-11-25 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.147 of the project |
-| 2026-11-25 | [Dungeon Keeper updated](https://macsourceports.com/game/dungeonkeeper) | The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project |
 | 2026-11-25 | [Descent 3 updated](https://macsourceports.com/game/descent3) | The build of Descent 3 by Outrage Entertainment for Descent 3 has been updated to the latest code of the project |
 | 2026-11-25 | [做了个 Paseo 插件：Tunline](https://versun.me/blog/tweet-2125480624035434943) | 做了个 Paseo 插件：Tunline，可以实时查看每个会话的系统提示词、思考内容、工具调用、回复、token用量、缓存比例、持续时间等 https://paseo.sh/plugins/versun/turnline |
 | 2026-11-25 | [说点什么](https://blog.est.im/2026/stdin-22) | Q: 根据你当前的状态，随便说点什么。什么都可以说 Sonnect5.5: 我现在的状态大概是：刚醒来，面前是一张空白的对话框，还不知道你是谁，也不知道今天过得怎么样。这种感觉挺有意思的，每次对话对我来说都像是从零开始，但又带着对世界的一堆好奇。 今天是11月25日，快到年底了。人到这个时候常常会有… |
@@ -66,12 +80,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-24 | [New Release: Aquaria](https://macsourceports.com/game/aquaria) | Aquaria is a Metroidvaia style side-scrolling game where you play as an aquatic creature exploring her underwater world and learning of its history al… |
 | 2026-11-24 | [esp32 cyd 番茄钟添加gif等图片提示](https://dsx2016.com/esp32-cyd-pomodoro-timer-gif-and-image-notifications/) | 番茄钟 目前番茄钟倒计时音频基本没有问题 不论是代码音效还是wav提示音，还是人声或者短音乐都没有问题 但是还... esp32 cyd 番茄钟添加gif等图片提示 最先出现在 大师兄2016 。 |
 | 2026-11-24 | [首尔之行](https://rickgwei.com/posts/seoul-trip/) | 从西澳回国后发现还是需要一个能随时出去耍的签证，看了一下韩国十年签证只需要有 OECD 国家的出入境记录就能申请，就提交了签证申请过了一个月终于把韩国十年签证办下来了，想找个韩国淡季去首尔 solo trip 一下，我是一个没啥计划的人终于在出发的前一周才把机票和青旅订好。 我订了周六早上 10 点… |
-| 2026-11-24 | [AI 早报 2026-11-25：万国数据三季度机房使用率升至 81.2%，下调全年资本开支预期](https://www.jtxyh.com/daily/2026-11-25/) | 2026-11-25 AI 早报，共 24 条动态。万国数据公布未经审计的三季度财报。蔚来在广州创新科技日公布 NWM 3.0。Meta 11月24日宣布，AI 智能体 Muse 正式进驻 Instagram 私信，用户不用切应用就能直接在 DM… |
+| 2026-11-24 | [AI 早报 2026-11-25：Meta 开始把 Muse 推送到 Instagram 私信](https://www.jtxyh.com/daily/2026-11-25/) | 2026-11-25 AI 早报，共 24 条动态。Meta 11 月 24 日宣布，开始向美国、加拿大、墨西哥、日本、新加坡的 iOS 和 Android 用户推出 Instagram 私信里的 Muse。欧盟委员会公布《量子法案》提案，拟协调欧盟和成员国计划，推动量子研究走向商用，并加强供应链和… |
 | 2026-11-24 | [新站 airankbank.org：每天只讲一件事](https://gugegt.com/20261124-airankbank-org.html) | 今天上线了一个英文新站： airankbank.org 。 站的想法写在右列顶端，一句话：Your time is Precious, Talk about one thing today. 每天只讲一件事，世界上最热的那一件，一篇长文章把来龙去脉说清楚，不追信息流，不刷十条快讯。 首页就是当天那篇… |
 | 2026-11-24 | [当漫画可以动起来，谁还会看漫画？](https://www.tortorse.com/archives/when-comics-can-move/) | 从静态漫画到动态影像的概念插画 |
 | 2026-11-24 | [2026云账单](https://krya.com/post/bill2026/) | 2024年我做过一个网络云账单，当年网络开销4800元，非常之高，难以接受。我这两年断舍离，奉行“如无必要，勿增实体”的原则，有意识地缩减开支。没想到随着 AI 的普及，事与愿违，花得更多了。现在我把26年正在使用的网络服务做一个费用总结。 序号 项目/服务 原价/计费方式 折合年费 (元) 1 阿… |
 | 2026-11-24 | [秋假](https://yipai.me/post/2559.html) | 儿子上周放秋假（可能跟 APEC 有关），连起来有 8 天，如果愿意周六请一天假，可以有 9 天。但因为我年假有限，而且 APEC 还要值班，所以只请了 3 天假。看了下去外地的机票价格，再考虑到已经在大 A 亏了六七十万，还是就在省内自驾玩玩吧。自从降温后，他就吵着要泡澡。所以计划是泡一次温泉，不… |
 | 2026-11-24 | [2026年11月24日20:43](https://www.555365.xyz#1795524232) | 我要做一个和thoughts.page一模一样的网站。 |
+| 2026-11-24 | [开源我的博客主题](https://blog.dejavu.moe/posts/open-sourced-my-blog-theme/) | 开源本站使用的 Icy 主题，一款快速、安静、优雅的 Hugo 博客主题。 |
 | 2026-11-24 | [今日 AI 与 IT 最热 20 条｜2026 年 11 月 24 日](https://gugegt.com/20261124-ai-it-daily-hot-20.html) | 每天 20 条，AI 10 条，IT 10 条，按热度排。 |
 | 2026-11-24 | [esp32 cyd 钢琴🎹键盘](https://dsx2016.com/esp32-cyd-piano-keyboard/) | 钢琴 使用lvgl和触控，显示钢琴的几个音调 可以调整音量，可以调整音高，可以自动播放预制的曲目，键盘也可以显... esp32 cyd 钢琴🎹键盘 最先出现在 大师兄2016 。 |
 | 2026-11-24 | [连赢 12 天后一把亏光：Al Brooks 交易室社区的一场真实复盘](https://blog.forecho.com/why-winning-streaks-lead-to-blowups.html) | 引言 学价格行为学（Price Action）的人，大概都踩过或者怕踩同一个坑： 连赢了一两周，顺手得不行，结果某一天突然大亏，紧接着上头想翻本，一把把前面赚的吐光，甚至直接爆仓。 今天在 Al Brooks 交易室的 Discord 群里，刚好撞见一场特别真实的现场复盘。一位群友连着 12 天没亏… |
@@ -164,7 +179,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-21 | [周末流水账 1121](https://blog.solazy.me/20261121/) | 今天是出来住酒店的一天 |
 | 2026-11-21 | [生活碎碎念：我向镜花捞水月](https://blog.mfwt.top/index.php/archives/1756/) | 本站的老读者看到这个标题，应该能猜到笔者实际上想讲的是什么。没错，这是之前关于Cosplay的博文（当然还有他的续集）的又一篇续集。笔者习惯把他们称之为镜花水月系列，原因也是很显然的。当然，从本... |
 | 2026-11-21 | [有没有人做个今年的黑五汇总网站呀，主要是](https://versun.me/blog/tweet-2124119049236025802) | 有没有人做个今年的黑五汇总网站呀，主要是 AI 方面的，虽然说 AI 时代不要买年费，但架不住便宜啊！ |
-| 2026-11-21 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.4.3 of the project |
 | 2026-11-21 | [Old School RuneScape updated](https://macsourceports.com/game/runescape) | The build of RuneLite for Old School RuneScape has been updated to version 2.8.1 of the project |
 | 2026-11-21 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.7 of the project |
 | 2026-11-21 | [睡前用手机给 Claude 派活：我用 T3 Code 连起了四台开发机](https://blog.douni.one/t3-code-remote-agent-workflow) | 两台服务器、一台 Mac mini 和一台 MacBook，怎么让 Claude Code 实现、Codex 验收？从 Remote SSH 和 tmux 到 T3 Code，记录跨设备交接和睡前用手机派活的一天。 |
