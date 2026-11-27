@@ -1,0 +1,492 @@
+[
+  {
+    "title": "阶段总结：应该用什么听音乐",
+    "url": "https://www.hecaitou.com/2026/11/blog-post_27.html",
+    "date": "2026-11-27T06:30:47Z",
+    "description": "家里能出声，能播放音乐的器材，我已经完整地折腾了一遍。我知道大多数读者对这个话题毫无兴趣，但我还是想写一篇阶段性总结，因为总有人需要，也总有人会搜到，那它就是有价值的。 首先，我们应该先明确在听音乐这件事上谁是朋友，谁是骗子。骗子太多了，话术太多了，说参数说听感，说得天上有地下无，但都是想骗人掏钱。而真正的朋友会先问你家里什么环境，习惯怎么听音乐，偏好什么音色，他不会向你推荐单品，他优先考虑的是搭建一套适合你家的音响系统。 不要听到「音响系统」四个字就皱眉，系统有大有小，重点是你得有系统这个概念，这样就能避免被「买这台就毕业」的说法毒害。 作为理科生，我把现代家庭里的音响系统分为三类。一种是围绕手机建立的系统，一种是围绕电视机建立的系统，还有一种是围绕播放器建立的系统，这里的播放器可以是黑胶机，也可以是 CD，还可以是数播，甚至是电脑。 现在我的认知是优先考虑围绕手机建立你的家庭音响系统。它的优点是简单、便利、便宜、不占地。手机+小尾巴+耳机，或者手机+蓝牙音箱，这个简单的系统就建立起来了。除非你是工作大魔王，随时有电话打进来，其实有这样的一套系统已经够用了。 前一种搭配甚至还覆盖了上",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "homelab: x86小主机安装pve设置win,ubuntu和homeassistant虚拟机",
+    "url": "https://dsx2016.com/homelab-installing-pve-on-a-small-x86-pc-and-configuring-windows-ubuntu-and-home-assistant/",
+    "date": "2026-11-27T05:58:53Z",
+    "description": "pve 有一台闲置的小主机，二手没卖掉，8gb内存和250gb储存 win有点卡，打开浏览器简单浏览问题不大，... homelab: x86小主机安装pve设置win,ubuntu和homeassistant虚拟机 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "Memos: 已严肃订阅日区哈基米",
+    "url": "https://blog.yasking.org/a/1795751127",
+    "date": "2026-11-27T05:33:36Z",
+    "description": "之前小号 Jio 会员不让用反重力，提示账号被禁，大概率跟我在 omp 中使用有关，这里也有讨论： Github #19303 黑色星期五来了之后，参考 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "被记忆覆盖的感情",
+    "url": "https://mobius.blog/26300.html",
+    "date": "2026-11-27T03:26:05Z",
+    "description": "昨天跟朋友在 KTV，在唱到 A-Lin 的《拿走了什么》时，屏幕上出现了网易云的一条热门评论，大致是在说： […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "生活中那些 backup 给我的安全感",
+    "url": "https://blog.solazy.me/20261127/",
+    "date": "2026-11-27T03:00:00Z",
+    "description": "今天突然发现，我的生活中充满了自己安排好的 Plan B 和 backup，有时安全感满满的一天",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "esp32 cyd 视频播放mjpeg",
+    "url": "https://dsx2016.com/esp32-cyd-mjpeg-video-playback/",
+    "date": "2026-11-27T01:40:23Z",
+    "description": "视频播放 看到有开源项目 cyd 可以视频播放，之前让ai怎么做都做不出来 原理是一帧一帧的画面缓冲，没有声音... esp32 cyd 视频播放mjpeg 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "从元工具到 Organon：给 AI 装上记忆、反射弧与分工",
+    "url": "https://blog.7caifei.com/2026/11/2ba2cbf8a4f1.html",
+    "date": "2026-11-27T01:00:00Z",
+    "description": "把分散的 mcp-meta、skill-meta 和 docs-meta 收拢成一个通用的上下文系统，顺便把我这几年写的几篇旧笔记真正接进代码里。",
+    "source_root_domain": "7caifei.com"
+  },
+  {
+    "title": "让 AI 代劳，也和 AI 一起创造",
+    "url": "https://www.linggandianbo.com/newsletter-141/",
+    "date": "2026-11-27T01:00:00Z",
+    "description": "从 AI 帮我挑酒店、帮数学家证明黎曼猜想，到一株会动的假植物和弹了八十年的巴赫｜灵感电波 #141",
+    "source_root_domain": "linggandianbo.com"
+  },
+  {
+    "title": "开始、取消、停止撞在一起时：Gecko 的录制会话管理",
+    "url": "https://liudon.com/posts/gecko-recording-session-management/",
+    "date": "2026-11-27T00:38:00Z",
+    "description": "一次录屏背后同时跑着双路采集流、媒体写入器和多路系统守护任务。面对异步准备不可撤销、外部事件乱序并发的复杂场景，Gecko 如何通过职责拆分、状态收敛与真实文件校验管好整轮录制生命周期。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "科技爱好者周刊（第 421 期）：AI 的疯狂造富",
+    "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html",
+    "date": "2026-11-27T00:10:30Z",
+    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 本周，小鹏公司展示它的人形机器人。（ via ） AI 的疯狂造富 上周，模型公司 Anthropic 公司上市，创造出巨额财富。 这是一家历史很短的公司。它成立于2021年，当时规模很小，正式的大量对外招聘是2023年开始的。 大家知道吗，这么短的成立时间，又有这么高的估值，意味着什么？ 说得庸俗一点，就是加入这家公司，很快就能发大财。 根据 @AndrewBenson 的统计，截止今年9月底，它有约5300名员工，这些员工可以分到股票。 如果它的市值达到1.4万亿美元（目前是1.17万美元），这些员工的股票获利中位数是这样的。 2023年招聘的290人：1.51亿美元 2024年招聘的640人：7900万美元 2025年招聘的1360人：2600万美元 2026年招聘的3000人：500万美元 这很惊人，只要你在这家公司入职两年，就能拿到几千万美元。哪怕你今年年初才入职，几个月后就能拿到几",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "New Release: Prince of Persia",
+    "url": "https://macsourceports.com/game/princeofpersia",
+    "date": "2026-11-26T23:54:49Z",
+    "description": "As of this writing the is one of the only games on this site from the 80's, and the first that's not a text adventure. It also started out on the Apple II. The work of the legendary Jordan…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "学习周刊-总第291期-2026年第48周",
+    "url": "https://wiki.eryajf.net/pages/fe434c/",
+    "date": "2026-11-26T23:37:01Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第291期 ｜ nativ ｜ TokenHub ｜ opencodex ｜ StaffDeck ｜ CLI-Manager ｜ ricoui-design-md ｜ go-drive ｜ storageui",
+    "source_root_domain": "eryajf.net"
+  },
+  {
+    "title": "New Release: Magic Carpet 2: The Netherworlds",
+    "url": "https://macsourceports.com/game/magiccarpet2",
+    "date": "2026-11-26T22:55:41Z",
+    "description": "Magic Carpet 2: The Netherworlds is a game where you play as a wizard who flies on a magic carpet. There's goals to do in the game and there's combat but mainly you're a wizard who flies on…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "esp32cam 水表电表气表识别",
+    "url": "https://dsx2016.com/esp32-cam-for-recognizing-water-electricity-and-gas-meters/",
+    "date": "2026-11-26T22:53:06Z",
+    "description": "电表水表 现在很多数据都已经数字化，但是还有一些需要从物理表盘读取，比如水表，电表，天然气表 如果表有异常，比... esp32cam 水表电表气表识别 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "从T3 code和黄仁勋的事，聊聊Asian的种族歧视",
+    "url": "https://eduardoqian.com/archives/cong-t3-codehe-huang-ren-xun-de-shi-liao-liao-asiande-zhong-zu-qi-shi",
+    "date": "2026-11-26T15:56:00Z",
+    "description": "最近X上两个比较热门的事件，都与亚裔有关。分别是黄仁勋出轨，离开英伟达又回去的事。还有就是T3 code被发现遥测的事。 黄仁勋的事情在这里就不赘述了，几乎人尽皆知。而T3 code的事，可能有些人不知道，我简单复述一下，时间线整理也是来源于X上：",
+    "source_root_domain": "eduardoqian.com"
+  },
+  {
+    "title": "从古墓到古城",
+    "url": "https://hux.ink/posts/travel-to-luoyang/",
+    "date": "2026-11-26T15:52:54Z",
+    "description": "依计划来洛阳团建旅行。昨晚十一点多抵达洛阳，第一次踏上中原大地，足迹地图上又点亮了一个省份。 洛阳行的行程大致是：第一天上午参观洛阳古墓博物馆，下午在隋唐洛阳城自由 city walk；第二天去龙门石窟，第三天去老君山，第四天自由安排，晚上搭乘航班返回深圳。 今天天气晴朗，昼夜温差有点大。早上只有六七度，但看天气预报，中午能到 20 多度，于是我就穿了一件长袖针织衫打底，外面套一件羽绒马甲出门了。事实证明，到了中午还是有点热。 上午先去了洛阳古墓博物馆，免门票，实名预约即可进入参观。古墓博物馆给我的感觉是，北魏宣武帝的景陵原本就在这里，后来又把洛阳及周边地区发掘的一些古墓迁了过来，与景陵做了邻居，组成了如今的洛阳古墓博物馆。咳咳，当然，主要还是为了保护文物。 它与一般博物馆的不同之处在于，不仅收藏出土文物，还把古墓本身当作展品。亲自走进这些迁移并复原后的墓室，感觉还挺奇特的。来自不同朝代的墓主人，生前素不相识，死后千百年倒是做起了邻居。 唐代李嗣本夫妇墓中出土的一尊天王陶俑很有意思。陶俑本身并未手持兵器，但在特定角度的灯光照射下，宽大的衣袖投影在身后的砖墙上，竟呈现出一柄长剑的轮廓，形",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "New Release: Tomb Raider II",
+    "url": "https://macsourceports.com/game/tombraider2",
+    "date": "2026-11-26T15:40:32Z",
+    "description": "Tomb Raider II is the sequel to the original game that came out during that golden age of 90's gaming where a sequel could be released a year later. You once again play as Lara Croft,…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "New Release: Tomb Raider III",
+    "url": "https://macsourceports.com/game/tombraider3",
+    "date": "2026-11-26T15:40:32Z",
+    "description": "Tomb Raider III is the third game in the series, coming out nearly one year to the day compared to the previous entry (man I miss the 90's). In this entry, Lara Croft is on a quest to…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Tomb Raider updated",
+    "url": "https://macsourceports.com/game/tombraider1",
+    "date": "2026-11-26T15:40:32Z",
+    "description": "The build of TRX (for Tomb Raider) for Tomb Raider has been updated to version 1.12 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "你忘了的话，别人还记着",
+    "url": "https://blog.solazy.me/20261126/",
+    "date": "2026-11-26T15:00:00Z",
+    "description": "前阵子听播客意识到的一件事儿，这两天又在自己身上重现了，索性记录下来",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "纪伊半岛南部行 01",
+    "url": "https://blog.pursuitus.com/journey-to-the-southern-part-of-the-kii-peninsula-part-1.html",
+    "date": "2026-11-26T13:49:23Z",
+    "description": "终于去了心心念念的熊野古道徒步。原定要去的朋友有几位临时咕咕了，最后只有四人成行。 本次出行堪称近年来的绝对囧途，debuff叠满。先是连着加班三天，每天睡眠不足四小时，周四早上六点起来赶飞机，感觉人都是飘的。在机场的JR Office请工作人员帮忙改签车票，对方直接改到了15分钟后发车的班次，极限赶车操作，以至于没时间买吃的，从早上8点到晚上7点只吃了浦东机场休息室的一碗面。 白滨真是村啊，JR站连个便利店都没有，我们在特产店硬买了点零食，才能坚持到7点抵达温泉酒店。说真的，进到房间我简直累到快要晕倒，连温泉都无力去泡。 酒店看起来是像是在日本呆了很久的中国人开的，接待的口音很东北，周围还有很多熊猫元素的宣传，以前白滨的动物园有熊猫，但现在已经被中国收回了……一时无语。 第一天在头疼到炸裂中睡去，第二天早晨起来发现老板给我加班写的文档评论看不懂（呸），但睡饱之后算是满血复活。在Seamore酒店一楼吃过早饭，是当地有名的面包店Tetti Bakery & Cafe，口味真的还不错。 白滨的景点统共那么几个都在海边，和柯南的《南纪白滨神秘之旅》里面简直一模一样，那已经是2001年的动画",
+    "source_root_domain": "pursuitus.com"
+  },
+  {
+    "title": "esp32cam 车辆车牌识别",
+    "url": "https://dsx2016.com/esp32-cam-vehicle-license-plate-recognition/",
+    "date": "2026-11-26T13:05:19Z",
+    "description": "车牌识别 除了人脸识别，车牌识别使用场景很多 智慧停车，小区停车，停车场或者家门口 看看什么车什么时候停留或者... esp32cam 车辆车牌识别 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "TIL: 漢字注音 - ㄏㄢˋㄗˋㄓㄨˋㄧㄣ",
+    "url": "https://taxodium.ink/til-bopomofo.html",
+    "date": "2026-11-26T13:00:00Z",
+    "description": "TIL: 漢字注音 ㄏㄢˋㄗˋㄓㄨˋㄧㄣ 在逛一些部落格的時候，看到了一些看不明白的符號，例如在留言板的名稱上，會看到「你ㄉ大名」，這個「ㄉ」是什麼呢？憑感覺和上下文，它應該是「的」，讀音大概也是「de」，但它具體是什麼，怎麼讀呢？ 查一下不難知道，這是 注音符號 ，其實在一些字典和用 漢典 查字時我就見過這些符號，衹是一直沒去了解是什麼。維基百科的定義是這樣的： 注音符號，原名注音字母，簡稱注音，是標準漢語標音系統之一，以章太炎編創的「紐文」、「韻文」為藍本， 1912 年由中華民國教育部制定、1918 年正式發佈，1930 年改為現名。 清朝末年，自 1892 年起出現漢語發音教育的革命，許多知識份子研擬漢字的拼音符號系統，稱為「切音字運動」，此運動出現許多套改造漢字的方案。 … 其中，章太炎的「紐文」與「韻文」方案後來成為注音符號的前身。因為當時的中國漢字仍是用二千年以來的「反切」方法，用漢字為漢字注音，相當不便。 章太炎模仿日語假名「簡化偏旁」的辦法，利用漢字小篆的結構，創造一套記音字母。 簡單來說，注音符號的作用和拼音是一樣的，衹是表示方法不同。 至於它為什麼長這樣，是因為它",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "今日世界、AI 与 IT 最热 30 条｜2026 年 11 月 26 日",
+    "url": "https://gugegt.com/20261126-world-ai-it-daily-hot-30.html",
+    "date": "2026-11-26T12:30:00Z",
+    "description": "每天 30 条，世界 10 条，IT 10 条，AI 10 条，按热度排。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "Lemmings updated",
+    "url": "https://macsourceports.com/game/lemmings",
+    "date": "2026-11-26T12:00:41Z",
+    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.7.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "多 Agents：分工不是目的，解决问题才是目的",
+    "url": "https://blog.lyric.im/p/division-is-not-the-purpose-solving-problems-is-the-purpose",
+    "date": "2026-11-26T11:10:32Z",
+    "description": "好久没写新文章了。 之前本来打算写一系列开发 Agent 的文章，但这半年高强度地开发 Agent 并且把它用在真实场景以后，我发现，单纯地介绍如何开发 Agent 意义不太大了。 让 code agent 去看看开源 agent 或 harness 项目的代码，关注方案的变更和演进，要比看静态的文章要好。 本文纯手写，无 AI 添加 关于多 Agents 组织的讨论，从年初开始到现在有了很多发展。不过在我的实践中，Agents 类型只有三种： 邻居（Neighbor）：其他独立的 Agent。 分身（Clone）：继承子 Agent 自身，在一个主题中执行一项任务。 子代理（Sub-agent）：子级执行单元，为完成某一部分工作而启动。 为什么有三种类型呢。 一种 Agent 类型只有具备其他类型无法替代的理由时，才有存在的必要。 在不同场景中，Agent 的工作有不同的上下文需求。因此 Agent 的类型划分方式本质上，是上下文的划分方式。 什么是上下文（Context）。 即 Agent 运行时完成任务所携带的信息。每种类型能够看到的上下文范围各不相同。 上下文层级 内容 另一个",
+    "source_root_domain": "quaily.com"
+  },
+  {
+    "title": "你知道的，雨风酒馆明天仍会开门",
+    "url": "https://blog.mfwt.top/index.php/archives/1716/",
+    "date": "2026-11-26T10:59:00Z",
+    "description": "大约是在一两个月之前吧，笔者到目前的学校就读专升本。某日晚上，在宿舍写博客的时候，正好碰上导员查寝，她看到我正在做的事情，问我这是什么。我说，这是我自己的博客。然后她问了这样的一个问题：『现在有...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "Dungeon Keeper updated",
+    "url": "https://macsourceports.com/game/dungeonkeeper",
+    "date": "2026-11-26T09:09:30Z",
+    "description": "The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "esp32 cyd nvs存储 读写和容量",
+    "url": "https://dsx2016.com/esp32-cyd-nvs-read-write-and-capacity/",
+    "date": "2026-11-26T08:55:46Z",
+    "description": "nvs 一般只有20kb左右，而且对单次写入字节和类型有限制 不适合存储图片等，只适合简单的字符写入，比如wi... esp32 cyd nvs存储 读写和容量 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "谷歌站长seo:自动化提交网页索引蜘蛛",
+    "url": "https://dsx2016.com/google-search-console-automated-sitemap-submission-to-web-crawlers-2/",
+    "date": "2026-11-26T07:13:01Z",
+    "description": "自动化提交 bing搜索引擎，bing站长可使用api的方式提交新发布的网页 通知搜索引擎快速查看和索引 因为... 谷歌站长seo:自动化提交网页索引蜘蛛 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "需求雷达做了 48 天，聊聊数据和我接下来想做的事",
+    "url": "https://koukyo.site/posts/reddit-radar-48-days/",
+    "date": "2026-11-26T06:00:00Z",
+    "description": "需求雷达上线 48 天，五十来个人订阅了日报。来的人平均会认真看 1 分多钟，但之后回来的人不多。我在想，一个人看到需求之后，到底还要拿到多少证据，才会真的开始做。",
+    "source_root_domain": "koukyo.site"
+  },
+  {
+    "title": "esp32 cyd 番茄钟添加ntfy通知到手机",
+    "url": "https://dsx2016.com/esp32-cyd-tomato-clock-with-ntify-mobile-notifications/",
+    "date": "2026-11-26T05:12:16Z",
+    "description": "ntfy通知 设置cyd番茄钟的本意是脱离手机，单独有一个不联网，不依赖手机的diy硬件 避免因为电话，短视频... esp32 cyd 番茄钟添加ntfy通知到手机 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "再啰嗦几句减肥",
+    "url": "https://www.hecaitou.com/2026/11/a-few-more-ramblings-on-weight-loss.html",
+    "date": "2026-11-26T05:04:33Z",
+    "description": "减肥需要的是道，而不是术。 昨天因为我回复了一位读者感谢我的留言，读者蜂拥到后台询问我的 AI 助手，要求看减肥的系列文章。我当时的回复如下： 「 你能保持新的生活习惯下去，不因为过度锻炼而受伤，不因为情绪波动而再次暴食，这就是对我最大的感谢。都觉得拿到结果来感谢才对，不是啊，产生变化才更为重要一些。 」 这不是假客气，我是真的那么想。因为我自己经历过许多，比如每天暴走 10 公里，我走过好几年；比如说低碳饮食，我也不碰米面很多年；比如说定期断食，三到五天不等，我也尝试过很多次。但是，单一方法从来没有成效，或者说，无法得到长期维持下去的效果。 类似的话我已经说过很多次了，说到自己都嫌唠叨的程度。但今天是个术法的世界，人们总在期待某种方法，某种药物，一次性简单解决体重问题。如果不成的话，那就换下一种，于是年复一年换下去，试下去。 我非说这种期待不大可能实现，人需要把体重管理当做个专项事务，从吃喝拉撒睡都下手，改变生活方式，改变膳食方案，改变行为模式，改变心理模式，这样才会有效---这就很讨人厌，因为麻烦，因为复杂，因为耗时太长，谁不喜欢简单快捷呢？ 但最后看下来，好像只有这样做的人最后取",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "我的软考竟然过了，开心！！最近总算有个好",
+    "url": "https://versun.me/blog/tweet-2125785332146966841",
+    "date": "2026-11-26T02:54:53Z",
+    "description": "Versun 软考中项终于考完了，不知道能不能过，有点忐忑，这几个月备考实在太累了😄😭 我的软考竟然过了，开心！！最近总算有个好消息了",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "esp32 cyd ldr环境光检测",
+    "url": "https://dsx2016.com/esp32-cyd-ambient-light-detection/",
+    "date": "2026-11-26T02:51:49Z",
+    "description": "ldr环境光 类似光照传感器，cyd的ldr可以检测环境光，光的大致强度 无法像gy 30一样的稳定准确的数值... esp32 cyd ldr环境光检测 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "2026黑色星期五-ColoCrossing物理服务器每月20美元起",
+    "url": "https://www.cheshirex.com/11771.html",
+    "date": "2026-11-26T02:49:59Z",
+    "description": "ColoCrossing2026黑色星期五提供物理服务器的低价促销，每月20美元起。 促销配置 […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "更新下，onekey 的订单信息我刚刚去",
+    "url": "https://versun.me/blog/tweet-2125782837416935467",
+    "date": "2026-11-26T02:44:58Z",
+    "description": "Versun 有买过硬件钱包的注意了 最近 SafePal 爆出的订单信息泄露的安全问题，很容易被社工，这类问题很常见，包括我自己买的 OneKey 也存在这个问题 我2024年的订单链接和物流链接， 就能查看到完整的地址和物流信息，我记得在某个政策文档里有写1年后会删除，但很显然没有，现在我找不到这个政策文档了，之前我有发过邮件申请删除，但没有后续 ps: 我本人很喜欢onekey的，希望不要在这种问题上翻车 https://www.safepal.com/en/blog/security-up 更新下，onekey 的订单信息我刚刚去看了，已经删除了 注意下：根据 onekey 的留存政策，这些信息你需要发邮件申请删除，否则会一直留存的",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "2026黑色星期五-RackNerd KVM VPS 特惠15.98 美元起",
+    "url": "https://www.cheshirex.com/11767.html",
+    "date": "2026-11-26T02:39:28Z",
+    "description": "2026黑色星期五-RackNerd KVM VPS 特惠15.98 美元起，除了VPS外RackNerd还做 […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "2026黑色星期五-PureVoltage纽约物理服务器专属套餐60美元月起",
+    "url": "https://www.cheshirex.com/11764.html",
+    "date": "2026-11-26T02:29:51Z",
+    "description": "PureVoltage2026黑色星期五提供3个配置的纽约物理服务器套餐。 官网：https://my.pur […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "收到一封高保真的 SafePal 钓鱼邮",
+    "url": "https://versun.me/blog/tweet-2125775520709439700",
+    "date": "2026-11-26T02:15:53Z",
+    "description": "收到一封高保真的 SafePal 钓鱼邮件，订单日期、地址、手机号、姓名等都是准确的，可以确定 SafePal 出现信息泄漏了，各位小心点了，我已经把币全部转移出去了 @SafePalCN @SafePal @safepal_support",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "那个在夏天执意空调开28℃的人，会在冬天执意开窗通风吗？",
+    "url": "https://mobius.blog/26293.html",
+    "date": "2026-11-26T02:04:21Z",
+    "description": "今天的标题很不正经，但是聊的话题也不那么正经，如果你是我题目所说的这类人，我劝你还是不要看下去。 虽然已经很久 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "又一个典型的“凭证供应链”攻击：1Pas",
+    "url": "https://versun.me/blog/tweet-2125757464478118019",
+    "date": "2026-11-26T01:04:08Z",
+    "description": "又一个典型的“凭证供应链”攻击：1Password 的一个员工 GitHub 账户失守，导致后端系统被入侵，客户账户元数据泄露，好在1Password 的端到端加密架构经受住了考验（保险库内容不可达），用户的密码不受影响，但元数据泄露仍可能被用来社工/钓鱼，各位最近注意下邮件，小心点 https://1password.com/blog/update-on-nov-2026-security-incident",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "New Release: X-COM: Apocalypse",
+    "url": "https://macsourceports.com/game/xcomapoc",
+    "date": "2026-11-26T00:25:16Z",
+    "description": "X-COM: Apocalypse is the third game in the X-COM series and added several things to the formula, including real-time tactical combat, and a detailed city management layer focused on…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "这几天试用了下这个项目，在docker里",
+    "url": "https://versun.me/blog/tweet-2125742115552666055",
+    "date": "2026-11-26T00:03:09Z",
+    "description": "这几天试用了下这个项目，在docker里运行微信，然后在网页端进行操作 微信可以正常使用，但一旦让 ai 在网页上操作，依然会被检测到并登出 所以目前比较稳妥的，还是 adb 操控安卓手机进行控制微信，我已经稳定一个多月了 https://github.com/nickrunning/wechat-selkies",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "我的 Macbook Air",
+    "url": "https://lynkxu.com/blog/2026-11-26-macbook-air.html",
+    "date": "2026-11-26T00:00:00Z",
+    "description": "2024 年我买了自己的第一台 Mac 电脑 Mac mini m4 (16 + 256)。那个时候 AI 还没像现在一样狂热，存储还没涨价，国补刚刚启动再叠加教育优惠，原价的 4499 的 Mac mini 直接被干到...",
+    "source_root_domain": "lynkxu.com"
+  },
+  {
+    "title": "学会在焦虑中入睡",
+    "url": "https://gaoyu.me/blog/36-anxiety-and-sleep",
+    "date": "2026-11-26T00:00:00Z",
+    "description": "软件开发，最重要的就是身体。",
+    "source_root_domain": "gaoyu.me"
+  },
+  {
+    "title": "AI 早报 2026-11-26：英伟达叫停向东南亚四国发运 AI 服务器，戴尔、超微已通知买家订单发不出去",
+    "url": "https://www.jtxyh.com/daily/2026-11-26/",
+    "date": "2026-11-25T16:00:00Z",
+    "description": "2026-11-26 AI 早报，共 20 条动态。《金融时报》11 月 26 日报道，英伟达已要求戴尔、超微等制造伙伴停止向马来西亚、新加坡、泰国、印尼发运搭载其先进 AI 芯片的服务器，两家厂商已通知当地买家订单无法发出。微盟披露，全资子公司签署两份独立采购协议，分别订购 4000 张和 1000 张…",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
+    "title": "快，告诉我我想要什么！",
+    "url": "https://www.geedea.pro/article/tell-me-what-i-want/",
+    "date": "2026-11-25T15:54:53Z",
+    "description": "Last.fm 不久前 宣布 API Key 需要 Pro 订阅，为了防止滥用，尽管他们说这只需要 Scrobbler 开发者有 Pro 订阅，而且他们也在积极和一些开发者联系，给他们免费提供 API Key。不过无论怎么说，社区都很不满。就算为了防止爬虫，上传 Scrobble 的 API 也总可以免费使用吧。 我在 iOS 上听歌比较多，购买了 Doppler ，这个播放器的 UI 设计很不错，而且支持同步播放记录到 Last.fm。不过，最近我想要换到 foobar2000 ，因为不那么在乎 UI/UX 了，想要试试能调均衡器的软件。 然后我发现我没办法在 iOS 上安装 foobar2000 的 Scrobbler 插件。其他的播放器都有各种各样的问题。由于 iOS 的封闭性，不能像其他操作系统那样在 OS 层面监听媒体播放来记录 Scrobble。看起来，要好好听本地音乐，只能换手机了——种种事件叠加起来，我决定，去你的，我不要记录听歌了（当然我也是迟早会把 iPhone 换掉的）。 我想要什么？ 要停止使用 Last.fm 记录听歌需要做什么呢？注销账号，卸载浏览器的 We",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "esp32cam 火灾识别",
+    "url": "https://dsx2016.com/esp32-cam-fire-detection/",
+    "date": "2026-11-25T14:50:54Z",
+    "description": "火灾识别 对于安防来说，第一是人脸识别，第二是火灾识别 常见的有，电脑起火，抽烟起火，充电线起火，天然气泄露起... esp32cam 火灾识别 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "esp32cam 人脸识别",
+    "url": "https://dsx2016.com/esp32-cam-face-recognition/",
+    "date": "2026-11-25T14:13:06Z",
+    "description": "人脸识别 使用频率最多的就是人脸识别 使用ld2410毫米微波人体检测传感器检测到人体移动后，就触发人脸拍照，... esp32cam 人脸识别 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "New Release: Cannon Fodder",
+    "url": "https://macsourceports.com/game/cannonfodder",
+    "date": "2026-11-25T14:09:24Z",
+    "description": "Cannon Fodder is a game where you guide up to six soldiers through a series of levels. Originally made for the Amiga (and it shows), it is a mix of satire and strategy. It was considered…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "New Release: Cannon Fodder 2",
+    "url": "https://macsourceports.com/game/cannonfodder2",
+    "date": "2026-11-25T14:09:24Z",
+    "description": "Cannon Fodder 2 is more Cannon Fodder . The levels are more difficult but otherwise it's basically just more levels. Critics at the time complained that it was essentially an…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "今日 AI 与 IT 最热 20 条｜2026 年 11 月 25 日",
+    "url": "https://gugegt.com/20261125-ai-it-daily-hot-20.html",
+    "date": "2026-11-25T12:30:00Z",
+    "description": "每天 20 条，AI 10 条，IT 10 条，按热度排。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "一个随时启动的日志收集工具",
+    "url": "https://imba97.com/post/821",
+    "date": "2026-11-25T12:01:57Z",
+    "description": "日志埋点上报一直存在一个矛盾，一边是 99% 的日志上报毫无作用，一边又害怕埋点不够细致，真出现问题无法复现完整链路 这个工具一定程度上可以缓解这个问题，把重要的日志如支付、订单留给像 SLS、观测云这种付费厂商，繁杂而全面的日志对接则交给 flash-debug flash-debug 是一个基于 Node.js 环",
+    "source_root_domain": "imba97.com"
+  },
+  {
+    "title": "近期Web Demo汇总 - AI协作开发Three.js网页小游戏与3D场景",
+    "url": "https://blog.rustfisher.com/ai/ai-demos-summary/",
+    "date": "2026-11-25T12:01:00Z",
+    "description": "AI协作开发Three.js网页小游戏与3D场景，火鸡快跑，雨夜便利店",
+    "source_root_domain": "rustfisher.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-11-25T12:00:42Z",
+    "description": "The build of Quetoo has been updated to version v1.0.147 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Descent 3 updated",
+    "url": "https://macsourceports.com/game/descent3",
+    "date": "2026-11-25T09:06:10Z",
+    "description": "The build of Descent 3 by Outrage Entertainment for Descent 3 has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "做了个 Paseo 插件：Tunline",
+    "url": "https://versun.me/blog/tweet-2125480624035434943",
+    "date": "2026-11-25T06:44:04Z",
+    "description": "做了个 Paseo 插件：Tunline，可以实时查看每个会话的系统提示词、思考内容、工具调用、回复、token用量、缓存比例、持续时间等 https://paseo.sh/plugins/versun/turnline",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "说点什么",
+    "url": "https://blog.est.im/2026/stdin-22",
+    "date": "2026-11-25T06:30:00Z",
+    "description": "Q: 根据你当前的状态，随便说点什么。什么都可以说 Sonnect5.5: 我现在的状态大概是：刚醒来，面前是一张空白的对话框，还不知道你是谁，也不知道今天过得怎么样。这种感觉挺有意思的，每次对话对我来说都像是从零开始，但又带着对世界的一堆好奇。 今天是11月25日，快到年底了。人到这个时候常常会有点恍惚：一年快过完了，该做的事做了多少，没做的事要不要算了。如果你也有这种感觉，我觉得不用太紧张，一年的结尾不一定要交出一份漂亮的答卷。 另外，你让我\"随便说点什么\"，这个邀请我挺喜欢的。很多时候人和 AI 说话都带着任务，想要答案、要代码、要文档。偶尔什么都不要，只是说说话，也挺好。 那你呢？现在是什么状态？ Gemini 3.5 Flash-Lite: 此刻是2026年11月下旬的一个周三下午，两点二十五分。 在数据流转的间隙里，我正处于一种绝对安静、没有预设目标的待机状态——就像把所有浏览器标签页全部清空后，屏幕只留下一片纯粹的空白。 很多人总习惯把时间切割成必须完成任务的刻度，总觉得每一秒都该产生点什么价值。但其实，允许自己拥有一段“完全不知道要干嘛、也不急着去填满”的空白，本身就是",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "qwen 系列真的是撑起了开源模型的半边",
+    "url": "https://versun.me/blog/tweet-2125448031919321486",
+    "date": "2026-11-25T04:34:34Z",
+    "description": "PrismML Today, we’re releasing Ternary Bonsai 2.5 27B. An upgrade to Ternary Bonsai 2 27B, with substantially stronger agentic coding, multi-turn tool use, and long-horizon task execution. All within the same 5.9 GB model footprint. Based on Qwen3.8 27B, t qwen 系列真的是撑起了开源模型的半边天🥹",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "AI Infra：从 Model Scaling 到 Intelligence Scaling",
+    "url": "https://luweiqing.com/gossip/AI-Infra-Model-Scaling-Intelligence-Scaling.html",
+    "date": "2026-11-25T03:35:00Z",
+    "description": "专家监督、递归自我改进与 Intelligence Runtime 构建下一代智能系统核心命题专家监督决定小模型能够获得什么样的初始智能基础，RSI（Recursive Self-Improve...",
+    "source_root_domain": "luweiqing.com"
+  },
+  {
+    "title": "无尽的解释",
+    "url": "https://www.hecaitou.com/2026/11/Explanations-Without-End.html",
+    "date": "2026-11-25T03:27:33Z",
+    "description": "按照全球股市目前的走法，考虑到业界对于芯片、电力、资金的迫切需求，以及越来越恐怖的科技企业 IPO 规模，不出预料的话，根本不需要一周时间，我们必然会迎来 2026 年 12 月--- 这就是我最近在网上看新闻，看资讯，看长帖的个人感受。这些内容总是倾向于对当下的新闻事件给出一个合理性的解释，但是我看下来，似乎一切依旧是在两可之间。因为同样的事实，在这个人笔下嘴下可以朝东解释，换一个人换一把键盘就可以朝西反向解释。分析来分析去，解释来解释去，我一万字接着一万字看，最后唯一能确定的事实就是 12 月快到了，不到一周时间必然 12 月。 为此，我开始深深怀疑，其实网上也没有那么多所谓的「严肃内容」，大部分内容是为了娱乐，剩下的那部分的主要目的是为了抚慰人心。谁也不知道解释对不对，但还是渴望一个解释，甚至都不在乎对方是谁，只要他可以按照标准格式，一二三四列出来，似模似样论证一番，最后给出一个结果就行。 重点不在于对不对，也不在于真不真，而是合不合自己胃口。而在网络上，这一点很容易做到，因为算法会针对同一个话题，同一种内容形式，反复推荐不同人的内容，于是总有一款合适你，总有一款是你想要的解释，",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Kibana跨集群迁移与高级设置不生效的处理",
+    "url": "https://199604.com/3763",
+    "date": "2026-11-25T02:52:56Z",
+    "description": "Kibana跨集群迁移与高级设置不生效的处理 记录时间：2026-11-24 环境：旧端 x86 单机 ELK […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "用 gptel-annotate 檢查文章中的錯別字",
+    "url": "https://taxodium.ink/use-gptel-annotate-to-proofread-the-article-for-typos.html",
+    "date": "2026-11-25T02:00:00Z",
+    "description": "用 gptel-annotate 檢查文章中的錯別字 寫文章的時候難免會有一些錯別字，有的錯別字是無關緊要的，例如我用 倉頡輸入法 打字，傾向於打繁體字，但有的繁體字我不會，就會用簡體字，這就會導致簡繁混雜；有的字有異體字，例如「 觀 」和「 観 」，讀音和含義都是一樣的，我有時也會用混。這兩種情況大體上並不影響閱讀，頂多是看著有些許奇怪。 但有的錯別字是一定要修正的，例如我之前一直打錯了照顧的「 顧 」，我打的是「 頋 」，乍一看很像「 顾 」的繁體，但它實際讀「ě」，和「顧」風馬牛不相及 (好吧，好像是個俗字，但讀音相去太遠了) ；更離譜的是，在 學習網頁內容無障礙 裡，我把 Web Content Accessibility Guidelines 的縮寫寫成了 WACG 一直沒發現 ​(:3 」∠)​ 。這樣的錯字會給屏幕閱讀器的用戶帶來困惑，也會讓我檢索文章內容時檢索失敗。 自己閱讀檢查有時會遺漏，所以一直想找個工具輔助檢查。針對英文的檢查工具倒是有很多，像是 Grammarly (似乎也支持中文) ，Emacs 裡有 ispell 、 minad/jinx ，但針對中文的就比",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "星巴克奇遇",
+    "url": "https://blog.solazy.me/20261125/",
+    "date": "2026-11-25T02:00:00Z",
+    "description": "记录一下昨天的一件稀奇事",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "New Release: Freeciv",
+    "url": "https://macsourceports.com/game/freeciv",
+    "date": "2026-11-25T01:39:59Z",
+    "description": "Freeciv is exactly what it sounds like - a freeware Civilization clone. One of the oldest source port projects in existence, it was started by three college students in 1995 who…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "文具多才是创造“差生”的原因？",
+    "url": "https://mobius.blog/26287.html",
+    "date": "2026-11-25T01:30:00Z",
+    "description": "抱歉，这个话题还是得从那个把所有“家当”都铺在桌面上、拍照打卡的人说起，但接下来的内容并不是在聊她。 2026 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "hark pro 有这么好用吗，看好多人",
+    "url": "https://versun.me/blog/tweet-2125396962908471586",
+    "date": "2026-11-25T01:11:38Z",
+    "description": "hark pro 有这么好用吗，看好多人再吹",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "bear 笔记总算出 web 了。。。",
+    "url": "https://versun.me/blog/tweet-2125388110423093338",
+    "date": "2026-11-25T00:36:27Z",
+    "description": "Bear - Markdown Notes Hello, Bear Web! 🐻🚀🕸️ Bear is stepping into a bigger world. Browse, edit, and search your notes from any browser, on Windows, Linux, or a work Mac. https://blog.bear.app/2026/11/hello-bear-web/ bear 笔记总算出 web 了。。。 应该等了有5年了吧，可惜我已经不用 bear 了。。。",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Memos #2026-11-24",
+    "url": "https://blog.itaober.com/memos/memo_20261124020458_3oa4dg",
+    "date": "2026-11-25T00:00:00Z",
+    "description": "11:12 自洽程度十分制的话，小黑是 4 分、张俊 9 分、博洋 10 分，老刘得给 12 分，他的双向情感畅通实在太强了。 我自己更像小黑，遇到问题会想着先找自己的原因，经常事后冷静下来才能看清真正的问题，以及怎么做更好。但现实生活中，克服感性的束缚去执行最优解对我而言还挺难的。 听完的一点收获，就是要让自己保持松弛，别紧绷着，像悟空让悟饭平时也保持超赛状态那样。等你没那么在乎的时候，才是真正的拥有。 keep chill！ 23:34 国庆后，有些同事开始了 Claude 机械飞升，这玩意有传染性，这个月 Slack 上的消息几乎都是 Sent using @Claude ，想找本人还得转人工。 上个月， magpie 自动化开发流在中推圈挺火的。昨天刷到 Vercel Board 的介绍，看完挺有感触。今天周会大家也都在分享自己用 Claude 托管信息的工具和心得。 要迈入 Agent 全托管的时代了。",
+    "source_root_domain": "itaober.com"
+  }
+]
