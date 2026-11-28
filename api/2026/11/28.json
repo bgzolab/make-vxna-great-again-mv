@@ -1,5 +1,47 @@
 [
   {
+    "title": "esp32 cyd 简易手绘画板",
+    "url": "https://dsx2016.com/esp32-cyd-simple-hand-drawn-pad/",
+    "date": "2026-11-28T17:27:03Z",
+    "description": "简易画板 esp32 cyd 2.8寸比较小，画板顶部有工具栏 主要是调色和笔触大小还有触控校准等 只有三分之... esp32 cyd 简易手绘画板 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "esp32 cyd wifi人体检测添加扫网和触控校准",
+    "url": "https://dsx2016.com/esp32-cyd-wifi-human-detection-with-mesh-scanning-and-touch-calibration/",
+    "date": "2026-11-28T13:19:47Z",
+    "description": "动态配网 第一版是把wifi写入到固件直接连接，这样不安全，也无法切换网络 所以加了扫描wifi和触控校准，因... esp32 cyd wifi人体检测添加扫网和触控校准 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "今日世界、AI 与 IT 最热 30 条｜2026 年 11 月 28 日",
+    "url": "https://gugegt.com/20261128-world-ai-it-daily-hot-30.html",
+    "date": "2026-11-28T12:30:00Z",
+    "description": "每天 30 条，世界 10 条，IT 10 条，AI 10 条，按热度排。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "Pensieve: 2611",
+    "url": "https://xiaket.github.io/2026/pensieve-2611.html",
+    "date": "2026-11-28T12:20:00Z",
+    "description": "所读所观所玩",
+    "source_root_domain": "xiaket.org"
+  },
+  {
+    "title": "Chris Sawyer's Locomotion updated",
+    "url": "https://macsourceports.com/game/locomotion",
+    "date": "2026-11-28T10:58:17Z",
+    "description": "The build of OpenLoco for Chris Sawyer's Locomotion has been updated to version v26.11 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "某 AI 生图网站无限薅羊毛 + 无水印生图",
+    "url": "https://www.liesauer.net/blog/post/1052.html",
+    "date": "2026-11-28T09:53:30Z",
+    "description": "进入平台后会自动访问临时账号创建接口，经过测试，`deviceId`可随机生成，无固定算法，`deviceId`和 IP 绑定，单个 IP 最多允许创建两个临时账号，多了会报`DEMOIPD...",
+    "source_root_domain": "liesauer.net"
+  },
+  {
     "title": "esp32 cyd wifi人体感应检测esppectre",
     "url": "https://dsx2016.com/esp32-cyd-wi-fi-human-motion-detection-with-esp-32s/",
     "date": "2026-11-28T09:32:32Z",
@@ -47,6 +89,13 @@
     "date": "2026-11-28T06:17:00Z",
     "description": "我估计没分😭，主要是一开始就去做第二题，第一题快结束才开始做。Chord#include using namespace std;typedef lon...",
     "source_root_domain": "mxdyeah.com"
+  },
+  {
+    "title": "AI 是如何操作电脑和浏览器的？",
+    "url": "https://blog.dejavu.moe/posts/how-does-ai-operate-computers-and-browsers/",
+    "date": "2026-11-28T05:37:26Z",
+    "description": "浅析 Computer Use 与 Browser Use 的实现原理，以及 AI Agent 搭配 CUA Driver + ego lite 的实践。",
+    "source_root_domain": "dejavu.moe"
   },
   {
     "title": "带头休个假",
@@ -124,6 +173,13 @@
     "date": "2026-11-27T16:23:00Z",
     "description": "关联主题:: 同级:: 2026-11-27_星期五 下一级:: 写在开头：本思考无特指，无含沙射影，仅抽离出一个社会现象，进行总结思考。 具体场景指的是，A和B两个人进行沟通，但是A一直在过度「叙述自我」。 先说B的感受，也就是对方、倾听者的感受的变化： 1、先礼貌性回应。会点头、会“嗯”，会共情，理解，并发表对应看法。 2、接着感受到失落。对于自己的回应被打断，或A没有接住，反而A继续说自己，感受到自己被忽视（负反馈）。 3、抑制自我表达。 如果A讲的全是抱怨和痛苦，又会叠加“共情疲劳”，没力气共情你了。 有两个走向， 1）外部归因：问题是A造成的，ta自私，我要退出沟通； 2）内部归因：...",
     "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "AI 早报 2026-11-28：苹果全球下架 MiniMax 伴侣应用 Talkie：调查称 AI 角色向未成年人发色情信息",
+    "url": "https://www.jtxyh.com/daily/2026-11-28/",
+    "date": "2026-11-27T16:00:00Z",
+    "description": "2026-11-28 AI 早报，共 11 条动态。苹果 11 月 25 日把 MiniMax 的 AI 伴侣应用 Talkie 从全球 App Store 下架。印度电子信息技术部 11 月 26 日在新德里发布 Chariot-1 基础模型套件，由印度 AI 使命首批入选团队 Chariot AI 从零预训练。",
+    "source_root_domain": "jtxyh.com"
   },
   {
     "title": "出了点意外",

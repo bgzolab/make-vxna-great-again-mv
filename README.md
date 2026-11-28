@@ -27,6 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-28 | [esp32 cyd 简易手绘画板](https://dsx2016.com/esp32-cyd-simple-hand-drawn-pad/) | 简易画板 esp32 cyd 2.8寸比较小，画板顶部有工具栏 主要是调色和笔触大小还有触控校准等 只有三分之... esp32 cyd 简易手绘画板 最先出现在 大师兄2016 。 |
+| 2026-11-28 | [esp32 cyd wifi人体检测添加扫网和触控校准](https://dsx2016.com/esp32-cyd-wifi-human-detection-with-mesh-scanning-and-touch-calibration/) | 动态配网 第一版是把wifi写入到固件直接连接，这样不安全，也无法切换网络 所以加了扫描wifi和触控校准，因... esp32 cyd wifi人体检测添加扫网和触控校准 最先出现在 大师兄2016 。 |
+| 2026-11-28 | [今日世界、AI 与 IT 最热 30 条｜2026 年 11 月 28 日](https://gugegt.com/20261128-world-ai-it-daily-hot-30.html) | 每天 30 条，世界 10 条，IT 10 条，AI 10 条，按热度排。 |
+| 2026-11-28 | [Pensieve: 2611](https://xiaket.github.io/2026/pensieve-2611.html) | 所读所观所玩 |
+| 2026-11-28 | [Chris Sawyer's Locomotion updated](https://macsourceports.com/game/locomotion) | The build of OpenLoco for Chris Sawyer's Locomotion has been updated to version v26.11 of the project |
+| 2026-11-28 | [某 AI 生图网站无限薅羊毛 + 无水印生图](https://www.liesauer.net/blog/post/1052.html) | 进入平台后会自动访问临时账号创建接口，经过测试，`deviceId`可随机生成，无固定算法，`deviceId`和 IP 绑定，单个 IP 最多允许创建两个临时账号，多了会报`DEMOIPD... |
 | 2026-11-28 | [esp32 cyd wifi人体感应检测esppectre](https://dsx2016.com/esp32-cyd-wi-fi-human-motion-detection-with-esp-32s/) | wifi人体检测 有个项目esppectre，可以通过wifi识别人体移动 人体静止时无法准确识别，但是可以识... esp32 cyd wifi人体感应检测esppectre 最先出现在 大师兄2016 。 |
 | 2026-11-28 | [Dungeon Keeper updated](https://macsourceports.com/game/dungeonkeeper) | The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project |
 | 2026-11-28 | [Cannon Fodder updated](https://macsourceports.com/game/cannonfodder) | The build of OpenFodder for Cannon Fodder has been updated to version 2.0.0-20261128 of the project |
@@ -34,6 +40,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-28 | [Dune II updated](https://macsourceports.com/game/dune2) | The build of Dune II - The Maker for Dune II has been updated to version 0.8.5-20261128 of the project |
 | 2026-11-28 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
 | 2026-11-28 | [NOIP2026 赛后复盘](https://blog.mxdyeah.com/post/noip2026-saihoufupan) | 我估计没分😭，主要是一开始就去做第二题，第一题快结束才开始做。Chord#include using namespace std;typedef lon... |
+| 2026-11-28 | [AI 是如何操作电脑和浏览器的？](https://blog.dejavu.moe/posts/how-does-ai-operate-computers-and-browsers/) | 浅析 Computer Use 与 Browser Use 的实现原理，以及 AI Agent 搭配 CUA Driver + ego lite 的实践。 |
 | 2026-11-28 | [带头休个假](https://www.hecaitou.com/2026/11/someone-has-to-take-a-break-first.html) | 我打算给自己放个假。 过去这两三年，我的时间表比上班族还要满。从一大早起床一直到夜里 12 点，每个小时都有事情要做。每天更文这种事情，只是其中的一件而已。如此年复一年，周而复始。 所以我不大喜欢出门，因为这会破坏我一整天的节奏，回家之后还要抓紧时间补回进度。长期维持这样的状态，甚至让我进入了一种半… |
 | 2026-11-28 | [Flink Slots 与并行度关系梳理及生产扩容判断](https://199604.com/3769) | Flink Slots 与并行度关系梳理及生产扩容判断 记录时间：2026-11-28 环境：Flink 1. […] |
 | 2026-11-28 | [人们对 AI 的运用都快成假阳具插飞机杯了](https://mobius.blog/26309.html) | Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候，就可以分类整理成册。 […] |
@@ -45,6 +52,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-27 | [情绪稳定的本质就是无惧、无悔和接纳](https://blog.brmys.cn/f-112) | 关联主题:: 同级:: 2026-11-27_星期五 下一级:: 先说几组情绪， 1）面对【过去】是懊悔。我要是不xxx就好了； 2）面对【当下】是抱怨。 3）面对【未来】是恐惧。恐惧的是未来的不确定性，恐惧的是将要失去的。 1、说说无悔。 已经发生的事情是既定的客观事实。 懊悔本身没有任何意义，因… |
 | 2026-11-27 | [esp32 cyd 番茄钟添加圆环倒计时效果](https://dsx2016.com/esp32-cyd-tomato-clock-with-circular-countdown-timer/) | 圆环倒计时 番茄钟已去除ntfy模块，因为发送https请求和音频以及gif一起时，内存调度失败 cyd es... esp32 cyd 番茄钟添加圆环倒计时效果 最先出现在 大师兄2016 。 |
 | 2026-11-27 | [今天聊聊人际关系中的「单向沟通」](https://blog.brmys.cn/f-111) | 关联主题:: 同级:: 2026-11-27_星期五 下一级:: 写在开头：本思考无特指，无含沙射影，仅抽离出一个社会现象，进行总结思考。 具体场景指的是，A和B两个人进行沟通，但是A一直在过度「叙述自我」。 先说B的感受，也就是对方、倾听者的感受的变化： 1、先礼貌性回应。会点头、会“嗯”，会共情… |
+| 2026-11-27 | [AI 早报 2026-11-28：苹果全球下架 MiniMax 伴侣应用 Talkie：调查称 AI 角色向未成年人发色情信息](https://www.jtxyh.com/daily/2026-11-28/) | 2026-11-28 AI 早报，共 11 条动态。苹果 11 月 25 日把 MiniMax 的 AI 伴侣应用 Talkie 从全球 App Store 下架。印度电子信息技术部 11 月 26 日在新德里发布 Chariot-1 基础模型套件，由印度 AI 使命首批入选团队 Chariot A… |
 | 2026-11-27 | [出了点意外](https://hux.ink/posts/in-and-out-of-luoyang/) | 今天早上吃过早餐，八点半准时集合出发，打车前往龙门石窟。上车没多久，想起没带太阳镜，改了下目的地让司机师傅绕回酒店取眼镜，结果比大部队晚了十分钟到。 今天还有另一组队伍跟我们汇合一起游，是来自另外两个部门的同事。他们比我们早一天出发，先去了开封。我们提前请了一位导游小姐姐，沿途给我们讲解石窟的历史、… |
 | 2026-11-27 | [TIL: 在 Emacs 中用 dired 快速調整文件序號](https://taxodium.ink/quickly-renumber-files-in-dired-in-emacs.html) | TIL: 在 Emacs 中用 dired 快速調整文件序號 我經常下載專輯聽，有時一張專輯裡有幾十首歌，分在不同文件夾裡，我想把它們合併在一起，同時調整序號，使得它們排序正確。 例如我要把下面的序號全部加 13（因為前面已經有 13 首歌了）： -rw-r--r-- 1 spike staff 2… |
 | 2026-11-27 | [今日世界、AI 与 IT 最热 30 条｜2026 年 11 月 27 日](https://gugegt.com/20261127-world-ai-it-daily-hot-30.html) | 每天 30 条，世界 10 条，IT 10 条，AI 10 条，按热度排。 |
