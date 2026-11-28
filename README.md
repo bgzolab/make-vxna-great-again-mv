@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-28 | [Memos #2026-11-27](https://blog.itaober.com/memos/memo_20261127025318_im8sdy) | 10:53 给别人的礼物如果我自己都不喜欢，我是不会送的。 |
 | 2026-11-27 | [情绪稳定的本质就是无惧、无悔和接纳](https://blog.brmys.cn/f-112) | 关联主题:: 同级:: 2026-11-27_星期五 下一级:: 先说几组情绪， 1）面对【过去】是懊悔。我要是不xxx就好了； 2）面对【当下】是抱怨。 3）面对【未来】是恐惧。恐惧的是未来的不确定性，恐惧的是将要失去的。 1、说说无悔。 已经发生的事情是既定的客观事实。 懊悔本身没有任何意义，因… |
 | 2026-11-27 | [esp32 cyd 番茄钟添加圆环倒计时效果](https://dsx2016.com/esp32-cyd-tomato-clock-with-circular-countdown-timer/) | 圆环倒计时 番茄钟已去除ntfy模块，因为发送https请求和音频以及gif一起时，内存调度失败 cyd es... esp32 cyd 番茄钟添加圆环倒计时效果 最先出现在 大师兄2016 。 |
 | 2026-11-27 | [今天聊聊人际关系中的「单向沟通」](https://blog.brmys.cn/f-111) | 关联主题:: 同级:: 2026-11-27_星期五 下一级:: 写在开头：本思考无特指，无含沙射影，仅抽离出一个社会现象，进行总结思考。 具体场景指的是，A和B两个人进行沟通，但是A一直在过度「叙述自我」。 先说B的感受，也就是对方、倾听者的感受的变化： 1、先礼貌性回应。会点头、会“嗯”，会共情… |
@@ -62,6 +63,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-27 | [Ion Fury: Aftershock updated](https://macsourceports.com/game/ionfuryaftershock) | The build of EDuke32 for Ion Fury: Aftershock has been updated to the latest code of the project |
 | 2026-11-27 | [Ladybird Browser Launch Options](https://blog.est.im/2026/stdout-43) | ladybird 的全部启动参数。权威来源是它自己： Meta/ladybird.py run ladybird -- --help ARGSPARSEREMITMARKDOWN=1 Meta/ladybird.py run ladybird -- --help 标注 隐藏 的参数不进 --help… |
 | 2026-11-27 | [Ladybird Browser Keyboard Shortcuts](https://blog.est.im/2026/stdout-42) | Ladybird 浏览器快捷键 源码见下文各表后的"源码"行。 干什么 macOS Win / Linux 新建标签页 ⌘ + T Ctrl + T 关闭标签页 ⌘ + W Ctrl + W （另 Ctrl + F4 ） 重开刚关的标签页 ⌘ + ⇧ + T Ctrl + Shift + T 下一个… |
+| 2026-11-27 | [paseo 的插件系统真的好好用，比 D](https://versun.me/blog/tweet-2126207433651679567) | paseo 的插件系统真的好好用，比 DSH 还要好写，react-native 的框架，写一次就能在桌面端和移动端使用， 不敢想象竟然是一个人维护的，太牛批了 @moboudra |
 | 2026-11-27 | [阶段总结：应该用什么听音乐](https://www.hecaitou.com/2026/11/blog-post_27.html) | 家里能出声，能播放音乐的器材，我已经完整地折腾了一遍。我知道大多数读者对这个话题毫无兴趣，但我还是想写一篇阶段性总结，因为总有人需要，也总有人会搜到，那它就是有价值的。 首先，我们应该先明确在听音乐这件事上谁是朋友，谁是骗子。骗子太多了，话术太多了，说参数说听感，说得天上有地下无，但都是想骗人掏钱。… |
 | 2026-11-27 | [homelab: x86小主机安装pve设置win,ubuntu和homeassistant虚拟机](https://dsx2016.com/homelab-installing-pve-on-a-small-x86-pc-and-configuring-windows-ubuntu-and-home-assistant/) | pve 有一台闲置的小主机，二手没卖掉，8gb内存和250gb储存 win有点卡，打开浏览器简单浏览问题不大，... homelab: x86小主机安装pve设置win,ubuntu和homeassistant虚拟机 最先出现在 大师兄2016 。 |
 | 2026-11-27 | [Memos: 已严肃订阅日区哈基米](https://blog.yasking.org/a/1795751127) | 之前小号 Jio 会员不让用反重力，提示账号被禁，大概率跟我在 omp 中使用有关，这里也有讨论： Github #19303 黑色星期五来了之后，参考 … |
@@ -87,7 +89,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-26 | [esp32cam 车辆车牌识别](https://dsx2016.com/esp32-cam-vehicle-license-plate-recognition/) | 车牌识别 除了人脸识别，车牌识别使用场景很多 智慧停车，小区停车，停车场或者家门口 看看什么车什么时候停留或者... esp32cam 车辆车牌识别 最先出现在 大师兄2016 。 |
 | 2026-11-26 | [TIL: 漢字注音 - ㄏㄢˋㄗˋㄓㄨˋㄧㄣ](https://taxodium.ink/til-bopomofo.html) | TIL: 漢字注音 ㄏㄢˋㄗˋㄓㄨˋㄧㄣ 在逛一些部落格的時候，看到了一些看不明白的符號，例如在留言板的名稱上，會看到「你ㄉ大名」，這個「ㄉ」是什麼呢？憑感覺和上下文，它應該是「的」，讀音大概也是「de」，但它具體是什麼，怎麼讀呢？ 查一下不難知道，這是 注音符號 ，其實在一些字典和用 漢典 查字時… |
 | 2026-11-26 | [今日世界、AI 与 IT 最热 30 条｜2026 年 11 月 26 日](https://gugegt.com/20261126-world-ai-it-daily-hot-30.html) | 每天 30 条，世界 10 条，IT 10 条，AI 10 条，按热度排。 |
-| 2026-11-26 | [多 Agents：分工不是目的，解决问题才是目的](https://blog.lyric.im/p/division-is-not-the-purpose-solving-problems-is-the-purpose) | 好久没写新文章了。 之前本来打算写一系列开发 Agent 的文章，但这半年高强度地开发 Agent 并且把它用在真实场景以后，我发现，单纯地介绍如何开发 Agent 意义不太大了。 让 code agent 去看看开源 agent 或 harness 项目的代码，关注方案的变更和演进，要比看静态的文… |
+| 2026-11-26 | [多 Agents：分工不是目的，解决问题才是目的see](https://blog.lyric.im/p/division-is-not-the-purpose-solving-problems-is-the-purpose) | 本文纯手写，无 AI 添加 好久没写新文章了。 之前本来打算写一系列开发 Agent 的文章，但这半年高强度地开发 Agent 并且把它用在真实场景以后，我发现，单纯地介绍如何开发 Agent 意义不太大了。 让 code agent 去看看开源 agent 或 harness 项目的代码，关注方案… |
 | 2026-11-26 | [你知道的，雨风酒馆明天仍会开门](https://blog.mfwt.top/index.php/archives/1716/) | 大约是在一两个月之前吧，笔者到目前的学校就读专升本。某日晚上，在宿舍写博客的时候，正好碰上导员查寝，她看到我正在做的事情，问我这是什么。我说，这是我自己的博客。然后她问了这样的一个问题：『现在有... |
 | 2026-11-26 | [Dungeon Keeper updated](https://macsourceports.com/game/dungeonkeeper) | The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project |
 | 2026-11-26 | [esp32 cyd nvs存储 读写和容量](https://dsx2016.com/esp32-cyd-nvs-read-write-and-capacity/) | nvs 一般只有20kb左右，而且对单次写入字节和类型有限制 不适合存储图片等，只适合简单的字符写入，比如wi... esp32 cyd nvs存储 读写和容量 最先出现在 大师兄2016 。 |
@@ -250,23 +252,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-21 | [通灵卡片Psychic Paper](https://yuqiqin.me/) | 通灵卡片Psychic Paper 简介 欢迎来到我的 数字花园 ，这里是我分享工作、学习和生活的个人博客。 我给它取名为通灵卡片（ Psychic Paper ），这是来自英国国宝级科幻电视剧《神秘博士》中的一个小道具，它本身是一张空白的卡片，但是看着它的人会在卡片上看到使用者想让他们看到的内容。… |
 | 2026-11-21 | [2010，瓢虫工作室](https://www.tortorse.com/archives/ladybird-studio-2010/) | 2010，瓢虫工作室 |
 | 2026-11-21 | [2026年第47周](https://blog.sakoamc.com/posts/2647/) | 题记：二零二六年第四十七周，下周出差一周，应该是看银杏的好时候。 |
-| 2026-11-20 | [Lean 证明意味着什么——黎曼猜想证明闲谈](https://blog.est.im/2026/stdin-21) | 很早之前看过 Kevin Buzzard 老爷子的讲座。他来自🇬🇧 帝国理工学院，多年前就是 Lean 社区的核心了。他发起了 Xena Project，带领一群本科生把大学及以下数学知识中的定义、定理和证明逐步翻译成计算机能够理解和验证的形式。这个项目也成为 Lean 数学库 Mathlib 发展… |
-| 2026-11-20 | [AI 早报 2026-11-21：Dragos 用近 200 万条测试提示词追踪 AI 服务数据流向，发现至少三家存在暴露迹象](https://www.jtxyh.com/daily/2026-11-21/) | 2026-11-21 AI 早报，共 13 条动态。安全公司 Dragos 11 月 19 日公布一项从 7 月持续至 11 月的研究。麻省理工学院数学家 Andrew Sutherland 在 11 月 21 日的更新中说，他把 Levent Alpöge 提交的 Lean 证明与独立项目 Rob… |
-| 2026-11-20 | [AI Infra：Intelligence Runtime 的定义与创新边界](https://luweiqing.com/gossip/AI-Infra-Intelligence-Runtime.html) | 过去几年，Agent Runtime 让智能体从演示走向工程。它解决了许多具体问题：模型怎么调、上下文怎么带、工具怎么接、状态怎么存、失败怎么恢复。可当这些能力被逐一补齐，一个新的问题浮出水面：... |
-| 2026-11-20 | [Keeping SSH Keys Secure](https://www.geedea.pro/en/article/key-management/) | SSH keys are very widely used, for signing git commits, signing software distribution, authenticating with a remote server and age also supports encry… |
-| 2026-11-20 | [不是，是有人在推荐我的 RSSBox 吗](https://versun.me/blog/tweet-2123724561191448993) | 不是，是有人在推荐我的 RSSBox 吗？ 都快一年没人提 issue 和 pr 了，我最近都准备 archive 了， 然后这几天隔三差五的来几个 issue 和 pr 🤣🤣 问题是我自己都不用了呀😂 https://github.com/versun/RSSBox |
-| 2026-11-20 | [Hexen II updated](https://macsourceports.com/game/hexen2) | The build of uHexen2 (Hammer of Thyrion) for Hexen II has been updated to the latest code of the project |
-| 2026-11-20 | [Gecko 录屏音画同步测试设计](https://liudon.com/posts/gecko-recording-av-sync/) | 在录屏自动化测试中增加音画同步检查：设计可配对的画面与声音标记，从成品测量偏移与漂移，再通过基线校准冻结阈值并接入自动判定。 |
-| 2026-11-20 | [哈萨克斯坦电子居民：49 美元线上拿 IIN，再开一张多币种卡](https://gugegt.com/20261120-kazakhstan-eresidency-freedom-bank.html) | 这篇是转述。James 在 11 月 20 日发在 X 上的一条帖子，讲哈萨克斯坦 eResidency 电子居民项目怎么线上办。全文我按自己的话重新写过，步骤、费用、链接一个没少，原文链接在文末。 |
-| 2026-11-20 | [做个好叔叔是容易的](https://www.hecaitou.com/2026/11/being-a-good-uncle-is-easy.html) | 这两年我的新职业是当叔叔，有时候也当舅舅，一切取决于朋友的性别。个人感觉这两份工很容易，同时打都没什么压力。 压力在父母那一边。和任何人朝夕相处都是困难的，更不用说在朝夕相处中要负责教育和管理，这就很容易招致小孩子的反感和愤恨。再有一层，就是父母-子女关系天然就有位阶差异，身处下位的小朋友总是能感到… |
-| 2026-11-20 | [戒烟](https://www.kawabangga.com/posts/7464) | Continue reading... |
-| 2026-11-20 | [Nginx升级1.31.9后sticky指令报错的排查](https://199604.com/3758) | Nginx升级1.31.9后sticky指令报错的排查 记录时间：2026-11-20 环境：主机 nginx […] |
-| 2026-11-20 | [今天你骂 AI 味博客了吗？](https://blog.solazy.me/20261120/) | 今天讨论一个近期热象 |
-| 2026-11-20 | [理中客之死 II](https://mobius.blog/26219.html) | 在开始今天的话题之前，可以先聊一个问题：写作是否应该允许AI参与？这个问题的背后，最应该讨论的是什么？AI参与 […] |
-| 2026-11-20 | [为什么中转站的 API 这么便宜](https://depp.wang/2026/ai-api-relay/) | 有些 AI 中转站提供的 API，价格比官方 API 便宜很多。同样是使用 GPT 模型，中转站的价格为什么能低这么多？我算了一下官方订阅的额度，发现如果能把额度用完，成本确实可以很低。 现在很多 Codex 中转站，都是把官方订阅额度转换成 API 来卖。官方订阅每个月付固定费用，账号在每个周期内… |
-| 2026-11-20 | [AI 给的答案，你敢信吗？](https://www.linggandianbo.com/newsletter-140/) | 从 AI 时代的写作、判断力和自学，到新的知识单位与拉马克｜灵感电波 #140 |
-| 2026-11-20 | [科技爱好者周刊（第 420 期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 新建成的上海道教学院，由清华大学建筑设计研究院设计。（ via ） 最分心的一年 法国开发者 亚历杭德罗… |
-| 2026-11-20 | [2026 黑五 RackNerd VPS 活动又来了](https://razeen.me/posts/racknerd-black-friday-2026-vps-deals/) | 整理了 RackNerd 2026 黑五 5 款 KVM VPS 促销套餐的配置与价格，并附上机房选择、Looking Glass 测速、LowEndTalk 留言申请流量翻倍、支付续费及更换 IP 等下单前注意事项。 |
 
 ## Vibe Coding
 
