@@ -27,6 +27,20 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-28 | [esp32 cyd wifi人体感应检测esppectre](https://dsx2016.com/esp32-cyd-wi-fi-human-motion-detection-with-esp-32s/) | wifi人体检测 有个项目esppectre，可以通过wifi识别人体移动 人体静止时无法准确识别，但是可以识... esp32 cyd wifi人体感应检测esppectre 最先出现在 大师兄2016 。 |
+| 2026-11-28 | [Dungeon Keeper updated](https://macsourceports.com/game/dungeonkeeper) | The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project |
+| 2026-11-28 | [Cannon Fodder updated](https://macsourceports.com/game/cannonfodder) | The build of OpenFodder for Cannon Fodder has been updated to version 2.0.0-20261128 of the project |
+| 2026-11-28 | [Cannon Fodder 2 updated](https://macsourceports.com/game/cannonfodder2) | The build of OpenFodder for Cannon Fodder 2 has been updated to version 2.0.0-20261128 of the project |
+| 2026-11-28 | [Dune II updated](https://macsourceports.com/game/dune2) | The build of Dune II - The Maker for Dune II has been updated to version 0.8.5-20261128 of the project |
+| 2026-11-28 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
+| 2026-11-28 | [NOIP2026 赛后复盘](https://blog.mxdyeah.com/post/noip2026-saihoufupan) | 我估计没分😭，主要是一开始就去做第二题，第一题快结束才开始做。Chord#include using namespace std;typedef lon... |
+| 2026-11-28 | [带头休个假](https://www.hecaitou.com/2026/11/someone-has-to-take-a-break-first.html) | 我打算给自己放个假。 过去这两三年，我的时间表比上班族还要满。从一大早起床一直到夜里 12 点，每个小时都有事情要做。每天更文这种事情，只是其中的一件而已。如此年复一年，周而复始。 所以我不大喜欢出门，因为这会破坏我一整天的节奏，回家之后还要抓紧时间补回进度。长期维持这样的状态，甚至让我进入了一种半… |
+| 2026-11-28 | [Flink Slots 与并行度关系梳理及生产扩容判断](https://199604.com/3769) | Flink Slots 与并行度关系梳理及生产扩容判断 记录时间：2026-11-28 环境：Flink 1. […] |
+| 2026-11-28 | [人们对 AI 的运用都快成假阳具插飞机杯了](https://mobius.blog/26309.html) | Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候，就可以分类整理成册。 […] |
+| 2026-11-28 | [你是在使用 AI，还是在向 AI 许愿？](https://www.tortorse.com/archives/using-ai-or-making-wishes/) | 当 AI 成为一盏许愿神灯 |
+| 2026-11-28 | [藏在《卧虎藏龙》里的宗师圆融境界](https://luweiqing.com/gossip/The-Master-s-Circle-of-Unity-Hidden-in-The-Tiger-Sleeps-and-Hides-the-Dragon.html) | 偶尔看到《卧虎藏龙》的cut，最深的感受是：这部电影披着武侠的皮，内核全在讲一个人如何处理自己、天地与他人的关系，也就是王家卫在《一代宗师》里借用的那句老话——“见自己、见天地、见众生”。很多人... |
+| 2026-11-28 | [esp32 cyd 3.5板载rgb led设置多色和呼吸灯](https://dsx2016.com/esp32-cyd-3-5-board-setting-rgb-led-to-multi-color-and-breathing-modes/) | led多色 之前有一个rgb led外置模块，好像只能三色，以至于也以为cyd的板载led也只能三色，红绿蓝 ... esp32 cyd 3.5板载rgb led设置多色和呼吸灯 最先出现在 大师兄2016 。 |
+| 2026-11-28 | [esp32 cyd 3.5板载led rgb灯](https://dsx2016.com/esp32-cyd-3-5-pcb-with-onboard-rgb-led/) | rgb led esp32 cyd 2.8寸的rgb led灯在它的后面，而我需要的是屏幕前面 后来才发现es... esp32 cyd 3.5板载led rgb灯 最先出现在 大师兄2016 。 |
 | 2026-11-28 | [Memos #2026-11-27](https://blog.itaober.com/memos/memo_20261127025318_im8sdy) | 10:53 给别人的礼物如果我自己都不喜欢，我是不会送的。 |
 | 2026-11-27 | [情绪稳定的本质就是无惧、无悔和接纳](https://blog.brmys.cn/f-112) | 关联主题:: 同级:: 2026-11-27_星期五 下一级:: 先说几组情绪， 1）面对【过去】是懊悔。我要是不xxx就好了； 2）面对【当下】是抱怨。 3）面对【未来】是恐惧。恐惧的是未来的不确定性，恐惧的是将要失去的。 1、说说无悔。 已经发生的事情是既定的客观事实。 懊悔本身没有任何意义，因… |
 | 2026-11-27 | [esp32 cyd 番茄钟添加圆环倒计时效果](https://dsx2016.com/esp32-cyd-tomato-clock-with-circular-countdown-timer/) | 圆环倒计时 番茄钟已去除ntfy模块，因为发送https请求和音频以及gif一起时，内存调度失败 cyd es... esp32 cyd 番茄钟添加圆环倒计时效果 最先出现在 大师兄2016 。 |
@@ -57,7 +71,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-27 | [Memos: 购买了中兴 G5TS Pro 5G 路由器](https://blog.yasking.org/a/1795779008) | 出租房没办有线宽带，最近想联网的设备变多，用手机开热点还蛮麻烦的，然后翻出来两年前在闲鱼 53 元购入了烽火 LG522 4G … |
 | 2026-11-27 | [Memos: 哈基米 Neon 4 的可用性很高！](https://blog.yasking.org/a/1795768775) | 最近做了一个 Skills，用来辅助我评审需求，然后我发现基于 Skills 设计的方案反而跟需求偏离的更远了（负价值），于是我让不同的 … |
 | 2026-11-27 | [不知道什么时候开始，我失去了码字的动力](https://sigge.cn/2026/11/27/j3S9nEOi) | 在不管有没有搭博客或者选择是否在博客更新文章的时候，就已经有过一个计划就是每周最少写一篇文章，把自己遇到的事或者一些想法记录下来，就这样一个很简单的想法却总是坚持不下来。 不是没有自己想要写作的选题，也不是没有关于这个选题的想法，就是每次打开手机的时候 ，写一半就会放弃。 打开自己搭建的Obsidi |
-| 2026-11-27 | [Dune II updated](https://macsourceports.com/game/dune2) | The build of Dune II - The Maker for Dune II has been updated to version 0.8.5-20261127 of the project |
 | 2026-11-27 | [Duke Nukem 3D updated](https://macsourceports.com/game/duke3d) | The build of EDuke32 for Duke Nukem 3D has been updated to the latest code of the project |
 | 2026-11-27 | [Ion Fury updated](https://macsourceports.com/game/ionfury) | The build of EDuke32 for Ion Fury has been updated to the latest code of the project |
 | 2026-11-27 | [Ion Fury: Aftershock updated](https://macsourceports.com/game/ionfuryaftershock) | The build of EDuke32 for Ion Fury: Aftershock has been updated to the latest code of the project |
@@ -78,7 +91,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-26 | [学习周刊-总第291期-2026年第48周](https://wiki.eryajf.net/pages/fe434c/) | 如要阅读全文，点击标题跳转。 学习周刊-总第291期 ｜ nativ ｜ TokenHub ｜ opencodex ｜ StaffDeck ｜ CLI-Manager ｜ ricoui-design-md ｜ go-drive ｜ storageui |
 | 2026-11-26 | [New Release: Magic Carpet 2: The Netherworlds](https://macsourceports.com/game/magiccarpet2) | Magic Carpet 2: The Netherworlds is a game where you play as a wizard who flies on a magic carpet. There's goals to do in the game and there's combat… |
 | 2026-11-26 | [esp32cam 水表电表气表识别](https://dsx2016.com/esp32-cam-for-recognizing-water-electricity-and-gas-meters/) | 电表水表 现在很多数据都已经数字化，但是还有一些需要从物理表盘读取，比如水表，电表，天然气表 如果表有异常，比... esp32cam 水表电表气表识别 最先出现在 大师兄2016 。 |
-| 2026-11-26 | [AI 早报 2026-11-27：美团预计 2027 年 AI 资本开支低于 2026 年](https://www.jtxyh.com/daily/2026-11-27/) | 2026-11-27 AI 早报，共 16 条动态。美团首席执行官王兴在 11 月 27 日的三季度业绩电话会上说，公司预计 2027 年的 AI 相关资本开支低于 2026 年。东京电力控股计划到 2035 财年累计投入 10.2 万亿日元（约 660 亿美元）扩建面向 AI 数据中心的电力基础设… |
+| 2026-11-26 | [AI 早报 2026-11-27：美团预计 2027 年 AI 资本开支低于 2026 年](https://www.jtxyh.com/daily/2026-11-27/) | 2026-11-27 AI 早报，共 16 条动态。美团首席执行官王兴在 11 月 27 日的三季度业绩电话会上说，公司预计 2027 年的 AI 相关资本开支低于 2026 年。蚂蚁灵波发布了 LingBot-Navi 的推理代码和模型权重。美团在 11 月 27 日发布的三季度业绩新闻稿中披露，… |
 | 2026-11-26 | [从T3 code和黄仁勋的事，聊聊Asian的种族歧视](https://eduardoqian.com/archives/cong-t3-codehe-huang-ren-xun-de-shi-liao-liao-asiande-zhong-zu-qi-shi) | 最近X上两个比较热门的事件，都与亚裔有关。分别是黄仁勋出轨，离开英伟达又回去的事。还有就是T3 code被发现遥测的事。 黄仁勋的事情在这里就不赘述了，几乎人尽皆知。而T3 code的事，可能有些人不知道，我简单复述一下，时间线整理也是来源于X上： |
 | 2026-11-26 | [从古墓到古城](https://hux.ink/posts/travel-to-luoyang/) | 依计划来洛阳团建旅行。昨晚十一点多抵达洛阳，第一次踏上中原大地，足迹地图上又点亮了一个省份。 洛阳行的行程大致是：第一天上午参观洛阳古墓博物馆，下午在隋唐洛阳城自由 city walk；第二天去龙门石窟，第三天去老君山，第四天自由安排，晚上搭乘航班返回深圳。 今天天气晴朗，昼夜温差有点大。早上只有六… |
 | 2026-11-26 | [New Release: Tomb Raider II](https://macsourceports.com/game/tombraider2) | Tomb Raider II is the sequel to the original game that came out during that golden age of 90's gaming where a sequel could be released a year later. Y… |
@@ -91,7 +104,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-26 | [今日世界、AI 与 IT 最热 30 条｜2026 年 11 月 26 日](https://gugegt.com/20261126-world-ai-it-daily-hot-30.html) | 每天 30 条，世界 10 条，IT 10 条，AI 10 条，按热度排。 |
 | 2026-11-26 | [多 Agents：分工不是目的，解决问题才是目的see](https://blog.lyric.im/p/division-is-not-the-purpose-solving-problems-is-the-purpose) | 本文纯手写，无 AI 添加 好久没写新文章了。 之前本来打算写一系列开发 Agent 的文章，但这半年高强度地开发 Agent 并且把它用在真实场景以后，我发现，单纯地介绍如何开发 Agent 意义不太大了。 让 code agent 去看看开源 agent 或 harness 项目的代码，关注方案… |
 | 2026-11-26 | [你知道的，雨风酒馆明天仍会开门](https://blog.mfwt.top/index.php/archives/1716/) | 大约是在一两个月之前吧，笔者到目前的学校就读专升本。某日晚上，在宿舍写博客的时候，正好碰上导员查寝，她看到我正在做的事情，问我这是什么。我说，这是我自己的博客。然后她问了这样的一个问题：『现在有... |
-| 2026-11-26 | [Dungeon Keeper updated](https://macsourceports.com/game/dungeonkeeper) | The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project |
 | 2026-11-26 | [esp32 cyd nvs存储 读写和容量](https://dsx2016.com/esp32-cyd-nvs-read-write-and-capacity/) | nvs 一般只有20kb左右，而且对单次写入字节和类型有限制 不适合存储图片等，只适合简单的字符写入，比如wi... esp32 cyd nvs存储 读写和容量 最先出现在 大师兄2016 。 |
 | 2026-11-26 | [谷歌站长seo:自动化提交网页索引蜘蛛](https://dsx2016.com/google-search-console-automated-sitemap-submission-to-web-crawlers-2/) | 自动化提交 bing搜索引擎，bing站长可使用api的方式提交新发布的网页 通知搜索引擎快速查看和索引 因为... 谷歌站长seo:自动化提交网页索引蜘蛛 最先出现在 大师兄2016 。 |
 | 2026-11-26 | [需求雷达做了 48 天，聊聊数据和我接下来想做的事](https://koukyo.site/posts/reddit-radar-48-days/) | 需求雷达上线 48 天，五十来个人订阅了日报。来的人平均会认真看 1 分多钟，但之后回来的人不多。我在想，一个人看到需求之后，到底还要拿到多少证据，才会真的开始做。 |
@@ -114,8 +126,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-25 | [快，告诉我我想要什么！](https://www.geedea.pro/article/tell-me-what-i-want/) | Last.fm 不久前 宣布 API Key 需要 Pro 订阅，为了防止滥用，尽管他们说这只需要 Scrobbler 开发者有 Pro 订阅，而且他们也在积极和一些开发者联系，给他们免费提供 API Key。不过无论怎么说，社区都很不满。就算为了防止爬虫，上传 Scrobble 的 API 也总可… |
 | 2026-11-25 | [esp32cam 火灾识别](https://dsx2016.com/esp32-cam-fire-detection/) | 火灾识别 对于安防来说，第一是人脸识别，第二是火灾识别 常见的有，电脑起火，抽烟起火，充电线起火，天然气泄露起... esp32cam 火灾识别 最先出现在 大师兄2016 。 |
 | 2026-11-25 | [esp32cam 人脸识别](https://dsx2016.com/esp32-cam-face-recognition/) | 人脸识别 使用频率最多的就是人脸识别 使用ld2410毫米微波人体检测传感器检测到人体移动后，就触发人脸拍照，... esp32cam 人脸识别 最先出现在 大师兄2016 。 |
-| 2026-11-25 | [New Release: Cannon Fodder](https://macsourceports.com/game/cannonfodder) | Cannon Fodder is a game where you guide up to six soldiers through a series of levels. Originally made for the Amiga (and it shows), it is a mix of sa… |
-| 2026-11-25 | [New Release: Cannon Fodder 2](https://macsourceports.com/game/cannonfodder2) | Cannon Fodder 2 is more Cannon Fodder . The levels are more difficult but otherwise it's basically just more levels. Critics at the time complained th… |
 | 2026-11-25 | [esp32cam 猫喝水检测和拍照](https://dsx2016.com/esp32-cam-cat-water-detection-and-photography/) | 猫喝水 设置传感器检测，只要检测到物体靠近，就esp32cam拍照 比如猫的水盆周围放传感器，这样就可以拍到猫... esp32cam 猫喝水检测和拍照 最先出现在 大师兄2016 。 |
 | 2026-11-25 | [今日 AI 与 IT 最热 20 条｜2026 年 11 月 25 日](https://gugegt.com/20261125-ai-it-daily-hot-20.html) | 每天 20 条，AI 10 条，IT 10 条，按热度排。 |
 | 2026-11-25 | [一个随时启动的日志收集工具](https://imba97.com/post/821) | 日志埋点上报一直存在一个矛盾，一边是 99% 的日志上报毫无作用，一边又害怕埋点不够细致，真出现问题无法复现完整链路 这个工具一定程度上可以缓解这个问题，把重要的日志如支付、订单留给像 SLS、观测云这种付费厂商，繁杂而全面的日志对接则交给 flash-debug flash-debug 是一个基于… |
@@ -155,7 +165,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-24 | [连赢 12 天后一把亏光：Al Brooks 交易室社区的一场真实复盘](https://blog.forecho.com/why-winning-streaks-lead-to-blowups.html) | 引言 学价格行为学（Price Action）的人，大概都踩过或者怕踩同一个坑： 连赢了一两周，顺手得不行，结果某一天突然大亏，紧接着上头想翻本，一把把前面赚的吐光，甚至直接爆仓。 今天在 Al Brooks 交易室的 Discord 群里，刚好撞见一场特别真实的现场复盘。一位群友连着 12 天没亏… |
 | 2026-11-24 | [Descent updated](https://macsourceports.com/game/descent) | The build of DXX-Rebirth (D1X-Rebirth) for Descent has been updated to the latest code of the project |
 | 2026-11-24 | [Descent II updated](https://macsourceports.com/game/descent2) | The build of DXX-Rebirth (D2X-Rebirth) for Descent II has been updated to the latest code of the project |
-| 2026-11-24 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
 | 2026-11-24 | [Energy Reasoner for Looped Model：EBR 与 CRAM](https://mer.dev/posts/energy-reasoner-for-looped-modelebr-%E4%B8%8E-cram/) | 十一月上旬前后脚出来两篇做 Energy Reasoning 的文章，感觉有点意思。 |
 | 2026-11-24 | [黄仁勋离开英伟达 11 天又回来了：完整时间线](https://gugegt.com/20261124-jensen-huang-nvidia-return.html) | 11 月 12 日，黄仁勋辞去了英伟达总裁、首席执行官和董事会董事职务，立即生效。11 月 23 日，英伟达董事会全票通过，恢复他的全部职务，立即生效。做了 33 年 CEO，第一次离开，11 天就回来了。 |
 | 2026-11-24 | [esp32 cyd 油管粉丝计数 设置wwb网页设置频道id](https://dsx2016.com/esp32-cyd-oil-tank-fan-count-web-panel-settings-configure-channel-id/) | 频道id cyd esp32可以设置手写键盘lvfl 但是频道id是一串英文数字还有大小写的字符，用键盘触控一... esp32 cyd 油管粉丝计数 设置wwb网页设置频道id 最先出现在 大师兄2016 。 |

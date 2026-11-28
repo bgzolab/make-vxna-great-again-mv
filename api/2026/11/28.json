@@ -1,5 +1,103 @@
 [
   {
+    "title": "esp32 cyd wifi人体感应检测esppectre",
+    "url": "https://dsx2016.com/esp32-cyd-wi-fi-human-motion-detection-with-esp-32s/",
+    "date": "2026-11-28T09:32:32Z",
+    "description": "wifi人体检测 有个项目esppectre，可以通过wifi识别人体移动 人体静止时无法准确识别，但是可以识... esp32 cyd wifi人体感应检测esppectre 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "Dungeon Keeper updated",
+    "url": "https://macsourceports.com/game/dungeonkeeper",
+    "date": "2026-11-28T09:13:08Z",
+    "description": "The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Cannon Fodder updated",
+    "url": "https://macsourceports.com/game/cannonfodder",
+    "date": "2026-11-28T09:10:08Z",
+    "description": "The build of OpenFodder for Cannon Fodder has been updated to version 2.0.0-20261128 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Cannon Fodder 2 updated",
+    "url": "https://macsourceports.com/game/cannonfodder2",
+    "date": "2026-11-28T09:10:08Z",
+    "description": "The build of OpenFodder for Cannon Fodder 2 has been updated to version 2.0.0-20261128 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Dune II updated",
+    "url": "https://macsourceports.com/game/dune2",
+    "date": "2026-11-28T09:06:21Z",
+    "description": "The build of Dune II - The Maker for Dune II has been updated to version 0.8.5-20261128 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Xash3D FWGS updated",
+    "url": "https://macsourceports.com/sourceport/xash3d-fwgs",
+    "date": "2026-11-28T09:04:51Z",
+    "description": "The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\\n\\nhttps://macsourceports.com/sourceport/xash3d-fwgs\\n\\n#macgaming #retrogaming #macOS #xash3d-fwgs #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "NOIP2026 赛后复盘",
+    "url": "https://blog.mxdyeah.com/post/noip2026-saihoufupan",
+    "date": "2026-11-28T06:17:00Z",
+    "description": "我估计没分😭，主要是一开始就去做第二题，第一题快结束才开始做。Chord#include using namespace std;typedef lon...",
+    "source_root_domain": "mxdyeah.com"
+  },
+  {
+    "title": "带头休个假",
+    "url": "https://www.hecaitou.com/2026/11/someone-has-to-take-a-break-first.html",
+    "date": "2026-11-28T04:34:11Z",
+    "description": "我打算给自己放个假。 过去这两三年，我的时间表比上班族还要满。从一大早起床一直到夜里 12 点，每个小时都有事情要做。每天更文这种事情，只是其中的一件而已。如此年复一年，周而复始。 所以我不大喜欢出门，因为这会破坏我一整天的节奏，回家之后还要抓紧时间补回进度。长期维持这样的状态，甚至让我进入了一种半自动状态。有时候喝完酒回家，进门之后意识都已经开始模糊，但是没关系，我的身体还是会按照原先的时间表把事情一件件依次执行完毕。第二天醒来，人一定在床上，脸上一定戴着呼吸机面罩，手机和手表肯定已经在一边充好了电。 最近我才意识到不对头。这一整套从早到晚精密运转的生活，我栖息其中，不大像是在生活，更像是维持一个仪式。我的意思是说，仪式的运转其实不需要心，需要熟练到下意识执行就好。而这套仪式在某种程度上，又变成了自我的装饰，或者说是套子： 啊，我就是那样一个人；啊，我就是过着那样一种生活。您具体哪样呢？和你们不一样---这就是一种很狡诈的，精心伪装出来的自大和自恋。 几年前当我决定日更的时候，初心只是想给自己找点什么事做，恢复我日常生活的秩序。但谁能想到，每过一段时间，我就在每天的生活里塞进去一些固",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Flink Slots 与并行度关系梳理及生产扩容判断",
+    "url": "https://199604.com/3769",
+    "date": "2026-11-28T03:39:25Z",
+    "description": "Flink Slots 与并行度关系梳理及生产扩容判断 记录时间：2026-11-28 环境：Flink 1. […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "人们对 AI 的运用都快成假阳具插飞机杯了",
+    "url": "https://mobius.blog/26309.html",
+    "date": "2026-11-28T03:08:03Z",
+    "description": "Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候，就可以分类整理成册。 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "你是在使用 AI，还是在向 AI 许愿？",
+    "url": "https://www.tortorse.com/archives/using-ai-or-making-wishes/",
+    "date": "2026-11-28T02:51:48Z",
+    "description": "当 AI 成为一盏许愿神灯",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "藏在《卧虎藏龙》里的宗师圆融境界",
+    "url": "https://luweiqing.com/gossip/The-Master-s-Circle-of-Unity-Hidden-in-The-Tiger-Sleeps-and-Hides-the-Dragon.html",
+    "date": "2026-11-28T02:51:44Z",
+    "description": "偶尔看到《卧虎藏龙》的cut，最深的感受是：这部电影披着武侠的皮，内核全在讲一个人如何处理自己、天地与他人的关系，也就是王家卫在《一代宗师》里借用的那句老话——“见自己、见天地、见众生”。很多人...",
+    "source_root_domain": "luweiqing.com"
+  },
+  {
+    "title": "esp32 cyd 3.5板载rgb led设置多色和呼吸灯",
+    "url": "https://dsx2016.com/esp32-cyd-3-5-board-setting-rgb-led-to-multi-color-and-breathing-modes/",
+    "date": "2026-11-28T02:21:03Z",
+    "description": "led多色 之前有一个rgb led外置模块，好像只能三色，以至于也以为cyd的板载led也只能三色，红绿蓝 ... esp32 cyd 3.5板载rgb led设置多色和呼吸灯 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "esp32 cyd 3.5板载led rgb灯",
+    "url": "https://dsx2016.com/esp32-cyd-3-5-pcb-with-onboard-rgb-led/",
+    "date": "2026-11-28T01:24:23Z",
+    "description": "rgb led esp32 cyd 2.8寸的rgb led灯在它的后面，而我需要的是屏幕前面 后来才发现es... esp32 cyd 3.5板载led rgb灯 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
     "title": "Memos #2026-11-27",
     "url": "https://blog.itaober.com/memos/memo_20261127025318_im8sdy",
     "date": "2026-11-28T00:00:00Z",
@@ -210,13 +308,6 @@
     "source_root_domain": "sigge.cn"
   },
   {
-    "title": "Dune II updated",
-    "url": "https://macsourceports.com/game/dune2",
-    "date": "2026-11-27T09:10:38Z",
-    "description": "The build of Dune II - The Maker for Dune II has been updated to version 0.8.5-20261127 of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
     "title": "Duke Nukem 3D updated",
     "url": "https://macsourceports.com/game/duke3d",
     "date": "2026-11-27T09:06:32Z",
@@ -360,7 +451,7 @@
     "title": "AI 早报 2026-11-27：美团预计 2027 年 AI 资本开支低于 2026 年",
     "url": "https://www.jtxyh.com/daily/2026-11-27/",
     "date": "2026-11-26T16:00:00Z",
-    "description": "2026-11-27 AI 早报，共 16 条动态。美团首席执行官王兴在 11 月 27 日的三季度业绩电话会上说，公司预计 2027 年的 AI 相关资本开支低于 2026 年。东京电力控股计划到 2035 财年累计投入 10.2 万亿日元（约 660 亿美元）扩建面向 AI 数据中心的电力基础设施，其中 4.9…",
+    "description": "2026-11-27 AI 早报，共 16 条动态。美团首席执行官王兴在 11 月 27 日的三季度业绩电话会上说，公司预计 2027 年的 AI 相关资本开支低于 2026 年。蚂蚁灵波发布了 LingBot-Navi 的推理代码和模型权重。美团在 11 月 27 日发布的三季度业绩新闻稿中披露，面向商家的 AI…",
     "source_root_domain": "jtxyh.com"
   },
   {
@@ -446,13 +537,6 @@
     "date": "2026-11-26T10:59:00Z",
     "description": "大约是在一两个月之前吧，笔者到目前的学校就读专升本。某日晚上，在宿舍写博客的时候，正好碰上导员查寝，她看到我正在做的事情，问我这是什么。我说，这是我自己的博客。然后她问了这样的一个问题：『现在有...",
     "source_root_domain": "mfwt.top"
-  },
-  {
-    "title": "Dungeon Keeper updated",
-    "url": "https://macsourceports.com/game/dungeonkeeper",
-    "date": "2026-11-26T09:09:30Z",
-    "description": "The build of KeeperFX for Dungeon Keeper has been updated to the latest code of the project",
-    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "esp32 cyd nvs存储 读写和容量",
